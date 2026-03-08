@@ -12,7 +12,9 @@ A mobile-first trust scoring system that analyzes Solana wallet history to gener
 
 ## Live Demo
 
-<!-- TODO: Add Vercel URL after deployment -->
+**[trusttap.vercel.app](https://trusttap.vercel.app)**
+
+Tap "Connect Wallet" to auto-connect with a demo wallet and explore the full app. No setup needed.
 
 ## Demo Video
 
@@ -74,14 +76,16 @@ Only Saga Genesis Token holders can access the full platform. This creates a tru
 
 ## Testing the App
 
-The app ships with 10 pre-computed demo wallets spanning all trust tiers. No real wallet or Seeker device needed to explore every feature.
+The live demo at [trusttap.vercel.app](https://trusttap.vercel.app) runs in **demo mode**. Tapping "Connect Wallet" auto-connects with a pre-computed demo wallet. No Seeker device, no real wallet, no extensions needed. All 10 demo wallets are available via Search.
+
+In production on a real Seeker device, removing the `DEMO_MODE` env var switches to **live mode**: "Connect Wallet" opens the Solana Mobile Wallet Adapter (MWA), connects to the user's real wallet, checks for SGT ownership, and computes a live trust score from on-chain data. Same code, same features, just different data source.
 
 ---
 
 ### Part 1: View a trust profile
 
-1. Open the live demo URL
-2. The app connects with a demo wallet automatically in demo mode
+1. Open [trusttap.vercel.app](https://trusttap.vercel.app)
+2. Tap "Connect Wallet" to auto-connect with a demo wallet
 3. Navigate to **Profile** in the bottom nav
 4. The profile page shows the wallet's trust score dial (0-100), tier badge, 8-dimension score breakdown, AI-generated trust summary, and meeting history
 
@@ -146,13 +150,15 @@ In demo mode, meeting records are stored in-memory and persist for the session.
 
 ---
 
-### With a real Solana wallet (on Seeker)
+### Production mode (on Seeker)
 
-1. Open the app on a Solana Seeker device
-2. Tap "Connect Wallet" to authorize via Mobile Wallet Adapter
-3. The app checks for SGT ownership in your wallet
-4. If SGT is found, the app fetches your on-chain history from Helius and computes your live trust score
-5. All features work the same as demo mode, but with real data from your actual wallet
+When deployed without `DEMO_MODE`, the app runs in live mode:
+
+1. Open the app on a Solana Seeker device (or any browser with Phantom/Solflare installed)
+2. Tap "Connect Wallet" to authorize via Mobile Wallet Adapter (MWA on Android) or wallet extension (desktop)
+3. The app queries your token accounts for the Saga Genesis Token
+4. If SGT is found, Helius fetches your full on-chain history and the scoring engine computes your live trust score
+5. All features work identically to demo mode, but with real wallet data
 
 ---
 
