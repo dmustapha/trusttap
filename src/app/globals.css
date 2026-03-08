@@ -1,0 +1,373 @@
+@import "tailwindcss";
+
+/* ================================================================
+   TrustTap+ Design System — Swiss Ink / Vault Parchment Hybrid
+   Warm editorial serif theme with emerald accents — NO PURPLE
+   ================================================================ */
+
+:root {
+  /* === BACKGROUNDS (warm dark, never pure black) === */
+  --bg-base: #0E0C0A;
+  --bg-surface: #1A1612;
+  --bg-elevated: #252018;
+  --bg-subtle: #2E2820;
+
+  /* === TEXT (warm parchment tones, high contrast) === */
+  --text-primary: #F5EFE3;
+  --text-secondary: #D0C4AE;
+  --text-muted: #A89A88;
+
+  /* === BRAND (Emerald/Teal — differentiates from Solana purple ecosystem) === */
+  --tt-primary: #10B981;
+  --tt-accent: #14B8A6;
+  --tt-primary-rgb: 16, 185, 129;
+  --tt-accent-rgb: 20, 184, 166;
+
+  /* === SEMANTIC === */
+  --success: #22C55E;
+  --success-rgb: 34, 197, 94;
+  --warning: #D4A017;
+  --warning-rgb: 212, 160, 23;
+  --danger: #C0392B;
+  --danger-rgb: 192, 57, 43;
+  --info: #43B4CA;
+  --info-rgb: 67, 180, 202;
+
+  /* === TRUST LABELS === */
+  --trust-unverified: #5A5A6E;
+  --trust-basic: #F97316;
+  --trust-established: #EAB308;
+  --trust-trusted: #22C55E;
+  --trust-highly-trusted: #10B981;
+
+  /* === SYBIL ASSESSMENT === */
+  --sybil-human: #10B981;
+  --sybil-likely-human: #22C55E;
+  --sybil-uncertain: #EAB308;
+  --sybil-likely-bot: #F97316;
+  --sybil-bot: #C0392B;
+
+  /* === TYPOGRAPHY === */
+  --font-serif-display: var(--font-cormorant), Georgia, serif;
+  --font-serif-body: var(--font-lora), Georgia, serif;
+  --font-hand: var(--font-caveat), cursive;
+  --font-ui: var(--font-space-grotesk), system-ui, sans-serif;
+  --font-mono: var(--font-geist-mono), ui-monospace, monospace;
+
+  /* === RULES === */
+  --rule: 1px solid var(--tt-primary);
+  --rule-muted: 1px solid rgba(16, 185, 129, 0.15);
+
+  /* === SHADOWS === */
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.3);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.4);
+  --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.5);
+
+  /* === SPACING === */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 20px;
+
+  /* === ANIMATION === */
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
+  --duration-fast: 150ms;
+  --duration-base: 300ms;
+  --duration-slow: 500ms;
+
+  /* Legacy compat */
+  --background: var(--bg-base);
+  --foreground: var(--text-primary);
+}
+
+/* === TAILWIND v4 THEME === */
+@theme inline {
+  --color-background: var(--bg-base);
+  --color-foreground: var(--text-primary);
+  --color-surface: var(--bg-surface);
+  --color-elevated: var(--bg-elevated);
+  --color-subtle: var(--bg-subtle);
+
+  --color-tt-primary: var(--tt-primary);
+  --color-tt-accent: var(--tt-accent);
+  --color-success: var(--success);
+  --color-warning: var(--warning);
+  --color-danger: var(--danger);
+  --color-info: var(--info);
+
+  --color-text-primary: var(--text-primary);
+  --color-text-secondary: var(--text-secondary);
+  --color-text-muted: var(--text-muted);
+
+  --font-serif-display: var(--font-cormorant), Georgia, serif;
+  --font-serif-body: var(--font-lora), Georgia, serif;
+  --font-hand: var(--font-caveat), cursive;
+  --font-ui: var(--font-space-grotesk), system-ui, sans-serif;
+  --font-mono: var(--font-geist-mono), ui-monospace, monospace;
+}
+
+/* ================================================================
+   BASE STYLES
+   ================================================================ */
+
+body {
+  background: var(--bg-base);
+  color: var(--text-primary);
+  font-family: var(--font-serif-body);
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+html {
+  overscroll-behavior: none;
+}
+
+/* ================================================================
+   PAPER GRAIN TEXTURE
+   ================================================================ */
+
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 9999;
+  opacity: 0.02;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  background-size: 200px 200px;
+}
+
+/* ================================================================
+   EDITORIAL TYPOGRAPHY
+   ================================================================ */
+
+.tt-display {
+  font-family: var(--font-serif-display);
+  line-height: 1.05;
+  letter-spacing: -0.02em;
+  font-weight: 300;
+}
+
+.tt-hand {
+  font-family: var(--font-hand);
+}
+
+.tt-label {
+  font-family: var(--font-serif-body);
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+
+.tt-ui-label {
+  font-family: var(--font-ui);
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+
+/* ================================================================
+   EDITORIAL COMPONENTS
+   ================================================================ */
+
+.tt-rule {
+  border: none;
+  border-top: var(--rule);
+  width: 100%;
+}
+
+.tt-card {
+  background: var(--bg-surface);
+  border-left: 3px solid var(--tt-primary);
+  padding: 1rem 1.25rem;
+}
+
+.tt-btn-primary {
+  background: linear-gradient(135deg, #10B981, #0D9668);
+  color: var(--bg-base);
+  font-family: var(--font-serif-body);
+  font-weight: 700;
+  font-size: 1rem;
+  border: none;
+  border-radius: 12px;
+  min-height: 52px;
+  transition: transform 0.15s ease;
+}
+
+.tt-btn-primary:active {
+  transform: scale(0.97);
+}
+
+/* Badge pills */
+.tt-badge-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 12px;
+  border: 1px solid rgba(16, 185, 129, 0.25);
+  border-radius: 999px;
+  font-family: var(--font-serif-body);
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+  background: var(--bg-surface);
+  transition: border-color 0.3s ease, color 0.3s ease;
+}
+
+.tt-badge-pill:hover {
+  border-color: var(--tt-primary);
+  color: var(--tt-primary);
+}
+
+.tt-badge-pill-muted {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 12px;
+  border-radius: 9999px;
+  font-size: 0.75rem;
+  font-weight: 500;
+  border: 1px solid var(--bg-elevated);
+  color: var(--text-muted);
+  opacity: 0.5;
+}
+
+/* AI summary card */
+.tt-ai-card {
+  background: var(--bg-surface);
+  border: 1px solid rgba(16, 185, 129, 0.12);
+  border-left: 3px solid var(--tt-primary);
+  padding: 16px 20px;
+}
+
+/* SGT pill */
+.tt-sgt-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 10px;
+  background: rgba(16, 185, 129, 0.08);
+  border: 1px solid rgba(16, 185, 129, 0.2);
+  border-radius: 100px;
+  font-family: var(--font-ui);
+  font-size: 0.65rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  color: var(--tt-primary);
+}
+
+/* Progress bars */
+.tt-progress-track {
+  height: 4px;
+  background: var(--bg-elevated);
+  border-radius: 2px;
+  overflow: hidden;
+  flex: 1;
+}
+
+.tt-progress-fill {
+  height: 100%;
+  background: var(--tt-primary);
+  border-radius: 2px;
+  transform-origin: left;
+}
+
+/* ================================================================
+   ANIMATIONS
+   ================================================================ */
+
+@keyframes fadeSlideUp {
+  from { opacity: 0; transform: translateY(16px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes dialFill {
+  from { stroke-dashoffset: 282.74; }
+}
+
+@keyframes barFill {
+  from { transform: scaleX(0); }
+  to { transform: scaleX(1); }
+}
+
+.tt-animate-in {
+  animation: fadeSlideUp 0.6s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+  opacity: 0;
+}
+
+/* ================================================================
+   SCROLLBAR
+   ================================================================ */
+
+::-webkit-scrollbar {
+  width: 4px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--bg-subtle);
+  border-radius: 2px;
+}
+
+/* ================================================================
+   RANGE INPUT (Shield page slider)
+   ================================================================ */
+
+input[type="range"] {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 6px;
+  border-radius: 3px;
+  background: var(--bg-subtle);
+  outline: none;
+}
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background: var(--tt-primary);
+  cursor: pointer;
+  border: 2px solid var(--bg-base);
+  box-shadow: 0 0 12px rgba(16, 185, 129, 0.3);
+}
+
+/* ================================================================
+   REDUCED MOTION
+   ================================================================ */
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* ================================================================
+   FOCUS STYLES (Accessibility)
+   ================================================================ */
+
+:focus-visible {
+  outline: 2px solid var(--tt-primary);
+  outline-offset: 2px;
+}
+
+/* ================================================================
+   SAFE AREA (iOS notch + bottom bar)
+   ================================================================ */
+
+.tt-safe-bottom {
+  padding-bottom: calc(env(safe-area-inset-bottom, 0px) + 1rem);
+}
