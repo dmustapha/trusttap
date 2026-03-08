@@ -57,3 +57,16 @@ design-variations/
 
 # screenshots (large, docs/images/ has curated set)
 screenshots/
+
+# mobile build artifacts
+mobile/node_modules/
+mobile/dist/
+mobile/android/
+mobile/.expo/
+
+# unused Next.js template SVGs
+public/file.svg
+public/globe.svg
+public/next.svg
+public/vercel.svg
+public/window.svg

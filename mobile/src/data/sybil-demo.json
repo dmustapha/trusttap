@@ -1,0 +1,6532 @@
+[
+  {
+    "walletAddress": "nPXTmRfmRfPwXdwVXhhhy7ofu5XBwf1DhwPj1Zhoby7R",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "Zf9hK77mB35Ddjj1uZ9MoXHsyudfZmFs5VjFyb1m7MX5",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "Us7jVTKRfKbw9PhRHu7P3P313yV51jy9Th5uw9hdhHyu",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "FTdH7wDRVMHBmb7TssbHoR11DqXDHHDo5mdRfwT3sMhP",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "AmRRywTo5w3RP9wjsw7yFfTfTMhVjXfHBKw5dMjmTZH7",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "w95sFMPqh5RZVjmTduu75RFB1FfqKm9dhXbwDm97mFRM",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "rfjDHfB95K13KwTjuBZf1d7dfVsXVosDsyHhK5VV1MqV",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "d3XffmKfZBDsMdyw9BDffHqosqoujZfR3d1M3hhdoFB9",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "YZBww3jqbqH7D5sydfZu3HDRmzdyFTFZdR5Bw3o39h9F",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "KwdHwh7yHMF3hZbywh5oBu1V97uRyyRduZD3wRs5uMKq",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "EKbTf7h19bhHXqhum51wV1Z3ofZTyhy39ZMd5ZjqH1yH",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "1dHmHXDRTF733mqfssPhPPFHyTKff7wBsMdqXTqbfBHd",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "vD3ZyB3fZqHVjbsuhKRKbFKFbFTBqFjRjZ11Tm31FTTy",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "hXbZbFqwMh9fXB1Hsw3KFT7q3soKjbK3RP5myR9bZu9T",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "chVdow3y7RDb55oT1Xmhh7hmooDXDsB5D1b3qhqfhy11",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "PDy5XwKX53uKDu9R7hVBPXqy3Bqf57ZhhPwFB5PPwhMK",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "Jbw7K3oDZXwBfVqdTmjPyyhdds5qo7HVMPqwD5Pm75Rf",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "57hdZKoTHBmmfM1dBBDd7MT7KfsTPf1bKhDbPXFwRqK7",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "zVFwhhh9udwMTP1BqbDwMPohPD5RMsVF11DF1hmZfqTR",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "mow7R57VhmdRPioqj7PMMdmBfw9Rd37ZKTmuTZqD5h31",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "YPZh1qmj37KBfVsBTM9RRZKBKMf3jqFoTMF1KyVuoVo3",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "ThF3myj75yo9su7hZV5R1BXTHHF3qTTPXByq9q33fm5V",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "EjRysqsVFFKf3qFw7ufo5bKjPHbf3o95dXZymhdwq5f7",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "9bhdRD9uKhh5qjfsMVuMZKTfHPmFMhyFy3T771umXmPb",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "vXqbPsMs53B7HmRPKwq3wbwbFd9hV54s9TKPdh8BK3j1",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "qV1K1XdjT3oVMmhF7KyymqKfZDuDfys7BRD7b3hZ7qyV",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "csfmB7DDXMHXPfo99dX5T3VVsywBKq3PqmFwVuTwyByh",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "XPK7Fjm59hjP7XKZy5KDVdf3Bm11XHm7HbT1RZBbHwy3",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "JDdsm7dMb93ZbyMo9F3DoqwHwMyHwDohuqPRoysjfw5Z",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "DsuPoZbKXP1TZosyysDbH1h3b9hHBHDByquRwFMmVRj9",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "zZP5RbqTfjwoPKP9F7sFfTZHfFKDMd5H393M1BhVZKqB",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "umM7Tw35w3KFBbBybs7My5Hj9fbhwXHTFDhjhuPfwfmd",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "gMsfDH3oRKTR3XyTjs9MdwjmRTubV1wTfMVhHfZRub7j",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "bXdfVmZPosduPsXm99RhByBBsDdbbBKKjousHZhXs93j",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "N9MMwBs3MyHmhbVHVqw9jqbFV3RXo1w9f5Z9fhfPuZds",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "HR5Xdsmm71BV5FBfsRBZdyVoRKBqK5y9su5fdu3DHswX",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "4wyq1bdThojTuwmV1KysRMqHD11PM7ZTF7qvHF1jFsh3",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "yKX99yP1Z15qKhfhoKbMdwh3yBwKw5B1XPRPMRbFjhdK",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "kdDKsMwMM15VsDwfhfZmT33577fR11HbsdvwDMdqXfu5",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "fDqqdbRhdDTDBHRHhD5XoFhHKbKfw5yqjZDbB7hd385o",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "SXX9F1qH7yKsZDsh3uP57uBuFjMVhVH3dHmVwdPjW5Td",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "MhR7Dqjf5fBjhmM3bomZXdmw1DhumRqHXy9jZwXdPHdX",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "8RqojuHuTfobVobBf7f1VFD17BhmTK1RM9qjm7XuXdB3",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "3bj1uHsModq19qoF9DhZ1DTHHRTdbP3ff7jboMHdmm7m",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "p7DTdR35fZsbj7BfFZBH9KTdmRoBMBm7jTMHywKHKHhd",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "jV5f57MZobw37wXm7wB3KZsjyKToPy9MBs1obHH9MDbB",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "W1w1XmPXyfs5bKM7Xsu5XZ1Hq5yRP7TZmVRHFF7dsBfX",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "RPPVZbV57X5Mqy9KfPTTfu3hTwmBs7qbqP9B911j5Xb7",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "CuqwdVT5jZBwyZRuKdXddMjdTHb1RKm9ZFq3hjHZj5Dh",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "7Hh93dyqKhZBKoTwuDo3q3fRwFBXRHdhZFVKF7yRh3qT",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "tbVRjKZdf1VjPsV9oBH17ThXZM59jhXP5PFRuH7uwKjy",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "oB9sXXB5RoH7MdTxMjmDD1HKKRD9RDoHyRBb1HZdFsuR",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "aVw1Ph1M57yhDMX1XDBysfHPuR17foPMBHZ3ms71bZFZ",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "Vfj9FqFjRqdj3jZDjVuTbfud7X5PU5ZB9oyjwj51DbQf",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "GBBd9ju1BZMs5XPudZbT3KvoqR5oduyj9m5FVPKDRXwj",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "ByuPdfuyBDd9oM7wZ9q3y137Xb95FbX9377jZDMyFD9y",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "xHhXMmBLbhyBKF1Mj91qhfDKoPRPMyHKudj5Vf7TM3bm",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "jHyXmhBZfs3ZjFV9mBBjd5yDh3j5h1R7M5F3oMmMRb7u",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "ed75VPV7dwMy5PX7KPVFqBj9MPTTDoRqRK95Z9qTm1uP",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "RMoMhHXFBjh9Ds3Zs3byF5jBBoB5ysHsRqM3mPqyFyRf",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "LXhKf1jK57jVobFyVKd7H51B1MBM5yfKHbTssmZRjRyX",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "7hZZ71VsyTPsHqoHRb59RbDjs5qf1mPb1jjP3K9mqV1V",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "2R119bhwquwdywF5BFuZuyjDjqXHqdd5h5uBu5qwwq1B",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "oV391fh55wPVRojbuFbwwFMBHTo9MX5HTFXdmMmVBTwV",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "iKKujDTB7dfRhX7oMhqhb8fwRb3Pu5dVMVT199bqKDs7",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "VqDDyBBFsBb51doPfHBwZb17KDKjjo5bjdj1hXBVVwVf",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "QDmXFT1qj3uyV7Dm7fPVbmw5sFfF1Pmw9fmfX3buBRwj",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "BdHwTqDhsoshXb5hM51PD3o7BZ5wsMo1wo9BXfH1j3FX",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "6hMfwRh5yfhZyKbVqohqwMXH5jF7fTdXMRy3m1P1Xfsd",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "sXbd39bhBR7mybHM5oBqo3RJjdTw9PP9hXyT9FPHPZoT",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "nbZfVTBDXjGRo3yMBd3FofZyHH1FhjyZjBTyTM9DbMob",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "ZK5BhP9RjRDmo7FBDyRH9uVqKmT9dhsfdM3qHfMhBFwd",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "UVsTXDXZjhTRhfZ3VMjZRju7dfRXMsMTDXKKFofHybTM",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "F7hojd3TyRsTHP7V7fyK3jhubdq75hDVFjHBRHw3ZFRM",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "APK3Bb57F7uXBdwVVmdMwh391so3mmbXH9RVRw9Rss7V",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "wuBPdHFo3j1h5d5HBRu5VHT9fBhRK9m5FqF3MF1moF3q",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "rHdsf5DdZ33dFbZXF5ufsMVPRMqDDR5PMjPhuPBFwKbF",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "dbRsVFmoTDfFsP5Dmm95ds3VZVjyjPHoVTu3BwoMm3XX",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "YB5ysD5b7RhFHPbs9Vu5TMVVddHsosfqTb3hVdub5hP3",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "KVjoqoBM9ymoBB9X3obfTfbbHPXRMHsqRTTBbF9FRwK5",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "EfXomodDhhRXyuoThyqoysquDo9DKRTPTP7f5B5fbVwZ",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "1PBPVBjuXjmK33TTjK7BHhyDuHVhMudyFhFMFwDP7VoR",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "vZyXDB57DuRf9bBhsofPMyDmj7HbKy9Z5FBDqDVHmj7V",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "hwjuZHRuoPyqXo7RZVw7fVMV753MoRuV5wTD11M9KB1b",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "cTHDhuwusy3mbwF11VtZfRhPZofwFfdPdV7XHBRBH3Hb",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "Pq3b9jZ9sPdRPVDusuP5bhoh7M13MyBf9oywjMPhTdT1",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "JMb1MTsjPsB3sTowTwKP3bTqKV5Z17KDTKfPmq1oXhdD",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "5jVRXVRDuFTTDhmhuZwKPDubojwBTDHBsKRKBf9oyuss",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "zF3jomFfoRXfw5ddmThHuXds13T97d1PK7Db3sBTMMM9",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "mRwhmVT1ZoTBFHjoXjDyu1Z5ZsXy5KZRD7jTfTduoTd9",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "g9MRHFPK5TdwVTqbDjVwu13mBKdTMsXVju59Bs1XR1KT",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "TKFPFybPjhZjXZofK1Rdmb9Bw17H5ZyMF5Fdy9K1Pqhs",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "EyybqXq5F5P5hPiuXXPo9soVfsFmh93VfHmHMRyo53BX",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "9DTDVH7Td5obXoMMHoT9BDuVKXyZfyuTZ7B799s5yF13",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "vBm71hwfTBjmw5VD9V7qqTsTRjsmbDBdMMBjTufPXThh",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "q7u57MuVDPKu9317RyDoVjsfZub5wH9DPfDHo5H7f1Kh",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "cFB5PPwhMKDwoThbKfdyMbjjZDTTT1BB3VZ319qdPjhZ",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "XbVDhVPMo3R7KhVPVfsPuDyPV9jsq7qqqb7Hybjfhm1M",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "JK1uKyHPsBsXHD77Td3HqDXfKRoK7Bys5KbB7FqRyBKy",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "DVo3ByXs391KwwsMZHfRXwsVMZTRR3Th9oP7so9MPmHy",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "zfm7jZHR7fKZB31FRPq5TMysRD5jTdXbZfjj3hPPFo5X",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "uP7qVhFD9DHFRBHX3RZHVyZXVms7RK7MRR7smj7ysVjZ",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "g1wBhDbF1sfDbH3mHuKwdfPMFsfhjoD9HHfmKPFR3bR5",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "bHZR95ofwb1Mf9KuMhoHRwuZub73H1f5b7Pq3ofo73u7",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "NoRmjm7FouZu5uMHoV5X9oRfujRw99qTbfouowsDoRVV",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "HBsFdZwB9Z1ufD5hjhyH3oHdu9uqX9jmmZwoB39HZ3R5",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "4TZBjTBf5Zj7TMuDoqqwPy9DjDP79PRTKomK5sFBq3BZ",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "yfTPDoFHFKBd7qXwy1K7HBRTRyqDjhPHdyy5BBobB5Vu",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "kM9q111X75DHqjfb3m3VMMuymHZMDdhHsmF7Km5wKFm3",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "fZmBj7oD99qMuXXFRBVTBy5MDFKHuyfBRThKbKRRVh37",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "Swfb3PjTPMRByuHj5ZVb1uVFbMTVuo3XBPHPh3Tmu9sd",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "MTDuKfhyTsZHjwZXbDbhZM71w9qPyBXFu5DfHTRTZByb",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "8qyHXju9XXyRVyKKPRKymMoboRRB7ofbdMfZDTdVo5KT",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "3MXbo9wB1PXPj3uswPFw1XbBKM1fTuosyMhwjBPbXd1M",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "pjHyF5XZXPbywBRom9XmyfjjjXfTudMZDPooXudRZRTV",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "jFqFRXZ99wjHfXsoRjoMBTD9DRDb5BTw7DPRZuZ3oRjD",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "WRjTDjXFd1HwhRF57TXywPD1XbDPKHH13DqBs37uhjfw",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "R9H7mF7FVMHTwjFyKBfmdMoRK3ZXHXVHqVbyRdDsoymT",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "CK5FdFMmjVRBRKFKmsdbbVuVoMHVtywf1RoXdHKwPDmh",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "7dsFTDhqs9s3bfBPou39wVPq5Rmo5Z71hqdXhT7FZw13",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "tDPw7jbyHmmq3sHDHo5HXmmjmPZ7FMh7bVXjKX7YqwXo",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "oXB5qyZm7TK1HbXsjBhKm9ZBVyFm5u1XK55uR7jRTP1h",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "auqXF9mPDVXX7Twmy51ZbuuZjVhH5XVyf3VdFF1M9mKR",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "VRVsHbTsd7XDqHKB3hTMV5PTXssyVMVRy9XywHfBZKPj",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "GoHKZsPuF7TVoHw9jZ7jDobBD75PdsV7y5yhDhRFf1u7",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "BKwT3fDy59w7VbsufXFZBT5wZFXbdy53sbZKd3shKDf5",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "xhbjBuX19ByZqswF1qf3FuywRssKwTjFZH7f31M1off3",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "soXjXyTBFh3hqs9PMRyhTVyZddVDyX3TDhyPd7Dq1Mws",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "eP3R9ZDZPF9u3PM13TwPqPsBmR9HPZyTuV5V7bqu33Ry",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "Rsu35XTPqdHow9B1hhfTsXs7wos3Vym1b5j3shqybuyj",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "LHMDbBymjjFXwd39bhBR7mybHM5oBqo3RJjdTw9PP9hX",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "7wVRH7fjujjXyZj3MFBf1swHZo3KuH13mVXhwZThBf1y",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "2BooFRdBXjofcP1fs1uw1V1H1sBVZd7VdTf577sqqPyK",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "o1XfmVwPqVBH1fm7DwMyq337KqDHBdyFXB57T3d7Fmy7",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "i57djudbFFbPRKo7bRDoRHmmZsHDwh13q3fbHXfhqXuo",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "VMwjPbsVqFufRsVs1sRXRR9s3BjRwuKZFFD3M1DfHDsj",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "QZhmKB9jfdB9dfjTf9X9DD9yqZMwo9T3uMjZ3PT915jf",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "B9KMssdqwh3DZoHmZBRPHmyXfDPRjoDR1oBju3BhHhP5",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "6T1ZhbXmqXsR33KBPRVdy933X1dTPoy53FfPfu95hBZq",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "swqu51VZRjDhVRdTjh133Rq357yfqd93Pmbyw9ofRRTP",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "nMTHH9RX3PXZFHV3Zbw9hPhPRKbbXb7Ps9uDfKqdFw1H",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "Zq9jTfd5H3fDw9jMBb79yDm93ydffXVhHHjuVfqbR5sX",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "UFmymjP9w9T9oZ5PRuMysTsmHuh9FZfmBqm9F9Pfb7wb",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "FdRR31PsKuofV9jmVdK1VFVoRRRTHfVhHBmMKu9BRjqB",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "A95eH9w1qZBhfmzbPu1fjdsjPwHB3dwsTb1H1X7VoVVK",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "wRq3h5j5w3fHHjZT1mDVm59qTK5sy9bhyHR7H5jdFByZ",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "rdf3oVm99DdMDXZ9DdTadjmPVhfyXdZjfZyh3s79ZMHZ",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "dDKdbj5KKuZM7DoK1KDDVjh5Z33jRq1u15mwqPHVK91B",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "YX7dZhRFVybjhXTPBhZmmBB7P5H77MoFRd39qBqmjHTZ",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "KumKZPqZ51ssHwTuPwBud5w39HoMbsZZPRVbTXTuPoHZ",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "ERRTwMTDyZDZfdKBwhH1muPboKmBZX9919duqK3fy953",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "1o5uDdPFbZ9qmXBfFDDTFZ5HKbRfdFZVPojmfRZ3qw3M",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "vKjFFw9RdysPbBX5jsZ3oPjHmPof3MybTFjqFouujFZq",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "hhXhdPHMDM7uV1BsjHsF9h31f9jw3HTuBVoBqMHHmwF3",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "c5AjZfP1jb195f9P1XTfFHoHFjX9Hd59jRo5mdBb1D9F",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "PPyymTyVw97331qsfmsdMhDo3RjMDwwMoL7H5wwmb1H3",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "JybVdPoFHqRdodj5q1uFyfhKshZMhjBjoRd9uHXVRHu9",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "5HHoFw71FwMBT1ThfdFXPKjTbXmoTd5fywmwMZhsqw1V",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "zTBdBXbXFm717bqB5u5jX5mZqjyZ99y9fmbhFfZHjhDZ",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "mBbTbqZomsFuuw1bm39FoVfVKMBoZR1MB5ZyyhPXVfoq",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "gMVfmKsVqhyj7dysw5Khbj7Xo3dDPM9jqqhDDR7qqX37",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "Tsy7VMKhMDhyfThKVfdXTZyy1jsD57KXZ7qTXZDTTXRo",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "Nffh5yyo9ZXjRFDwmBhfV5V3yjKDd1BqmP7fBPysVjD7",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "9ZdTo3yVoyVdw57yVqsB139sssmoqj5bZRyhyK1msKB9",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "vTqT13yPb3wH7mmDf7mfDMZPHsFujB5fVDXqm39FoVfV",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "qTw9Hd3VfjVuunbyZHBs31KsRqZhMJR91jVT3uZRDPZK",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "cV7RBsKDd3hbfohwd7BBBmVZKHDDywmPPKFRZyhB5RPZ",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "XMF5jFbdwVfmqoqXB7o3Ps1FKqXTPb5VTMZ1jsbfTfoM",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "Jq5H3VDzwfwhBfw9DywuwsofPPT5d3RH5FfXKFP5K71d",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "DFhfPd95V1RK73R35woDfyV3DqoFfPdKBsfsKBufRoXT",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "zdModafFjDm1oXXyDDTDZmhfjoDZyuD5H7w3Z9RqHy97",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "u91Ms7HbowTPsBuqDwTXwdfjPhw7bVo5u5KXqoffRuDV",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "gyKDF3HF4FwZsHfFTThoRM5o3dmKXswK51yFjqmq5udB",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "b3TBMbRy7jmDMy9V3moq9o7mmBPX5KmffmFduwXXmHsq",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "NK5RoZTjMZV79RKT9fmywMdDRKZ9TwwPosHb1HH5myu9",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "HXuRmyVhjdmXoT1Zd5wuyqdMuf5XuTVsh7f7dj5TwhRR",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "47Z1hDosuRXdXbbH7s1KT7jZu1FquKbXy5FVV75FKMTo",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "yRwHsH7bVyjBBwuKB15s95doZ1d15XMhqH7TsTMdfdF3",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "ku3ThhFhyHMyV7KVRqh99VX93bRjmPHHdqMby5Ko373D",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "fBdhTBZfuMBHT5jbj7RBDD7wHdD9hMjLoPmHDbRhjFqB",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "SoMPuTyHV3FhZX7sw9XMoB5VXVX5DqMqm9jf57yXfqKu",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "M55RKfuPRXBfZyoZjBRZhMFwDTK37jTF7qBDjT7MbXXX",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "8Pmm5Z9V11mFFfhqsXFbZhwDFTywKjPfhfDhqHHVhw5R",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "3yXB7PHTTjbToqfRB7XsT9B141XPms3usKTKVFuf7ZDR",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "pHDMjoosdMjT9dhXBbbHZTKZ5ofsboBBMMBswBP75suZ",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "jT7KhdbTjHFBwXyuP1BRX9TuPdZXqsFTXFBPmoyqwM9y",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "WBXBDXffXFMK37BVyPd5Xd97RF3VwMRB7hu1XZTXhuMR",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "RMR1A7DRH3F9bbwMKmoj1PjjZDR55Fuf7Df9BDdBM1sB",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "CsBdMTfZhs9RKRP2BuPjKf5XPR7ubm5T7ud9oXD7joKy",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "7Fj3shmohFfR1B3mmZuhywR7Rmd5qsPHDyhhjRdPhswK",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "tmDVbh9DwTHPms5o5KBZqKwMmKyVBofs9VfjPjfT9BdZ",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "o95h3XmhMwZTHMFjK7dDfZB393j9BfsymKPquFXbB9DZ",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "afwuj3m1bDyMK137obZys3o9q5j5PRKfPwbf3Mh7Ksmf",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "V3PPd3f7hRTXwm9VKBwMuFbu95mHqdm3hyVRF3MMPwHM",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "GMBXP1qZhHoyFFMPooZ3DHomudw11FM5fX9fDPTfV1R3",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "BwqoHwbVoM3Buo1FqdqB5HVfPH773VTy1f55bBDqbDVb",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "xFVThjT5Z1sTq9D3B9s1XMDTVbsdPbVmR73Ts5yD1qsT",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "sRHTmX3dhM1RmsdZyVmKZooruXbHhfsbHVT1M9TqBHZB",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "e9w3M7sjufwFXMMwjmbFTjK9Br1HXhs1RbhBD3Hw5D7M",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "ZKjBD777TVjwD1DFoohm1dsswBDH9P73dkHRoFR31Tsq",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "L3FjqhqM1HP1qRXu7wqD1yDu1hDmoHdR39PMPfHBhmbT",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "7Ks7HZBoo3XbhKu1jqZfXHDBHsTTjujKqTTw3Fs5VXTy",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "2XR97fPqPHPRyqDW3397w3VXZy1qRmhuZ3PMyCBbZmPX",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "of33Mudd7hw5Rfwm3mjqqDwDj1yTjDoMq1F3PHqK33uH",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "iH77uDqh77RTBbT5PobFow7XB5Xy35qw9HKbm73wbosd",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "VT71R3wbTFMTM1959B5wZDKV9P339DdK1RobTuyK7bXm",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "QBhMdPmus7TRTfDsM3X7wPPZTBbVm7u5XTuuuyu1h1Rf",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "BoHqfByMPoBoDjoZDbsw13uKb3dTmPmn9qiBwV5V9PMq",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "65137smKFys1mHHBDmyPj9FVDmhH31dhDbmKbR5HjKw5",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "sbMosDT59dVB1ou3PM1X1RTbjqKqbDfRZw33uVbqFdhK",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "nyKoRuuffZTBqKum5BXsfMTZRMKKjsHoj1mKKB5uM5wM",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "ZPyHwdBKquyH3DK7PDR39TdDdysbTDywDR3ZfDwFRKDs",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "UsmZDs1115oT3FbhKVdZm3MMj1mdXTmVsHj9duh3DFfd",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "FHHyR7BjZB9sbZudqf1Xuf5sRyyFKByfZofhjo1FThT1",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "AMMho1VujyRKsTTPyXw9KjqsfKXh3M9Zmf3yPffDHoT9",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "w5mZKmfwXZDM5Vwwf91qFPdXsFbm3D9joRudHd9bHmZR",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "rFZZ9wuD7bM1fw1FhMwPob1bhBT3oyZVoKBh5bdhKwbh",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "dsF7FXhMsbyhdq1hfmsF7bRbZqRV9wyyZwZR157wddPK",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "Y9sVVdXqsuywj3HDTuKT1hMmFMm9qR9dhq5uRuqMoy3K",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "KfTsZBm3FXysH3Pyo3fwDK9KoTDbTm5h9qomPBbudFmm",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "E3K59sBDT1XPu7Kj3FVF7PodZDR9HuRyXoFZFD5wXZf5",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "1M7Ds1KujRbPVFKfyMVjMyhyqT9s5DHFMm5so1sHDqTF",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "vwdmjKKVXHhHjjZm5djywdDujj1P1RYqPjKBRhhho9wm",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "hFRuMbHXd3jjKmRsqmj5j1DZRyVbVHFHRsPyoKu5Dq1j",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "cRD3DdhfVuVDuRFDKHBA9RdowVmMqbhBu9Mf95mTs5Fh",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "P9jhqPu3ojo7TP5KFuXFsuDBdFwV3yy5qbVKBboHsDB5",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "JKXqjDRXZMoq1DMd9DoyoVaqKwbBub9RH5bbDyjjjfPs",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "5hJBTq7uV3bq5hm9Mmf1KwbhBMqHfVjqBHTub3yyBZKX",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "zDyZBbyh1ojmqHP5qF3fqM39T3HmBqTdowMDVb11fyfh",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "mbjwXhKMh1ZXBdDfTPuTfjdq3dbVfohsHXjXMyqVBHjo",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "g7HFfBwKuZmHTBZfyo1dHjfsMhKdZojsFTfuTPuRTsoP",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "TV3d71ZTqquqZq15RwXVyKP1RwXsKHDhRoo3KsfK3bbm",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "N1bu97TwZqhdBuTbHPPuR5KM5BRH113PF1Vj9KMqjumw",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "9BV77hfKqbDmZTZ1FfZFdX9qsqVHKd9XqFyRMhV9BjqD",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "4u3mm3Mw397DDbX5Kw7juFd5MwhDdbjHhHw97MwqqH9f",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "q5wjjmTHZFquuufffM9VPfmu7MBo3bsKh3KDjuZhB57f",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "c3MFmyuZ9y1m3owVqm3yw7K3wyKfjf15yPhymBuFHD9H",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "XyFRDFTmuw13KdRBZKR9qB7m5fTK5TXTFVsfHTHXFFB3",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "J5R1hw7oMdFB9Dj59uy3TF1FXfDuwBFfmq3KTub9mwoV",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "DsbhKhfjZfqyqBHXXMu5qbMdwM55b5TBTMdRR9yHowjh",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "zHDfu7o99qyMmRDKhyhHdwywT7sVH3D1Rod5hVhHmB9h",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "uM3f1Xq5Z59H9H3hhjPDjdRPoby79jFPwj7D9f3bhdyV",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "gdFhujHP9uRTDHdsRuLDuuF1wPfXsofZhbqfmVXKommj",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "bFVFfuPfuXbPXwBZsXDPu1PBHPZB5M3fqDob1j77Roow",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "NRTTDV7sHVRKjBfo9MBBfwdXVP3fqhHDHFmVwjR93sPf",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "H9owFDmdHyBjVZyZj5Rh15uuTPZFjdhTfZRB79TPPB1B",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "4mVVMoZuoMf7jfoV1KjRK51Zdjj3qyZFBFT9F7bVrhbd",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "y37jVPq39M39MVdH7sPsmu3byyMKswM3VwbFXuFTRouV",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "kZhFffVbh35d7qZbfojDwRPq5HZmMfZVmK7Rw3bdq3o1",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "fwZT7Mo5q59VMy5fmVZRqfR3f5XTPsZ7yTHBRwDZwHXD",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "SMBhf95K5ZTHZRF7hVsBVDy3HmhwHo99ZodTwbDHmu59",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "Mqs9hs91jKuoddDKFy7ZsHF99wu9RTdZdyb7jMsXMM3X",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "87ZDhjBw5ywMRMdXdjZXZys937PmHdsD5793PX1yFXMs",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "3KTRB5TXjBou5KwZPbKH5joydMfFZVq9fDqKPPqPXDqy",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "pu51sh5MuFB1jZ5smTKTmMZ3h1qTymT3dmZhB3uBmjmo",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "jDmDqMbhyyufuwwd7V7mPBHsXfsMDMK1ujumXuM1w1uD",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "Wbfd1fmwKyRsFhMVmH13XmDqoHhR7VDsjX3RRm5wTMKK",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "R7DwH5hFbKhHy5Z3j3dyw3jm57huc3uXH5KhyR1R9mo3",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "CVyKdB3uHXXob93VdubqXodymZfX55K9udwuPmMbXwuD",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "71XdmZqd15BuwXFyHq5jRBfVobyMyVT3KRXVw7KhssV9",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "tBRbjHuwXuRjmPo9owqBHjq9BuKo9ByujuHjBFXj7FKo",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "ouyKMs5j3qTPm7yBVjZBqho5BMhKB9PoBT5jVKT7Z7qb",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "a5jVB1XRw71Msufdh7XHhK3yVXhP7Rowqj1ZdmB9hqjb",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "VPRhfXsyHjysmf1fojR1hDwKZ3DybMbTjZ1wK573fTZm",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "Gy59ZXmP7q31sRMyh1h1dThfquw9MoDb3h1bTsuKjDRh",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "BHsHRqMT3MfHP1jqRqsDsdMfVPu7yHfoPD5Vjo9d5h7y",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "xfXqf1Kho3b1mRHofyD11mRMwB1hbXoDsuyyusMX59jy",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "sBB7oPZdFsM3mmhVjV9d31TXmFR3f3fHXRPj7m7uo7TR",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "eZqZDZX5yb1Dd3MsPwXPTMfw715F5yFsZ9sHyK17hwsM",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "Z5VmHB5oZsbs93fmFMsqyKwFD9bRbjjBqHqfD7FmTjyy",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "LTHMXHFHHmZh7jdwq97M7Bw13HDRMXVKFXb91KHBjHDm",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "FywV157Ry1FDXs1hyh3TX9w7wVubFm3yXssyPboXqKVT",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "29jddM9RTyZBbyh1ojmqHP5qF3fqM39T3HmBqTdowMDV",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "ouPm9BKPHhfBMm7VuM1RKsmBf3y7jyDDyRDdDH1jXuyh",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "i33KDu9foRXuBwPRuf15jjbVRhyqf3dBuuwqHVM7o7uB",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "V7b9mRZD3u7R7ZoTbPRBsh99q9hobs3uffbDuuP35fZb",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "QwM7bmjV19wZBPjPo53ouydR7RKVwuhyPmj15sPHMP7T",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "BKFXwZZ7D37Z5ZsRjdF5ZMRHuXRD3ZZqHX7m1Do35H9X",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "6qoqDqXdRb7mmbB5dHyuqf1X3HKX5V3TT5mTufsf3Pf5",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "s7dsswDRbfs5uRHbmDPyjh3PZ1bDq3hqusD7RwsqVBwV",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "nKP7oy1P7HuHfj1KddZ9bP5B55VoXbd33HV9jTRuPh1o",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "Zu1VmsyuB71Zy9RP9DRXKXPZBVqBXRVjRw5qsBhT7VKF",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "UDhoHT9uR7KBumFuuH39q1RRT3oMR9hFRMB5ydXfKXXP",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "FoTK9Xshmw5KqHouyd3hRdZD1d7XVF1M59y3TbuHbTfh",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "A71bo35js3hqRmDXmm1sj1HqRZw9FmyBqss3HfZmX9wH",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "wbqw3RVjbw1MPX1TRVMhoXHPqVwB1KTjP1Zbs99uu5TH",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "r1TKFfF3dmRq5FofuKho17DVjhHmwRMhjTVuwMssD5hb",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "dPDhbfmTq5h3TXwsXM1FoVPmy5VqqXRRm93Zu3RHRb9y",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "Yum1j9PRwbhyHRjs9qMqDu7fHDTBDHydfTHBq3qMwhKD",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "KBPFHqqZbF7fKKHjhoKKDPX3R1HZRfXj5BqRDjbT5osm",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "EoDhTMoHbPdddV1hHDqdy5MqHhBRDyumZyRo1b9uuHKb",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "1ysowB7hddjKP5jumFfD1HfRujZfVd9q3oXqFTPT9uZP",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "vHf5mumRHR3q2TRXyjMX5DfHbs1TbqRuy1XbVHhm9T9V",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "hsKf9HXhyoRRZHFRXqBBV1D5HBDdTX9DyH9VVRyXoy3D",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "cB7fXyXPqVfquhPD3m1q9woZTbud1oZyu1wXf15PRFsB",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "PZmDVXM9H7sPhDsVyXK9jFsyZDuK3f3yV79mZKuqTjMB",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "J5RVudZKDbqo7uuVhfH9HFZ3ZDqMD5V3dMZKMyKMsDdX",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "5T5wB3FdZ7yVudu1smsV7XwD9usHBbj1uFHhTTBTmdPP",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "zyj9FmmVu1jVZ1s5j5MMRTfXToB5T3D9TP9jMZXuqyHK",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "m9XR5VRDZwBTFbFXfj9DuVH7DZmZhdys9R3wDu99Fs9D",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "gj9sR5yRyqs33oFFBBwq3H7XbRXDFbdMZ7Vu9BmTyduj",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "T3y1jjqsuh5TTwhTZP37smV3T3RhybVdhT9P1jZhbfRM",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "NDsyhT35hFsM7hsmPToZDbMdPh9byMjj3PyPHq3fVybK",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "9wHhK3BjdXFjj7oBFFjRDTdTDHuXf7K3fBhDKKVwoF1q",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "47BfHmH3qyFXjBTjKBZn5BZTFZH8wjXjd7sXTRqdDTqy",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "qdwHMH75Vfs5ufRT9dVDZTwqywsHjjjBdb5X5fT9VBhT",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "k1VhjjsM7Tq1jVMMuVbhoBoh3mH1TPK53B1BM3uRToFs",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "XXy9Tj9DyXdFR19fq9usmfPF5KhFZ7wsFfuVjbRFfDfR",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "SV5qMwHqXhByuPRwwPmKdTBXohXKT5V5VfFyZFjfMho7",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "DDdVmZZH7mRRKTRb3oq5wZjXhwFKyDu7KuMfMRFT9hBf",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "zX1mbyD77hqVZK2TmjoK7mZhHP1m7VKo9ZumyXM7q7BF",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "u7wBFujyPB5D9sdyR3sMbHbh1qDswyTFXV7VRHKoshKV",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "gsm139bVZfoddHjXhV33uFb7wKsMTfjf1ZRqboomfq7m",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "b1FqHXqHDMPFMPMo5bRs5FqdfXVHMhZF357BjPbRMujo",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "NwPqwuBFK1V73DfF7wwPq5bfyqV9mDFMsomqMFBZyHfb",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "HuhhMuFBqyZZd7udFyZRoRRuhhZ1uDmy31yKDX1oKMjT",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "4HMqj1m1P7qsm3VZjfoFXZmdsuj5yuhZh9wRXBHbToq3",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "yo1PqPFjMVMjHfohdj1uRH9cBBhVFMoFBfHMMHdj7mfq",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "k5ddPBfwHM3d9bTBss7VXVdDPosw7Hh33dV1PuR553BP",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "fHbfRfmddsq97H3TRw9FyFhVVfTHyXPd79RV7dbBTHmj",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "Ss7B3Z11jRq537BqMuZHqXRVMqhXsV1KXDmf9HTo51ys",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "MBuTjMX5TRmmdPdwdMVdfRTR1Fq5dH79FPKsqTqd5PbX",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "8mZ3fVuyFZo7sFj7BbbjMqbTwfTfRHfHMs97F33DbPwB",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "35wKyjh1dy5B19bTqX7T93ZHDdbPsBPwbTDmZbZohbMB",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "pZ3VfyMoDBdTfHHuw7RPywjsyRw3B5HwHBVXXqKRBfq7",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "jqdjRTRBBbVmuf1KybujuTfFTm9Hq9suoKVX5dByBfX9",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "WM7TjFR97VHjyu5Zwj5K1bssKmFRTTMjdDo9fmZ9XdVf",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "RjDPbBFBPqZ3dr9jqdhVhFT3Z9qjyuZuhVMRXM9qjm7X",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "C3mo3wB5o1dwuVmmb91Bddsy77X59TTfZ7VdTTKyoF5H",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "7dX5Bq3nMHBKBu3myKKDmmhR5dDuum7sBMHjdFKPRTqo",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "twDPhKXZ7uH5q3MqsTFf3bF5fdbuR3DDDj1BdbwyuZTy",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "o77Mf3bjqmwZ7TMVoTRTBsVdyF1dRq7R5HRjs5udfHMh",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "aqX5HjuoHf3RDy1bw3wd73Toud5fVTPXs9yKmMmKb1Hu",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "V1R3PF1hTPHqmfh7umd1bmj5Xb7mHMhF5DZ1TTVHumT5",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "GXBfTdwTBsVPB3w93hP15ZBo9d5ZXZPD3V5TR9bV1mMD",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "BujwTZyjb9VZMhPomHs5umFsPbBKPj11bXPhXmF5fPdb",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "xRDXZ73fqDoFshFuH9jB55FXsyf5juPVFobMHsbPVRDM",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "so5j1u3TMR5T9BMjubyqj9B1qsKyfM3RmZfZmsfj3bHT",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "e7ssswTj7TbZZP9TyVjKb5HBD773TqXfjX5ooZ1ZTHKj",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "ZhPRbKZbZB5yMyPoHZFyHBjDV3o75hKMPKyH9HPmHmh9",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "L1BZMRb7RFwXdjBq3RZDPPy3o1ZmHZdDVbBhZF93yhRh",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "FByhDRwR9RFHoXFZuMFFhDVZK5suPwZ9mMKfB77ydMPB",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "2uVDFujj5VwX9DoTwbh3dwoKF5K1BTs5owT9yfmfdh7V",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "wV9wbPdXj713Fsww5MyFK3H9ubMfwKK5D1sFfRBRPojF",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "iow5KVh9ohXHKZ9XK53BB5ZyKRTdd15PuKmTMBMMTXX7",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "VMuZoH39dTbKZVVX5KTo1yq3ZoVKqPX5bhHP5VToMuoM",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "QHXD1ZZdKPqZ1VDVd1oZuKqbhbXDT1BjMq3TwVsBosF9",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "BRXKXFX1f7uP3DdBHDXB5RbRTR11omVyRmMBVFD5KuZd",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "6BRBy7FVhMRw31u9yPZjTjq7jduZDwFmHmoVVX51fj1y",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "smVb9VPKBTdVd5yu5bDD1y7RhyPHbRRjwwKXVBX77oKK",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "nwFmyPqHsyqKHu1jfZMm7qFPMRBjhsH7ZdPuhddTHmbK",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "ZZyB39jZRXBVuR7joKuB3fbRbMXdduXR5XshboXZV3HK",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "UqhFhjufmMZwRddmmTfFVRMFD9sFFHq5o5hdDH9RyRyP",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "FMTmwum1DKT5KRjHsyhX3hT3sH9m7ZojBumVf3mjLu5H",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "Aj15DBjPXobwoZboqfbfHPBMMMbKTRfDFPZHuw3VysqR",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "wFMqqdKTKjquMZDFh17991dVy5bBMTXqdouVsBVumPq7",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "rdTmhfsujmhKuDDZP1173dDy7bBTqXZDjDVdmFuM5RPD",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "d3yB1sKMZH7hMMBMKmq1uoFwjs5ww5TfKBV3VDPRs3Fq",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "Y7uFw9VKZFuRdZM5dTB1VD9qZTsP55qb1y19F17dHRT5",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "KqTmohR17VRKPj3mD17Zsww3o5PRoj3ywHFRw5oTfRoB",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "E1MjmHT39j13myh5D7PXwPqTPRVduohVusBfPdRoLjR5",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "1jmTF3yjoK1X9qsfZT5RjV9FyTu7Xfb35VfssFZDqqH9",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "vuZbF9uMh7fFKFZH1DKhRXPFmfqwFH1B3q5TobHTDjhb",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "hRR3R7ZBdjhZhDyFDsTboTfB1MXHjo51XhZPTVfDyTKR",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "cosPVDHf7TZVRwu1KTsyDFqdHP159K7y9BTZu1VX9f7y",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "PKTuXhbTRR7hZo9KXPhHbZMBKj9owPTd5yfPDd3h9wuM",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "JhK77HwuD79dPFX9wBM5yy5PMmTbjRos5jVsqMXXR5uo",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "517FqPM5fyPyMFF9ZZqVoBuy11RboZDRHmKP715qo5XR",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "zbdohbKmdRHHRZwmPBDuBRHMwBFhy5h3yH7Z91b9VZ3h",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "muRwTuKf5sdqB5VdyBDuPhDZVo79qF71Xq1RKyyoBdMF",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "g5D5BuZ3PwybdXV5jFjzwmyR9fF7HPqwVHFHTTjbXKVX",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "TosDBfoKfd71wjwojZqd9Mwd395bM7jVZusV7jB5XBsj",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "NyXsVjFXDRjb1oDmqy3Rbb3hyKuTqbsDdFujyomHMqM3",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "9MHuTwXFZ3jHhKDHVKDqu73B1hZ1yHHDmmRBwBDj5MjM",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "4syb9753y5w5yBwwZy3hDKusdKVbs5fVmuZ7qTfbuPPs",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "qFjyV7BbhsHVjdV3Mmb1VRmmP5FPZVq97VjBu1HFVwoV",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "kmHHdUs1fhMbmddMK7dmHD391FM1qZ9d5FBHMdVjjHH5",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "XwBFj59ZsBKTTDRMHmbs5K1DyRj3B7FhuBRjfmZouK7b",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "SfjyFy7sd5RsjFZFyqq3dV1mdKBqTjwoHfZRHyXmRBHP",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "DqV957ZZXF3u3hZqfDqFDu1oVRoHF7yBVHMKjEPhRRVd",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "89BMfMBh5wBfubZ3fs1fKBZDdXB7duw9fq5o5d5X3zdF",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "ujwdf3suwbTjFBfjduj7ZoZf75f3XuXKh7dyRjPKwPff",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "g7KbFoZow9qyyBPjbffHhT5ThjDjZZH93yq9RsZ7BV1f",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "bdFTBfT5sb9yfR7jTfTRP15VwfqXbKwFRHoP37DPFPyo",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "NK77RyoP99MRbwmPoqujZ7m713jFdXBf7MV7ZsfPwym5",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "H7jmm3MdFwbZP9uwVXb5BBBXHbXT1ysbKuhfHTT9DwTK",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "4PwwMZ137ZoVfPqD1H1fRR7VobVR1q99VBXoD5FXKRMm",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "y13hywqPXDdV5yD33h7FDPj1Xu1fMBouwhdKPmow5dhF",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "kjh9mHyfPoHRRdXBosFZfqwuyFM5PuKPBMfXbZ7KRXHM",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "fuVHdBPw3sofVqydwB9mfVwqXXubbq7XRbV7BMFX1Pmj",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "SXBjfwjm5hMX1ZKP1uyjqdXXuhdTbTy5BB73VfhFFfjR",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "MooyDVj5VFsDVMZh3Fo1sLoVjd9T95TRqj9ByDK3Mjmq",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "8KfRXbHywKTh3M3Tu33FHBKbVmsKjswwfuqBPwfsHmXy",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "3h7nVoyfsPFZoDh1Xj9VX19PVKRfDdB7jP9wjyssFMm7",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "pDhHd5Vm1FjwbmH5dTdF1F5sMX5DdF6mVdKqXZumH9df",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "jbZV5sdTfBR3bTV5BR1V3TVob3KooZVqffBBMVsPuwXV",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "W1BjdZwh3FK1mjH1BwKfh9Bb3BdVXDyZqq5XZDqbK7wB",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "R59mf17MFwHdFs7doXK7HuTBPH7my5ysoFF5j9muHDmT",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "CfdBwdVwybdj31DyfBdfTjuu3HFwVsPHsDF5KwBbwX5y",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "7yTTHPRdyuhKMBqoujwsmKosjPXbPHVwjhoy5jhMqm9R",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "tMDqVbbXFB3j99yFFs1hmPV7hm5h3V9BywHfB37dfRH9",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "osmFb79y57mhKhwoo1KZwhZ51RMw1DfMMHZqomDjR3Td",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "aFffXqKo9umRBoLhRDK7R3h9RVmRBP1ByqyZoVBPHwdX",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "VmDyFMfZhmH5D1qBhjXBfX7bqVd19FMRBoDTRR91w7X3",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "G9yMbT99XZjKXhuofsbBqmPos9PXyuyFXFV9uVV99ju3",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "BfXfjqo5oVKVVqy3ZdjqqyRhsdP75KqZb33sMXqFFDFR",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "xqRdhZuDXMhdBR1uodFofFbmDmPbyZFBTMbKXwfsTdfD",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "sZyMDTqRDVZ3T59TMTM5Z9fXsMyd75VyyF37mPTww7qs",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "ejjP1hywfo7RB5yDPwfK7DTMXBZRHmqT5dD5wFFbwMKh",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "Z3Rjdo53mMuFbR7KMmP2bBRqof9wsZsmh5jwdPXRZRj5",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "LRDmBZwwdqMBuoVRZsboMfPFH3jTsHjyjH9F3mwdMVRu",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "FwsKHBH3d3BTPdsK3q7u1hP5Xhbdu3MT5Rdy51RBsKyT",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "2KXsdRDHb5mjsyVD91DDPo5db35Hfm5XoTPRqhPqFjXM",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "wqB9uZbDXosbRFsVf7uTFmM1sD5XhsFzbdXXXyBD9dmw",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "iDqbBqd5PPdfo5oKMXm7umKKBqVhB3bb1boh3wTT5wm1",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "dKmHVhB1KRDwh9bXXDhXdBdm33KDVouKbdZDZPohdPRb",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "QuH5wPb9wBM9ojssMfhoHqwbbFPdZy55MyTyZMyZdMfd",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "BwHTPKfy5TV7TdqmZMmuhu5PMKMT3Mw9Zw1juFhhFhmy",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "6ojfbmwj5KPZ9d7MbuByXbXo1uoXbyFMfmh1fM5T5hoR",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "s95yZVfq17fZyVPo119f9TXo7BHF3X7BwBoTo9T9j3wq",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "nh3MKyTVZBBu9sM1Fh1KoVb91RKjFsD7HwsByFV3u773",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "ZDuoV51XXqRyTsXXb79jRb5wyqdPwhTswoofqmFZmsm7",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "UbVBhdVMMh59jHZBDH1qmMs1XqRfy9uys75RR3RF5VuZ",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "FRDPVThXmoDP3w3mM5dmqfhRXHy1qMqTbMHbR7h5n1jy",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "A5wR71T7jy9TPKqFdFFsTwZyBZw3uR1KyywF11T1RMuj",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "wDb7XMKXFDVRVqVDwKV7ssMKfRZ13j3w1ZPBT7hTjPTh",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "ryP9mP1fMTZMRRMubHV73KVDFw5oVFRBshPfm9hwqssM",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "dZ1XdKqRbDw1w5mqDqR9BHyqsDfXsbD5usqTjDZBRdXF",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "YshqFs9BZRfwj3q3XjFT7PdoVuM5BPKXdybHPFFK5suP",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "KMPPFdhy59D1ywue5VX7dwoRMHjoFPwjdd3Df7qRZwum",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "Em1VbsTBMZq1y3Dy55u7yuKHX3sBdMDRfM5jw9XVPjs5",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "19u35TdMZZdfhVbPBHoPMjXyRmVq3TKRb5jmofyh9Tsf",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "vfTMDwFKm7qKFmFbD99BHZFmdjx1qf7ZDKTHTDosjhwR",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "h37Vbo1ds3B5XZVuwmqRP5MR39wdqZjFPZsMu9Kf9qhm",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "cZm3quh3bjdZRdP3fdMyKMomf97BVFVjb1PyB1sP1ZBh",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "PjZBZToPZMhZPw7MKqVFdhRuD9yHX1Zby5jPKqhK5bjR",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "J3MKRT9BX5AwwDDjKmuMjjjDbHBhZ3TqMDPj7F9bbTFo",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "5dsr9FVRfhPfVRB9TjR9mP6fyqPHddTjHPKR5TPZsKfm",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "zwf7jBmhHsRZhyjfwR9Pjb7VuK5B9RP9sm7sq7HMZuTR",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "mKT9H3fVDMKTBPuPV7yB7DV39D797Hd3hjb7TBd7bD7X",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "gq7hPZBMqVXs7hKdBBMo7qjTuTbZsKshVRRHRjhKyhP1",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "TDmFbuwq3ZjToddHjjF9wPwKhhyKTswwZX31XDHPjTsB",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "NjRXs3KswZRqd1TPwPjqhVjPTfRmsyPKBhXTo9BX3T5M",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "975y9KMdyubwBjKM7BV5oD7oo9yRs7RKwF97dh9DqqT7",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "4dsodyfm15XRsR9qsXKHBfsjR3XB3KfXFfjmsowV517b",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "qoXT3mHbPby7P9FuRVMhqMPmVZ3V7dKdTuu15RfRjHuZ",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "kP9mVBBKq1X9VFBF3Rsy3ZTFbhT9XXjRXP1uTVfM1dPy",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "Xhy3h9q3Bjyw33BBFoB1yuFDP9Ho7HsuDf3ybbRf55qV",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "Sss1fj1PbdFXdosmV5shP1wDKh9qTPFHj53PKoBuTVqs",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "DPDfTw9K1sX53MoV5fPywwMbRwbswdRdhoFoTKFfVj3F",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "8mBh9M3q3bHdRRqdMo1B5wHPMdRTRFPdoyZ7bBDTPqfm",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "uHwKKZ7MdP53f3BBHfBsw5dbojMyqKyP9ZyDFuwf3djF",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "pfVbTV7ZyBMqPyqPysm1ysjmdMjdbf1wfwwhFMTfm1DZ",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "byBoHTZHssyKhyuMZXjRDTPq7PRoZ3d99ZqwV1VTdRDH",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "NZwD7HBHoqKf7yZDTsyfjTKXhZhPD1VdHX3ohuqPKBKP",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "HsdXjqmKjXMq1FRZ9XuuobM5hTyjjMoDwRqXFBffo5fb",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "4uuVqhKyHZfRHsmX5fqDHjTTZVuPTXPMXqPRHXwj3FTf",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "ymwDMMsj13ZPPTPMqs3MMFV1VK9VX1hhZDRZBDBKMjob",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "kh5BK1qZjR5jjPXbVT7TRm7dyMPq7Fj1THbPBD9RuDPf",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "ffFshFMdMF11KhM5Kf3sM1jhsdmFoF3XfVbZKqq5umq5",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "S33T3BdoXBVRsVqoZBjmmV53ZMwybbFHfKTofZX55VRR",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "MZhjKK9djdF3TyfRqhTKB3F7sXX9RbuH5o3fMZqPHmuV",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "8qKymhuwmwHm99TDZVKju199ZyTPyoyyVXwKiqjHo7fV",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "33HsuTdXTPyjoujP1RDfKdPKuo7y9MuRHFwuyDKb1ZoP",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "pjdmH57Mhj9Kyqq3oD9713PmKsMZod17VyHXff3uujqM",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "jwbhPwmus1RHhHu9MoK5FKVP7f3yyuo1ohDXXmZ1mhHo",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "WXFF9Rf3bMj3ToZ1TVHTdDFdbFBdHqmw71y3b1s5Vq55",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "RquVhmKVTDB73RsVBHFZZDuF9DuVT3sZsfZTwdwFVVP9",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "CKjq35sHyDd7H9bZmMj9y53B3Z7jwBMju9sjqmFsRoRP",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "7jwMw9hHdXBy9oFTTBVfw7Bjbj9FRM3uHFwbbhbM9dZy",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "t7DRwjDPT1TyMKV1whMwdyBMF7MywuZ31B3j9RMb31yH",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "oVdmPsRMw5dw5jmjByjFZ7yhwBdPMBBBfjDRsPqR7hZ3",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "aoTuoMdF75TD5b9mqK5yMFHsjHHVdsywMwZBu7j5VVRX",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "VPDRZhysjddKZRDX1mjXVFyj5179BmoMBToKTZ9FT7FV",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "GhmhB933MXBZwKhqBF7qMb3TyPs1du51F3VoZ5RPbqZq",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "Bsfuw5oBZqq1FjKKFyMMj5KfFBfBbTw755TBhVwRqFPb",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "xbDRfjPw5VDjMy15uR1hKsRuBbDXM31ymV7uVw1oPBwf",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "sm7PmDmuHD5Ts9yZjTRXqHu4PBZmwh9yTTu5ZHTwfHFb",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "eHT3ZRm3MooXs9wujX13d5HM3RyqKV7fMDwPBsm9hRjV",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "ZfR5MfRjyqw5Tub9oM79hRw3Dwyq9FdwwR1mV5bTsyhD",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "LBBhR3quBTKfohP97fqjhjMh3o3y9jZ5dVohFwdD3HTh",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "FZjyRqw3oRB3P5T1BDTPBKh7ys7sHHwBdTFo3FymBfVB",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "25DRdM9XoTKsFDVMyh97F7b1oRqoyTfqPTqdX99V3MBU",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "wT5myK3dXdjRqmwfhMMfhPoTjT77ZBwb55ZhjuBd3s3j",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "imsuqDTuHfPKRdH3Hu3VfyfMdh5uBu5qwwq1Bysojy3K",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "dMPTbhMuMZKqbTf5BssyudRK53wfjF5Bd3PwMdsPKfDH",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "QfBbKhhFqdhXhf1oVbomPqyF7VM7R1Zsud9muVomKBKR",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "KqyjBqqowK3Xo1H5DyyTMDm3F1bZwZKK5Pd1sobVZVdP",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "6ZdhmZyZVVVdV31qhDfsyjyThBb57qh5RRmMswBBwSKB",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "sPo9K1sM1DuKRM1MPjbuV9h7sTf5uTTo59BofPB7M9mm",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "nTw7HuhRo9m7oHm3MfHbuBoswXb3wyHy5D5mFXH11wXZ",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "ZjZMjmV7BwohFs1K5yuFqR7dRhXwHyhj97qdXjsKjR3f",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "UwXF1wM5u1mFoM3ud5djufKuXDh7M1o7RsqmTFF3ZBKH",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "FX3wdHM37ZbsjfyjVRohPwTbfVojDFM1FjK1DhZX3jqq",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "AqRDwX9wbDqy15PowMqXP5HdFFXBDfswFyHoZTdRZ33q",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "wso931HouKK5ZZ7dyVh7MwDo1j9DmH3ZTHw3bZoZ79dM",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "rbFfu9Pyj3f3qF7dHjsZTbsTsud35KKyZPXodhddPZM7",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "dfHjwfd73TKdXqjf7Xmjw9fs7V3HRqou5XTqVy99XbTV",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "YVhHoMZRqjFjh5DRPMuqfPFZ9jXbXdqHDyw5jM5wb5Vf",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "K1TouBy3q5PXh3yPuZR3y77y5XqZquR5ff7bTdFo3jXy",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "EP17BbjoRHqujyDXByMs7mmw3KX3wuoMMDZV37T3hFm9",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "1oXXPq3VfdmDBPVubRdZXmMBhmTs7uyyPjyXMdHKyZfX",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "vsbFsZT95oyHdKXqMu7w1KEy9BhuMTdfwuTFsPmFqqZu",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "hhyDyHBjX1ob5DV7wK5udMqV5qbFyo1yj573yDfb9q1u",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "cmuHuZXj9MoHfMsKfdD3RhTH1M9XX7RX3BTZRjKHooDP",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "PVTomyPKRbKRR9KZDMjRBHjoKVZVV1sKZ1ohdBsssHmo",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "JfFwd7XeZBsKohT7K5V3wKMy9o9RZXjoDhTMhPFFfqus",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "5BhRXuVboRh5ybRwqR1dXhHFKMK7MVMMHTfByK3j5wss",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "zZZd7bfHjq35F9MMXZsKmhZF7w3bTyZbPRB57PdohZTR",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "m5R5PXZbf19P9TmqjDosddwHZqBfBZqMZZPT9qRyHj93",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "gT1Tb5ubHM19mu1jPuV1R9fqMMsdKoMDoXd9XF9s1wwB",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "TmfZMR1PKdKshjRoByVZHMTfyFhXT5wPMdHTbosdRqXw",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "NMK95Z3ududRDmBDPPXqqKMbywTZqZ1yuZfw7PTVjKjD",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "9f7Hof3q5ybMyKqmjFVfhPhTFHbXqPqf3KmbPPuRPuXw",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "4quHmffR9f9R3TwXT93R1jFs1ZdXmo3XZyTPwBRBMFbm",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "qZRyRBKyByZmd1Mu1hXsojHV5uZ3397BuTbdhoX3RyZ1",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "kjD79KZMXq1wFmH5D1qBhjXBfX7bqVd19FMRBoDTRR91",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "XFfh1DDwmTBoBfhFTPbwfuHsjfB1shRdqbhHMbwyDHy5",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "SdXmdD37j7K1KPXumduf9DFBF3XHT5d9wh9KqMMyq37V",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "D1Hw1M13oVBDBXuKfVXKXMXbhhhDBujysKBum1RBufbb",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "8XyVDBmVuZTf1X35mMubmMbssKVRTZmKRVKwhFHDM1mD",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "uuj1TV1FFqhwDs9Ko9Bs3PjqT1H93Xfssb9RsDmo3D5M",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "pRHKjmymTVbThTFD3jDsfVKPdsFd9MoK9KDFTd5y3bqh",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "bbBHhV3w5Hy37m5X51HMZXs9BuFuwZhbTH135qF7fF3w",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "WKj1DFDyyh1hudbbFohdMRHhFVy7PqdjjMmusMFXqHVf",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "HVV3sd7f5qMy1VRZ7P5sh1MZRd3PwsV3hjZqfq17HsHf",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "49MBmfR1sbDVH1ymduqf7FmZH9uTwoPBFBfsRhT7oTwu",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "yPwfmHfFsdX51mfVowB5TqDMZ3y9Fwf5XM9sFPXjmB7X",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "kM1omwFZuhMFu5fw1K3hjyDVPTmMdB7H9hqZmb7ZoBFD",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "fHFV9wZB7PdyHXhDjyF7uqR3fqZKVVsfFdVu1BVohbTj",
+    "hasSGT": false,
+    "trustScore": null,
+    "passed": false,
+    "reason": "No SGT"
+  },
+  {
+    "walletAddress": "Shm1Bf5H7wyB57w6FqMKqThFTRhZV5joMB7h7sfhwPH7",
+    "hasSGT": true,
+    "trustScore": 15,
+    "passed": true
+  },
+  {
+    "walletAddress": "MmjodVD9f3dwjoyZsPVjFB9dwoBwMD7XjjHbFw7wR19s",
+    "hasSGT": true,
+    "trustScore": 15,
+    "passed": true
+  },
+  {
+    "walletAddress": "8VP5XRDwyVjdb1D9HduduVDVKHhf9qoZqKXobXdH9RD5",
+    "hasSGT": true,
+    "trustScore": 15,
+    "passed": true
+  },
+  {
+    "walletAddress": "3f3jwDqfXmhRDduPqmquXydTPqjfHwqKsPdfV1PPXVhh",
+    "hasSGT": true,
+    "trustScore": 15,
+    "passed": true
+  },
+  {
+    "walletAddress": "pHsw7Vmu1dKhR1DwsywM1fM5B15yTmDZBqHTFBT7jM55",
+    "hasSGT": true,
+    "trustScore": 15,
+    "passed": true
+  },
+  {
+    "walletAddress": "jZVKbbPD3BHD9DjXd3HDsBVmwq3HHM5Fof1s7HK5uhH9",
+    "hasSGT": true,
+    "trustScore": 15,
+    "passed": true
+  },
+  {
+    "walletAddress": "WBBmm7M55RMVj1f9s93M5bUjMX3RZH19m3FVB7dZVqK9",
+    "hasSGT": true,
+    "trustScore": 15,
+    "passed": true
+  },
+  {
+    "walletAddress": "RTo155XKdZXBDjZ5Xwu37sVqX9H7B5yFuZ53TPjyHdTK",
+    "hasSGT": true,
+    "trustScore": 16,
+    "passed": true
+  },
+  {
+    "walletAddress": "CyfTV1H97dBXb9jPm75sM7bFK5MwTjP1hyfHy7D3Vd33",
+    "hasSGT": true,
+    "trustScore": 16,
+    "passed": true
+  },
+  {
+    "walletAddress": "7MFqZfVMFsTwdBd9KXfPP1RwmVfT1DfTooH7MdswyqoV",
+    "hasSGT": true,
+    "trustScore": 16,
+    "passed": true
+  },
+  {
+    "walletAddress": "tms51XhuVT1ZusBoRhZHyjXTXfsKMVFRXmPVDsdZhPy3",
+    "hasSGT": true,
+    "trustScore": 16,
+    "passed": true
+  },
+  {
+    "walletAddress": "oqh57wjqHuZuPT1mfuqDhHMRPoBh13VmdFbHyfZDbwud",
+    "hasSGT": true,
+    "trustScore": 16,
+    "passed": true
+  },
+  {
+    "walletAddress": "afBmV1qHPXwfm9PFPRHVhw1jdqBBH5T1yf31Kb3s17sZ",
+    "hasSGT": true,
+    "trustScore": 16,
+    "passed": true
+  },
+  {
+    "walletAddress": "Vj9fs9PybDRM3wy37bBu77FTRowqusHdD3yPHo1mPbh1",
+    "hasSGT": true,
+    "trustScore": 17,
+    "passed": true
+  },
+  {
+    "walletAddress": "G7moZd9w393DwXdo9X3Rm3wbsVTPXdTZqKm1bjmKMqsj",
+    "hasSGT": true,
+    "trustScore": 17,
+    "passed": true
+  },
+  {
+    "walletAddress": "BdTVFoH1wsPdffwH7u3Z5KuDPDwjqdFBDPD3V5TR9bV1",
+    "hasSGT": true,
+    "trustScore": 17,
+    "passed": true
+  },
+  {
+    "walletAddress": "x1DsbumhoZoqDV9Tfs1hR1oBfhqTqBudubZ7HwMVPfZu",
+    "hasSGT": true,
+    "trustScore": 17,
+    "passed": true
+  },
+  {
+    "walletAddress": "sXm9bhmfRMZdwj11oDBqm7RyhV7T3Z5f73PHusF7jqhm",
+    "hasSGT": true,
+    "trustScore": 17,
+    "passed": true
+  },
+  {
+    "walletAddress": "eufZBD1fwHB1mTFodMHjuu9yDhPf35wFwj1qBMTRVRVK",
+    "hasSGT": true,
+    "trustScore": 17,
+    "passed": true
+  },
+  {
+    "walletAddress": "ZRDsKboPfhwqTqBXHfoVDHT19fhZXf3FwfPfdP15jB1D",
+    "hasSGT": true,
+    "trustScore": 18,
+    "passed": true
+  },
+  {
+    "walletAddress": "Lb7qHKshBf79qhyKfyfF1PZ9yf7qKF1dB1wFBjjhFobX",
+    "hasSGT": true,
+    "trustScore": 18,
+    "passed": true
+  },
+  {
+    "walletAddress": "FKXhhFhKu7XjqqHVTMBKsbdimo9ZT3D3Z3BBh1XPdZuo",
+    "hasSGT": true,
+    "trustScore": 18,
+    "passed": true
+  },
+  {
+    "walletAddress": "2VRff5bh73DsfFwHF9swmD3wVfXqqDRHdoX9qH1wKTsb",
+    "hasSGT": true,
+    "trustScore": 18,
+    "passed": true
+  },
+  {
+    "walletAddress": "wo7qPDXVuoyBdDPmZdBFP7DqbHsfyyuBTZFqRsqfMHsF",
+    "hasSGT": true,
+    "trustScore": 18,
+    "passed": true
+  },
+  {
+    "walletAddress": "iPsm11oTKTPXjVwRXFoH339XoKb7sZM15FXTmssVjdRq",
+    "hasSGT": true,
+    "trustScore": 18,
+    "passed": true
+  },
+  {
+    "walletAddress": "dhRmjXmyj1TTXsP51HjDb3m3FK7VjBhDuhKHFBT1ZddK",
+    "hasSGT": true,
+    "trustScore": 19,
+    "passed": true
+  },
+  {
+    "walletAddress": "Q5Do9yw7o9yBDyPRT1X5sZ3h5s771PTdwbh9XdHmfqbh",
+    "hasSGT": true,
+    "trustScore": 19,
+    "passed": true
+  },
+  {
+    "walletAddress": "KbsMPV3FoRfXVPf519MBhVPD7wmbq3dX3FTwdXsfqfd3",
+    "hasSGT": true,
+    "trustScore": 19,
+    "passed": true
+  },
+  {
+    "walletAddress": "6yXuVs5o1BhKquojBPbR5bHZ7w7dbFP5hyo9FqhPjdH7",
+    "hasSGT": true,
+    "trustScore": 19,
+    "passed": true
+  },
+  {
+    "walletAddress": "1VB3yohBK9Du3wyfjbTqFXBqyPKVRZHuqB9FMbXfoHsu",
+    "hasSGT": true,
+    "trustScore": 19,
+    "passed": true
+  },
+  {
+    "walletAddress": "nfyBbywhDbh9FTPH7wdZmDjowqVw5jPRyZFV5Fhoqh7F",
+    "hasSGT": true,
+    "trustScore": 19,
+    "passed": true
+  },
+  {
+    "walletAddress": "ZyKoBm39ubjdu3jy3FDdBV7BPH7DXZbumbdjosuP3joV",
+    "hasSGT": true,
+    "trustScore": 20,
+    "passed": true
+  },
+  {
+    "walletAddress": "UZHy51KmDFBF5KFj1qK9Ds1Do9y5MPwwhTMFwbKqFqd9",
+    "hasSGT": true,
+    "trustScore": 20,
+    "passed": true
+  },
+  {
+    "walletAddress": "FB7KEshVywb1Td1uZHKFHRmYh9m3V7fHj9Z3sRRV7599",
+    "hasSGT": true,
+    "trustScore": 20,
+    "passed": true
+  },
+  {
+    "walletAddress": "ATjhh57mjXMHMs9bHs1hyqbZy55FVqVFbfRdqyDdufHu",
+    "hasSGT": true,
+    "trustScore": 20,
+    "passed": true
+  },
+  {
+    "walletAddress": "wXsffj5jF9TD1TVHTdDFdbFBdHqmw71y3b1s5Vq55qbo",
+    "hasSGT": true,
+    "trustScore": 20,
+    "passed": true
+  },
+  {
+    "walletAddress": "rM3PBZFHwdPo95dPKVhHwm99KojT9DH9fsmb5Bd1HfBZ",
+    "hasSGT": true,
+    "trustScore": 20,
+    "passed": true
+  },
+  {
+    "walletAddress": "dBnsTBwKyb7RsbBMq1KHXfjHsTZ3D1DdDX9Zf3mHZRbq",
+    "hasSGT": true,
+    "trustScore": 21,
+    "passed": true
+  },
+  {
+    "walletAddress": "YFVDf3PoFRby5s1RTm9wHhb73owmP5V1mhosshHKMPq9",
+    "hasSGT": true,
+    "trustScore": 21,
+    "passed": true
+  },
+  {
+    "walletAddress": "KXKXBjyVZyf1Dsq1B5Xfd3THjfjM1uXHshXmBTXBRVmK",
+    "hasSGT": true,
+    "trustScore": 21,
+    "passed": true
+  },
+  {
+    "walletAddress": "EjwT5RTPjXMHVyfdKooVhdFPX3PHRBKRmh3TK15ywfwF",
+    "hasSGT": true,
+    "trustScore": 21,
+    "passed": true
+  },
+  {
+    "walletAddress": "1Khs7FbVB97uK1P7DHFjwoqhqM13wPD1DoBPsPbXPRq1",
+    "hasSGT": true,
+    "trustScore": 21,
+    "passed": true
+  },
+  {
+    "walletAddress": "vdP3hXXFjfjdoZshd3B7DVfPuPXyjyjTqyo3qHPuX91P",
+    "hasSGT": true,
+    "trustScore": 21,
+    "passed": true
+  },
+  {
+    "walletAddress": "h75V19DPDoPyhhoP3VZMXd9HDsRdwm7h577bZFHm9q3V",
+    "hasSGT": true,
+    "trustScore": 22,
+    "passed": true
+  },
+  {
+    "walletAddress": "cXhsD97NhF1DZ51dZqqFhhd3HHKwj5uTPq5XFVZ3FD7B",
+    "hasSGT": true,
+    "trustScore": 22,
+    "passed": true
+  },
+  {
+    "walletAddress": "P1PRDuh9PFBZHDdHDDwFMHsjqMM3hsjZhRFuqf5M3FPy",
+    "hasSGT": true,
+    "trustScore": 22,
+    "passed": true
+  },
+  {
+    "walletAddress": "JR9yZB3RMXMqso5yo9qwq1TZTPumwDf7FBmqmZwfPqHT",
+    "hasSGT": true,
+    "trustScore": 22,
+    "passed": true
+  },
+  {
+    "walletAddress": "5ouw9hjDViXXVqsb9q7o9wq3XVj997FhMPw5B5XPf1D1",
+    "hasSGT": true,
+    "trustScore": 22,
+    "passed": true
+  },
+  {
+    "walletAddress": "zKTF9Q5BTwdTMbsbubu17MmVPHybbHBDu5oTRmMTMqfK",
+    "hasSGT": true,
+    "trustScore": 22,
+    "passed": true
+  },
+  {
+    "walletAddress": "mVFP95sHbqwhZqd1jVqVqw3ywjPHHfToy9Kb9Zf9u5fm",
+    "hasSGT": true,
+    "trustScore": 23,
+    "passed": true
+  },
+  {
+    "walletAddress": "go3XuPmMhQjXBy7BFwMmHfTfq5jo39KsP1BmPPZ3XD7T",
+    "hasSGT": true,
+    "trustScore": 23,
+    "passed": true
+  },
+  {
+    "walletAddress": "TPZDXjmH3DPyVZsyKRMwuVqPbj75HX7ZqhuoMbVVmwVf",
+    "hasSGT": true,
+    "trustScore": 23,
+    "passed": true
+  },
+  {
+    "walletAddress": "NhMDVh9D8oRTVK9mjjT79qRMZbZfy1wTXuMKwHTRfdTu",
+    "hasSGT": true,
+    "trustScore": 23,
+    "passed": true
+  },
+  {
+    "walletAddress": "951of9wd3hFM5ybmqHbfZPhRRXboDMPVdFbsmTTwMqM5",
+    "hasSGT": true,
+    "trustScore": 23,
+    "passed": true
+  },
+  {
+    "walletAddress": "4bf1jmVMdyd9FTHjyP7ymDRmMdT1KTZsHXDffym3y1VT",
+    "hasSGT": true,
+    "trustScore": 23,
+    "passed": true
+  },
+  {
+    "walletAddress": "qyTBFKmVbbjmuqj5ZB7smHPfbPPbTMsd75fRyhy1KK71",
+    "hasSGT": true,
+    "trustScore": 24,
+    "passed": true
+  },
+  {
+    "walletAddress": "kV7jMqHV3RoFoZMuPh5qossVPMqwqFHVsds7V7Zffom3",
+    "hasSGT": true,
+    "trustScore": 24,
+    "passed": true
+  },
+  {
+    "walletAddress": "XsmHTTXmXDDwqVoXwubmD33HBFMwfdB7BXXHmDfjmyZZ",
+    "hasSGT": true,
+    "trustScore": 24,
+    "passed": true
+  },
+  {
+    "walletAddress": "SPRRwHZdBPb7FV11PjVVm9jPKV1hTDdZHFVR9PZTPyZ9",
+    "hasSGT": true,
+    "trustScore": 24,
+    "passed": true
+  },
+  {
+    "walletAddress": "DZDZhTZRZPfs5jfqHsjFuD1u7TjRPyKb33ZqLh5BZmF1",
+    "hasSGT": true,
+    "trustScore": 24,
+    "passed": true
+  },
+  {
+    "walletAddress": "8HTP1sMVdsPPHKq35PBZ3wRBF7mDssomfwMsBusjwuTu",
+    "hasSGT": true,
+    "trustScore": 24,
+    "passed": true
+  },
+  {
+    "walletAddress": "uTXM3M1BD7XRyuf9RMuKMM5bod5Bu1FfKHTTK3hHuBVy",
+    "hasSGT": true,
+    "trustScore": 25,
+    "passed": true
+  },
+  {
+    "walletAddress": "pdHw11DKK5RK5KhdB3H1T11dwqTTKKBysR17dZFH7H9B",
+    "hasSGT": true,
+    "trustScore": 25,
+    "passed": true
+  },
+  {
+    "walletAddress": "bMy5fRwHKo3h7MjfyRf5qbjDM5dRRT71DbMZ5hwx5RDP",
+    "hasSGT": true,
+    "trustScore": 25,
+    "passed": true
+  },
+  {
+    "walletAddress": "WXs3d9udhyM5dByP61VmfjjBfVVfXMHwTC5uo93fTwMd",
+    "hasSGT": true,
+    "trustScore": 25,
+    "passed": true
+  },
+  {
+    "walletAddress": "H3DhRTssbP7uhPBKZV3M3mwo9XPy9msVF1ZBsHdDFjF5",
+    "hasSGT": true,
+    "trustScore": 25,
+    "passed": true
+  },
+  {
+    "walletAddress": "Cq3H15XsByDFqPyZBZVVD1BqyV91Z7swPBufFboFo9BT",
+    "hasSGT": true,
+    "trustScore": 25,
+    "passed": true
+  },
+  {
+    "walletAddress": "yjs3jHHqoZDT1KbwP5dTMu7MBbBoKPy9FwMKuFdXbPD5",
+    "hasSGT": true,
+    "trustScore": 26,
+    "passed": true
+  },
+  {
+    "walletAddress": "kbjwZMHRbms1TZPVMy7TsRMMmofuFFqdbRqHbMujb7bd",
+    "hasSGT": true,
+    "trustScore": 26,
+    "passed": true
+  },
+  {
+    "walletAddress": "fdBqBmHuZXKFbVFfKs3fwdsj3uq5KXRPV3ZhKZbDodju",
+    "hasSGT": true,
+    "trustScore": 26,
+    "passed": true
+  },
+  {
+    "walletAddress": "Swh3wq9H55sF3RDw1hhHum7ssFhs1jTBhsbmMRHVohKR",
+    "hasSGT": true,
+    "trustScore": 26,
+    "passed": true
+  },
+  {
+    "walletAddress": "MXdRo19y5bs7w7X7yBRZR3BRhKuPZoT313h1u3bmVyHj",
+    "hasSGT": true,
+    "trustScore": 26,
+    "passed": true
+  },
+  {
+    "walletAddress": "81KsyV3uo55bThK5VT1MPDsHRmbZ5BFqHDBhMy9o15Vb",
+    "hasSGT": true,
+    "trustScore": 26,
+    "passed": true
+  },
+  {
+    "walletAddress": "3RwFKds1FD9MR7T1DVKq1TsP79fhP5jyo5woboBso7D1",
+    "hasSGT": true,
+    "trustScore": 26,
+    "passed": true
+  },
+  {
+    "walletAddress": "pM5DHPsHZPhXBH5sMyw7mdM533fbdshZ1oPMsmVjD99q",
+    "hasSGT": true,
+    "trustScore": 27,
+    "passed": true
+  },
+  {
+    "walletAddress": "jKPXwowRPPR1sP191313oR5XhyZqHRMPhdhhd3FsT1H7",
+    "hasSGT": true,
+    "trustScore": 27,
+    "passed": true
+  },
+  {
+    "walletAddress": "Wh3V1Tjwwy7s9VKsDmdmoMRqjwDKjofFyyPd9bhZ7Kbw",
+    "hasSGT": true,
+    "trustScore": 27,
+    "passed": true
+  },
+  {
+    "walletAddress": "RDhdFbZP1FsMoqsV9jbVKhf9HjZ1K7Zwj5D5Vjjy3Zww",
+    "hasSGT": true,
+    "trustScore": 27,
+    "passed": true
+  },
+  {
+    "walletAddress": "CVK1jZHXHPFqFMoZXB3MswbDBjPKyZZF9HMbf9F1Tfhd",
+    "hasSGT": true,
+    "trustScore": 27,
+    "passed": true
+  },
+  {
+    "walletAddress": "7hHussdoThKMPKdRsmuVTDK9f9uV9j5o9odufyXKT1of",
+    "hasSGT": true,
+    "trustScore": 27,
+    "passed": true
+  },
+  {
+    "walletAddress": "tHobdDPuKhH9Zww75hXbBZjPdf1TT79VuXq5KffHTwoM",
+    "hasSGT": true,
+    "trustScore": 28,
+    "passed": true
+  },
+  {
+    "walletAddress": "obbbTPXMbHuKFMfXmoRM1XPfKXjjhuMmZbHdqDsfMZTD",
+    "hasSGT": true,
+    "trustScore": 28,
+    "passed": true
+  },
+  {
+    "walletAddress": "a5H9ZmfH5qqMD3j1oFwZwjybm5omBuKdHfyhBHqqd3Py",
+    "hasSGT": true,
+    "trustScore": 28,
+    "passed": true
+  },
+  {
+    "walletAddress": "VVuPqF7Bw3XFZMHDZosKRMqMoZmZTBfb1PyqbTHMBu5B",
+    "hasSGT": true,
+    "trustScore": 28,
+    "passed": true
+  },
+  {
+    "walletAddress": "Gyjs1MyPDFqVBjVb9KhuB7TVTwqmw51fq9uPBVVDVVmZ",
+    "hasSGT": true,
+    "trustScore": 28,
+    "passed": true
+  },
+  {
+    "walletAddress": "BPwPuRZfbyKHyuKmH9qmPbZqbMVVydmmb3MDsmf5mD9D",
+    "hasSGT": true,
+    "trustScore": 28,
+    "passed": true
+  },
+  {
+    "walletAddress": "xZ9FBT9hZKwsHHsTdZZMXTDXyuhDMqPoTqFHhu99PDTu",
+    "hasSGT": true,
+    "trustScore": 29,
+    "passed": true
+  },
+  {
+    "walletAddress": "s9mm3V3Hs57df515BqXRb9RMs9VuMdVhyFKAsyP9fyMV",
+    "hasSGT": true,
+    "trustScore": 29,
+    "passed": true
+  },
+  {
+    "walletAddress": "eTTwf37KTBwHuXsBFX7X9vfVZZqhMX3Ryfm9qBjZFMV5",
+    "hasSGT": true,
+    "trustScore": 29,
+    "passed": true
+  },
+  {
+    "walletAddress": "ZdMudmKXFjwFdKD13jqfsPmuyDFmfhH7wX75hB9DjMqf",
+    "hasSGT": true,
+    "trustScore": 29,
+    "passed": true
+  },
+  {
+    "walletAddress": "LMuMRsdy3jHVybqw35XH3fByh5KfT3XuqPqMFZjfFfg5",
+    "hasSGT": true,
+    "trustScore": 29,
+    "passed": true
+  },
+  {
+    "walletAddress": "FXfo51Zyjm7fddqyhdsHVM1dMRMo7jhhy3K5mjfdPFsT",
+    "hasSGT": true,
+    "trustScore": 29,
+    "passed": true
+  },
+  {
+    "walletAddress": "23Z7TMohFjhMRHffKwHMFZDmsRFsRqfD3KDoyZMPqwZd",
+    "hasSGT": true,
+    "trustScore": 30,
+    "passed": true
+  },
+  {
+    "walletAddress": "wR7RjddH7m3mbXmjwH5H11fKFbYfH3sF3fb9FF7Fd5BZ",
+    "hasSGT": true,
+    "trustScore": 30,
+    "passed": true
+  },
+  {
+    "walletAddress": "iwT5XqmKMF5RHB9oqf3hoHVu39Z7dwXTf9F3b913h1Dq",
+    "hasSGT": true,
+    "trustScore": 30,
+    "passed": true
+  },
+  {
+    "walletAddress": "dKR7D7mhbTh5XHd9dP3q1qPFs3hdZZBXwFVKTBwH5HPd",
+    "hasSGT": true,
+    "trustScore": 30,
+    "passed": true
+  },
+  {
+    "walletAddress": "QqBbbXuushsh5yZujBmdumdm7Z1Djfo7PjbFoKuHDRRo",
+    "hasSGT": true,
+    "trustScore": 30,
+    "passed": true
+  },
+  {
+    "walletAddress": "KDsDPZhbXhyDmH9wywDyZT3qjoKPPF3hh9XwyyqRKX9j",
+    "hasSGT": true,
+    "trustScore": 30,
+    "passed": true
+  },
+  {
+    "walletAddress": "6XR5BZf31RjR7mbyF7DPqX13Vo3yuZuqubbyKmyFwwBd",
+    "hasSGT": true,
+    "trustScore": 31,
+    "passed": true
+  },
+  {
+    "walletAddress": "175o5VDowFDqMb9XKX73K1XBqDsThRwf75umoZ5R9by3",
+    "hasSGT": true,
+    "trustScore": 31,
+    "passed": true
+  },
+  {
+    "walletAddress": "nRswPm17B3qD1uZdubyF39Vfqj7PBfj3KHDmdKydPqbT",
+    "hasSGT": true,
+    "trustScore": 31,
+    "passed": true
+  },
+  {
+    "walletAddress": "h1PVZyT9VdPbZ5woMMhoDyDTdoBDV1mhBXjfjbuyh7sM",
+    "hasSGT": true,
+    "trustScore": 31,
+    "passed": true
+  },
+  {
+    "walletAddress": "UKBdH7bhb1hHM37qDBVoM5mFvK2TmdHDjP5yuKbb9KfX",
+    "hasSGT": true,
+    "trustScore": 31,
+    "passed": true
+  },
+  {
+    "walletAddress": "FRdwVhyDqXyDPyZyw5ZFujoKXB1Hsw3KFT7q3soKjbK3",
+    "hasSGT": true,
+    "trustScore": 31,
+    "passed": true
+  },
+  {
+    "walletAddress": "ADdKmhZKVmjhFmyKX1ZZjZXhMwKs1HbXThuZRsoFVPoh",
+    "hasSGT": true,
+    "trustScore": 32,
+    "passed": true
+  },
+  {
+    "walletAddress": "wVFhDZmjRMHwZ7KPyqyoHfBfXqo1KXwFR117T5KHMomR",
+    "hasSGT": true,
+    "trustScore": 32,
+    "passed": true
+  },
+  {
+    "walletAddress": "rh5hKyooXh1RX5oyKB7hPDDdKjbwPRhj1dqFuVfHVo1s",
+    "hasSGT": true,
+    "trustScore": 32,
+    "passed": true
+  },
+  {
+    "walletAddress": "dq5s1fsTd1uDysuDKsZM5HKDdVV35K1FjfTo1w5bPFXy",
+    "hasSGT": true,
+    "trustScore": 32,
+    "passed": true
+  },
+  {
+    "walletAddress": "YbXHyDTBFdM99moTKb6TbjFbFXb3m5d5FyTmPPoswZXo",
+    "hasSGT": true,
+    "trustScore": 32,
+    "passed": true
+  },
+  {
+    "walletAddress": "KdhZjZfddM9Bh9KRTw1hhbdjVqFjywPmhh5DHdF5uR33",
+    "hasSGT": true,
+    "trustScore": 32,
+    "passed": true
+  },
+  {
+    "walletAddress": "EMoysBjsdb5wFs1HmoHjB7979sXyyyjhTujV3FV9MhZV",
+    "hasSGT": true,
+    "trustScore": 33,
+    "passed": true
+  },
+  {
+    "walletAddress": "1yXXXZR39dw7FBZPBjoMo3ufwqbDH5V3Hssbj3VymMZy",
+    "hasSGT": true,
+    "trustScore": 33,
+    "passed": true
+  },
+  {
+    "walletAddress": "vFP3uTMXTd7qTFR3HPsBf3h9mBKmRjsdwjMm9qPKduhM",
+    "hasSGT": true,
+    "trustScore": 33,
+    "passed": true
+  },
+  {
+    "walletAddress": "hmjHy7TBydBfuKDTw99VRTsZ3fP577jFh3HHuZjomPof",
+    "hasSGT": true,
+    "trustScore": 33,
+    "passed": true
+  },
+  {
+    "walletAddress": "c9hKfPbZDqwMfDPTMoX7hVT79KfBVK13X1FF1PPwyf1w",
+    "hasSGT": true,
+    "trustScore": 33,
+    "passed": true
+  },
+  {
+    "walletAddress": "PfTq1VwMw9hHdXBy9oFTTBVfw7Bjbj9FRM3uHFwbbhbM",
+    "hasSGT": true,
+    "trustScore": 33,
+    "passed": true
+  },
+  {
+    "walletAddress": "J3199sjVHH11fdujPj5VoZuHPX3P3FPKRHsVKmhRHBhm",
+    "hasSGT": true,
+    "trustScore": 34,
+    "passed": true
+  },
+  {
+    "walletAddress": "5TXfBMdbbMywyw59D1Zw9fDsXVFDF5XBTDYuu3foHXy7",
+    "hasSGT": true,
+    "trustScore": 34,
+    "passed": true
+  },
+  {
+    "walletAddress": "zXbHj1KfTwyh39Fddb5du3M3Dm1Kw5yDhT5TKdj1PKsR",
+    "hasSGT": true,
+    "trustScore": 34,
+    "passed": true
+  },
+  {
+    "walletAddress": "mF9ZyZHTd1P3VhbPmwFFjT59FjhhwwoB7VT5fhdDMDZm",
+    "hasSGT": true,
+    "trustScore": 34,
+    "passed": true
+  },
+  {
+    "walletAddress": "gRuB4wF5VdPwudZ9KuKVhXdTjhVoMFuPMuo1qP1uq7yK",
+    "hasSGT": true,
+    "trustScore": 34,
+    "passed": true
+  },
+  {
+    "walletAddress": "TwoVZboqbs5DqBF7o1o7so1FXbK9dK3dTnTqoHPosVBy",
+    "hasSGT": true,
+    "trustScore": 34,
+    "passed": true
+  },
+  {
+    "walletAddress": "NKFybXXwhwhH5Tf6HRf3uPZMB3dXqdZ3o1jwqsBbT19F",
+    "hasSGT": true,
+    "trustScore": 35,
+    "passed": true
+  },
+  {
+    "walletAddress": "9qhTVRK7XbqyddBoqwDM5jffKfyDsqBwbd9bHqhHH99V",
+    "hasSGT": true,
+    "trustScore": 35,
+    "passed": true
+  },
+  {
+    "walletAddress": "4DZf51fTuufqXFZXM3sRMKoPjfMX3VbqRBV7fw5FXhMj",
+    "hasSGT": true,
+    "trustScore": 35,
+    "passed": true
+  },
+  {
+    "walletAddress": "qXMoo7w3DD1RuZbh5fyKjmMqMjZ33usu3FwBjhwoVKjD",
+    "hasSGT": true,
+    "trustScore": 35,
+    "passed": true
+  },
+  {
+    "walletAddress": "k71MfK3Z3dD3msTMDf9R7H5h8XmqMyPV1XdDFuqmRXqD",
+    "hasSGT": true,
+    "trustScore": 35,
+    "passed": true
+  },
+  {
+    "walletAddress": "XRfTH3PbhmoTR5sX1H13ZhuwjPjdyHyu1hsy9wT5ZDjZ",
+    "hasSGT": true,
+    "trustScore": 35,
+    "passed": true
+  },
+  {
+    "walletAddress": "SbTjyssZhofTDTKFydKjPoRFX57ZB3hyfsmXTBTwsbXh",
+    "hasSGT": true,
+    "trustScore": 36,
+    "passed": true
+  },
+  {
+    "walletAddress": "DK7KKqjdKyTPVy5Hq33KsVDdyyHd9TwRP9jqVjVyKwb1",
+    "hasSGT": true,
+    "trustScore": 36,
+    "passed": true
+  },
+  {
+    "walletAddress": "8VuKjwmfHjFFBy5yuDTj5jydXFH7MBs7V9hhwdTwZdRK",
+    "hasSGT": true,
+    "trustScore": 36,
+    "passed": true
+  },
+  {
+    "walletAddress": "u1mfDoqw9jh7wT17RFmHMhVHTsD3bjjb9T9m5Pu3597q",
+    "hasSGT": true,
+    "trustScore": 36,
+    "passed": true
+  },
+  {
+    "walletAddress": "pPD97hbjfMfuRy5Fd7BsywRwBdfym915FBPuFoT1jF9m",
+    "hasSGT": true,
+    "trustScore": 36,
+    "passed": true
+  },
+  {
+    "walletAddress": "bufjyd7ywfs19duHuVqFZDoqZoHdTThhsoyRVbwRddDD",
+    "hasSGT": true,
+    "trustScore": 36,
+    "passed": true
+  },
+  {
+    "walletAddress": "WHXpVj9dyomuB3VuyjHuFuTFM3yFmBVPB9T7Z9RZBfbR",
+    "hasSGT": true,
+    "trustScore": 37,
+    "passed": true
+  },
+  {
+    "walletAddress": "HfHqdMoHwmqPZMDjyPVZ5jDqj1uyRTKMyHXjwBPjwZqT",
+    "hasSGT": true,
+    "trustScore": 37,
+    "passed": true
+  },
+  {
+    "walletAddress": "CByXKXwD11yBH1hwqb1H17fqf9wqdbPHqBFdKqfV773m",
+    "hasSGT": true,
+    "trustScore": 37,
+    "passed": true
+  },
+  {
+    "walletAddress": "yMsVBH1f1PwRDM5ufH5bwy9ZVowb1dZ3Zj9TDj1uKfbu",
+    "hasSGT": true,
+    "trustScore": 37,
+    "passed": true
+  },
+  {
+    "walletAddress": "tfZooqKRybh5yFFHKsMooDFVZjd5sdbudMw1juHB77Rq",
+    "hasSGT": true,
+    "trustScore": 37,
+    "passed": true
+  },
+  {
+    "walletAddress": "fFBKfm93R1Xs9ToRqMw5XDKfFH7Pym1P3PVyDyd9s19u",
+    "hasSGT": true,
+    "trustScore": 37,
+    "passed": true
+  },
+  {
+    "walletAddress": "SBFdHPHMjq5PhKMhDdVHjjZ1uqKD5F7Fjq1Td1bqwZqB",
+    "hasSGT": true,
+    "trustScore": 37,
+    "passed": true
+  },
+  {
+    "walletAddress": "M9dRsu7PqhZDBDBj3sofKByMs39hTwosfF9mK33PFFFb",
+    "hasSGT": true,
+    "trustScore": 38,
+    "passed": true
+  },
+  {
+    "walletAddress": "8P39TZXwwqV99bVDK1Z7ymXFj39Rf7mb37MfXMsKofKV",
+    "hasSGT": true,
+    "trustScore": 38,
+    "passed": true
+  },
+  {
+    "walletAddress": "33whdsK7gR9VXVwPPsHjuK5duhqDb5suT9dj7d5hBbdm",
+    "hasSGT": true,
+    "trustScore": 38,
+    "passed": true
+  },
+  {
+    "walletAddress": "pTTFqFXywu9sq5TsByD5DD3H7wmjq9T1sq3uh3LDPRRF",
+    "hasSGT": true,
+    "trustScore": 38,
+    "passed": true
+  },
+  {
+    "walletAddress": "jXXyD7d7DhhBdwsm9DBh9mXXPPfT7uZfH5yb7MqM9PFB",
+    "hasSGT": true,
+    "trustScore": 38,
+    "passed": true
+  },
+  {
+    "walletAddress": "WodBub7hRTuq7DKsufB9d5hKyhyXBTy9wuM7hZdsMfDs",
+    "hasSGT": true,
+    "trustScore": 38,
+    "passed": true
+  },
+  {
+    "walletAddress": "RRjqbu7bZu5quXjq1oHbDJhTHsB35f9hTTmBZfhB5yfs",
+    "hasSGT": true,
+    "trustScore": 39,
+    "passed": true
+  },
+  {
+    "walletAddress": "C9PXDVqq5qfqPZMHKPdqFo7dd7u1j5h33hXMX7sMKoZs",
+    "hasSGT": true,
+    "trustScore": 39,
+    "passed": true
+  },
+  {
+    "walletAddress": "7K3VVH5DFqhRMooKVqhh1fbuPTKs15oFhdsw3uuDXMhd",
+    "hasSGT": true,
+    "trustScore": 39,
+    "passed": true
+  },
+  {
+    "walletAddress": "twsyDxT1wf9R7mKB5o97KVfsjPsKmPVR1DDfMB1pTujd",
+    "hasSGT": true,
+    "trustScore": 39,
+    "passed": true
+  },
+  {
+    "walletAddress": "oDVMZsMfMXwhMDKdjKKVohM3BmRmKqHyhXB7sjHw7qdM",
+    "hasSGT": true,
+    "trustScore": 39,
+    "passed": true
+  },
+  {
+    "walletAddress": "ajwqbfKPdsqmFTyjbFo79sbmKjHwXK5RF3sbHy5smFbM",
+    "hasSGT": true,
+    "trustScore": 39,
+    "passed": true
+  },
+  {
+    "walletAddress": "V7o33TH3ZRM5qy7DZw1dPm9sbFToVBqmDP335wub7hsh",
+    "hasSGT": true,
+    "trustScore": 40,
+    "passed": true
+  },
+  {
+    "walletAddress": "GdfMfMTB7h9K3q5KmPRyTjq9dmKFMKsVFHdfduhVDy3H",
+    "hasSGT": true,
+    "trustScore": 40,
+    "passed": true
+  },
+  {
+    "walletAddress": "B1Fjd1qBTfMyjXj1TMDZ9Xmyu9TXKXPmydbfBqhFTHZ9",
+    "hasSGT": true,
+    "trustScore": 40,
+    "passed": true
+  },
+  {
+    "walletAddress": "xRs7yofDy7ysDoPjsbHsFosT7FZfXFmVRdDyKdMT3bbH",
+    "hasSGT": true,
+    "trustScore": 40,
+    "passed": true
+  },
+  {
+    "walletAddress": "sVh75Dh9VBFPRTM95s1sjZqTqH1VsoDFu9bBVH7mXXM5",
+    "hasSGT": true,
+    "trustScore": 40,
+    "passed": true
+  },
+  {
+    "walletAddress": "eDwqKfbyfqFhF9wXF1ouhmmw1hwmdshDh519DHPs575o",
+    "hasSGT": true,
+    "trustScore": 40,
+    "passed": true
+  },
+  {
+    "walletAddress": "ZP9hqRPPdfPjKfdbVVXuXoFsTqhqo3XRudBy1TFXmXfd",
+    "hasSGT": true,
+    "trustScore": 41,
+    "passed": true
+  },
+  {
+    "walletAddress": "LmuD5hVZKKXFhj9sXh1P9bXsbX5b9Rf9jqjoMPquVZRb",
+    "hasSGT": true,
+    "trustScore": 41,
+    "passed": true
+  },
+  {
+    "walletAddress": "FHTXD5HBDdTX9DyH9VVRyXoy3D9y9XDoKMPVmPMj1FBo",
+    "hasSGT": true,
+    "trustScore": 41,
+    "passed": true
+  },
+  {
+    "walletAddress": "2fDuZBd5d7jH1j35B9DmV3f35FKhVmZmKwKfdshyZdyZ",
+    "hasSGT": true,
+    "trustScore": 41,
+    "passed": true
+  },
+  {
+    "walletAddress": "wBuoy9XMmyyjj7KDfbw9K1Vsmd3jwswFB1BPmfXqfoZK",
+    "hasSGT": true,
+    "trustScore": 41,
+    "passed": true
+  },
+  {
+    "walletAddress": "iMfPKjdmKojfffB5Kou3VoV1Du7Py9Xo5j3ZyBPuV3dy",
+    "hasSGT": true,
+    "trustScore": 41,
+    "passed": true
+  },
+  {
+    "walletAddress": "d5DuH1fuPRfoqymXD7wdBHRuP9ZDo3KufV13VVVH1Tfq",
+    "hasSGT": true,
+    "trustScore": 42,
+    "passed": true
+  },
+  {
+    "walletAddress": "QF7sFbsyB7MjMK11uHFmB37bP7doVhVb1bFsM5Vm1H5K",
+    "hasSGT": true,
+    "trustScore": 42,
+    "passed": true
+  },
+  {
+    "walletAddress": "KZoBmK3yR7fV99VyfVyThXwbjKM5FTKjBHDoVFmP5K5d",
+    "hasSGT": true,
+    "trustScore": 42,
+    "passed": true
+  },
+  {
+    "walletAddress": "69RhdMb1FwDFBRqm3yTmPh1dyVPkRHKFTKXyFhVHsjmo",
+    "hasSGT": true,
+    "trustScore": 42,
+    "passed": true
+  },
+  {
+    "walletAddress": "1T7sMq5RjTdd7hBs7XBH57Ry1FDXs1hyh3TX9w7wVubF",
+    "hasSGT": true,
+    "trustScore": 42,
+    "passed": true
+  },
+  {
+    "walletAddress": "nqsPbuX9RMZV91bu73KHXMqXRPdowVuwRMqFHjZXHX9Z",
+    "hasSGT": true,
+    "trustScore": 42,
+    "passed": true
+  },
+  {
+    "walletAddress": "hMRfjhfF5DPTbb79jj9fym1Md99PRKujs5dRhmyVFMXj",
+    "hasSGT": true,
+    "trustScore": 43,
+    "passed": true
+  },
+  {
+    "walletAddress": "UjDq7MmdXKBvyMKhZRX5VV5Df7hFhHuTBHKDRqhZhXFo",
+    "hasSGT": true,
+    "trustScore": 43,
+    "passed": true
+  },
+  {
+    "walletAddress": "Pq1wHfPbfh3sjwyKXFj9PyP7TjRbTdKo1MRshouBhqKs",
+    "hasSGT": true,
+    "trustScore": 43,
+    "passed": true
+  },
+  {
+    "walletAddress": "ARfX5uhmhVoyM9C3oDjM9smK5BDTVsFq5T7VRD1Pq5sR",
+    "hasSGT": true,
+    "trustScore": 43,
+    "passed": true
+  },
+  {
+    "walletAddress": "wzuR3VMTF91RZbTFXbHTMfhf7KuX9F9RRFVDRhdKTudM",
+    "hasSGT": true,
+    "trustScore": 43,
+    "passed": true
+  },
+  {
+    "walletAddress": "rKyDZVfPbMfVwduX9H9oVybj9oVZVVZKyfH7h3Zsqmyf",
+    "hasSGT": true,
+    "trustScore": 43,
+    "passed": true
+  },
+  {
+    "walletAddress": "dD1umqwTBR9buDBwj991qRPsHsqjTBZoZXs59Ru5yoBV",
+    "hasSGT": true,
+    "trustScore": 44,
+    "passed": true
+  },
+  {
+    "walletAddress": "YDHt9Pjhjd5ds5mTfqTDohDFqd7buqwZyKoHo3TBsDqD",
+    "hasSGT": true,
+    "trustScore": 44,
+    "passed": true
+  },
+  {
+    "walletAddress": "KHRsFM93bK9jRFFX1fHDM93hF3qjb5s9Hu9DhuhdoKhH",
+    "hasSGT": true,
+    "trustScore": 44,
+    "passed": true
+  },
+  {
+    "walletAddress": "E7jjfM7Bd9PVoyBRyqF5XoMHujdyX3wqqDdXK73sZ3oq",
+    "hasSGT": true,
+    "trustScore": 44,
+    "passed": true
+  },
+  {
+    "walletAddress": "1dBDZFmDZdmXTsM19yZysKFZKK1ybq3913P35w5yPqm3",
+    "hasSGT": true,
+    "trustScore": 44,
+    "passed": true
+  },
+  {
+    "walletAddress": "v13R9qDb9u5HHm3sRyuubFVRTuDmXu91VDMR313ho3Dw",
+    "hasSGT": true,
+    "trustScore": 44,
+    "passed": true
+  },
+  {
+    "walletAddress": "hHjbw5u7F2BMqjf1B9RmDj7TRFHyHb91fPZ7V59XPq7j",
+    "hasSGT": true,
+    "trustScore": 45,
+    "passed": true
+  },
+  {
+    "walletAddress": "cVdhjyqHsFRhD5mqjyPj7F9bbTFooV3TsbXf3sjohf9P",
+    "hasSGT": true,
+    "trustScore": 45,
+    "passed": true
+  },
+  {
+    "walletAddress": "P5PVZqKjFRmB1FdFfRRDusdXoq3f1FmFdowhXuDHqdBP",
+    "hasSGT": true,
+    "trustScore": 45,
+    "passed": true
+  },
+  {
+    "walletAddress": "JPwV3hT5Z9DTTDoF7hFbZPuM7b5fKyZTsPVPDTmmXmKX",
+    "hasSGT": true,
+    "trustScore": 45,
+    "passed": true
+  },
+  {
+    "walletAddress": "5yhu5XTk57w1ZqdwbRXMs3ymuXXV7VK3fqyd5mBBwudo",
+    "hasSGT": true,
+    "trustScore": 45,
+    "passed": true
+  },
+  {
+    "walletAddress": "zHP5ou7wDBM1j9HfFhDRsfPdT5F7owfym5KZuy1XX7HR",
+    "hasSGT": true,
+    "trustScore": 45,
+    "passed": true
+  },
+  {
+    "walletAddress": "mm5XyRDo7HdwfFssq9KMomomZH19RoBmfsVjDFTbqXs9",
+    "hasSGT": true,
+    "trustScore": 46,
+    "passed": true
+  },
+  {
+    "walletAddress": "gBhuBfq57FhKTjwmh1HKjTZDmRomDZ77sPm9hPTfF9PM",
+    "hasSGT": true,
+    "trustScore": 46,
+    "passed": true
+  },
+  {
+    "walletAddress": "TZTHXfMdDdjfp9FPQhfPsmb9j73oF7Djf9fKhoy99wV1",
+    "hasSGT": true,
+    "trustScore": 46,
+    "passed": true
+  },
+  {
+    "walletAddress": "N59bf11mFSHyuyqXfujHy9HXHTsdfu7dBfq31qhDfsyj",
+    "hasSGT": true,
+    "trustScore": 46,
+    "passed": true
+  },
+  {
+    "walletAddress": "9FudTR9bjyZTPsBo9ZRKFbfwujwZVbKV1XPRhb3sHV9M",
+    "hasSGT": true,
+    "trustScore": 46,
+    "passed": true
+  },
+  {
+    "walletAddress": "4yTHPMdBFRmKKu5KuwFF153bHjqZD1Hbj5ybVRqRwf1Z",
+    "hasSGT": true,
+    "trustScore": 46,
+    "passed": true
+  },
+  {
+    "walletAddress": "q9FR1fX9fmDZyssmTKPbT1mmu5To55DRbqXyFRPHuoKR",
+    "hasSGT": true,
+    "trustScore": 47,
+    "passed": true
+  },
+  {
+    "walletAddress": "kT3ZsfsM7KHuFdZVPuqww3XKFPPwjPDdKm11MDRuZXRq",
+    "hasSGT": true,
+    "trustScore": 47,
+    "passed": true
+  },
+  {
+    "walletAddress": "X3Z7UFP5MHXDjT3oKFP7sZBhZKDDRZZ5qf7Kw7uDhPyT",
+    "hasSGT": true,
+    "trustScore": 47,
+    "passed": true
+  },
+  {
+    "walletAddress": "SMMFT79d9M9qMuB3qVhKKMdPmVDXHKMqyyFFMdufXZdb",
+    "hasSGT": true,
+    "trustScore": 47,
+    "passed": true
+  },
+  {
+    "walletAddress": "Dj1hdZq5wRu1j13omjwqPDhH7fHfwhRKVPfyPPT35BhP",
+    "hasSGT": true,
+    "trustScore": 47,
+    "passed": true
+  },
+  {
+    "walletAddress": "8Ff3hBPoXqByb3ZMRuMomwKM3hMBDwoThsXhbZHFuw5b",
+    "hasSGT": true,
+    "trustScore": 47,
+    "passed": true
+  },
+  {
+    "walletAddress": "udTDDjf5P7BHyKXDwTq1dbswDyuHowyjFMm7swVHVFhs",
+    "hasSGT": true,
+    "trustScore": 48,
+    "passed": true
+  },
+  {
+    "walletAddress": "p97mKFBwwHMBB7Z5oPu5F3TBKFF3F5h5KMmTKwRqMZTw",
+    "hasSGT": true,
+    "trustScore": 48,
+    "passed": true
+  },
+  {
+    "walletAddress": "bKuuBFX9PhRPTmBmoBdT9bKPTFXZbF5wuwRsVuZV19X1",
+    "hasSGT": true,
+    "trustScore": 48,
+    "passed": true
+  },
+  {
+    "walletAddress": "W3RTumRTTP1j3usVTKo1BbbRoRuBb5P1uXyqqVqooRoP",
+    "hasSGT": true,
+    "trustScore": 48,
+    "passed": true
+  },
+  {
+    "walletAddress": "HDDbfsZqbw1Pbdu3Dsds1KZjqufuZXjM11XVdoKT7RoR",
+    "hasSGT": true,
+    "trustScore": 48,
+    "passed": true
+  },
+  {
+    "walletAddress": "CX1jPydKdTTT53sBm135dBjTXKMh1mKVRDusHDBV3mMq",
+    "hasSGT": true,
+    "trustScore": 48,
+    "passed": true
+  },
+  {
+    "walletAddress": "y7fhywuM7q3uV77hs7bTdFo3jXyDwFFRw1of7HB99whb",
+    "hasSGT": true,
+    "trustScore": 48,
+    "passed": true
+  },
+  {
+    "walletAddress": "tHHqRP7F75odVDfyqVP7f3yVM5bZwHy3jfbjPj7X3hTZ",
+    "hasSGT": true,
+    "trustScore": 49,
+    "passed": true
+  },
+  {
+    "walletAddress": "foKmT3D1ZHPMZu73DK7uZhRwdbmKPuoVZ9RPP1wDKhhD",
+    "hasSGT": true,
+    "trustScore": 49,
+    "passed": true
+  },
+  {
+    "walletAddress": "aBs5bfj9RHfXyDjFbqBdqZVXDyD3hMbVu9PyM5KRK5Vu",
+    "hasSGT": true,
+    "trustScore": 49,
+    "passed": true
+  },
+  {
+    "walletAddress": "MuHo7RoM7RX59BfKXMb9qhjd1fm9b9ZjhqFXmKFX5mRK",
+    "hasSGT": true,
+    "trustScore": 49,
+    "passed": true
+  },
+  {
+    "walletAddress": "8dDjf5b75dVdDXmMjyVDmj59MD1modTXHKBBF7FHdBsR",
+    "hasSGT": true,
+    "trustScore": 49,
+    "passed": true
+  },
+  {
+    "walletAddress": "3Ps5hZVu9HyBbKsybj1VK3hHhRVu1j3RoVFm77HyVouP",
+    "hasSGT": true,
+    "trustScore": 49,
+    "passed": true
+  },
+  {
+    "walletAddress": "pydToMHd7D5RDu55Kbyed93s11sKDjfPV33fDsfRjhRw",
+    "hasSGT": true,
+    "trustScore": 50,
+    "passed": true
+  },
+  {
+    "walletAddress": "jHBjBVwmZM331MBHoo1u77MVDjXPP5eKKsd1HRZPHbMq",
+    "hasSGT": true,
+    "trustScore": 50,
+    "passed": true
+  },
+  {
+    "walletAddress": "Wm1DMbZFZDyRs77wf9Tb1XhVbfV7dKw3Mm1fMFyfTfXK",
+    "hasSGT": true,
+    "trustScore": 50,
+    "passed": true
+  },
+  {
+    "walletAddress": "RBdTuPqVfo9XbZTVwqFyRw1mhoDX3K5fbyoTq5mZb95o",
+    "hasSGT": true,
+    "trustScore": 50,
+    "passed": true
+  },
+  {
+    "walletAddress": "C7sF7ddMPJ5qfZMPwRqqRhuKXXdX9RXHX7swmfqs9hdH",
+    "hasSGT": true,
+    "trustScore": 50,
+    "passed": true
+  },
+  {
+    "walletAddress": "75wHH3jXywsKoPw5qmFwMjKyMFhPoXBRPqMy7wR9Bd1D",
+    "hasSGT": true,
+    "trustScore": 50,
+    "passed": true
+  },
+  {
+    "walletAddress": "tTbjZKfTmhK159jXsVFVFhbjoHRZPHdZw7oHw5hw353f",
+    "hasSGT": true,
+    "trustScore": 51,
+    "passed": true
+  },
+  {
+    "walletAddress": "oyPymXsuVj7yhTVqqubRj7V37wbys19XHPmqq7DbdwoR",
+    "hasSGT": true,
+    "trustScore": 51,
+    "passed": true
+  },
+  {
+    "walletAddress": "aF1DKK93o5qHowT1oswmZwTFuXyyMbohXjjfbPyyHZFD",
+    "hasSGT": true,
+    "trustScore": 51,
+    "passed": true
+  },
+  {
+    "walletAddress": "VTqMBuwVwus5DwhRHm3qqKFRqbjMjyFfmdKZH3Pfym97",
+    "hasSGT": true,
+    "trustScore": 51,
+    "passed": true
+  },
+  {
+    "walletAddress": "G3Vo79Fh7HBqVKdP5fDMPsy1KM3FZb7VoRBDH5DmZHVf",
+    "hasSGT": true,
+    "trustScore": 51,
+    "passed": true
+  },
+  {
+    "walletAddress": "BMHwq9VBdTPbTMwMRMqDmPddyjfqKwdqydFHmu9XKB11",
+    "hasSGT": true,
+    "trustScore": 51,
+    "passed": true
+  },
+  {
+    "walletAddress": "xwodBmwMPMDwFPBDujKM7TZDDm1yhRPVDRPFTjHmKRTs",
+    "hasSGT": true,
+    "trustScore": 52,
+    "passed": true
+  },
+  {
+    "walletAddress": "sFbdRfqRKfK6qT1BjR5fHfuy7B5oqR1wKKhHybsuhHXB",
+    "hasSGT": true,
+    "trustScore": 52,
+    "passed": true
+  },
+  {
+    "walletAddress": "ejHBXFdhyqwwMFM3fZ7KVX1bqBuMZDdumPs7jjTZ7swV",
+    "hasSGT": true,
+    "trustScore": 52,
+    "passed": true
+  },
+  {
+    "walletAddress": "Z93TwFm75yuRKjohPXKwMHZZXRB1BHqj3wwHBMFHoVZo",
+    "hasSGT": true,
+    "trustScore": 52,
+    "passed": true
+  },
+  {
+    "walletAddress": "LXhbBKDjfBM5jjHHdw7dToHwfqVMH9uhW95m5RX19T7F",
+    "hasSGT": true,
+    "trustScore": 52,
+    "passed": true
+  },
+  {
+    "walletAddress": "F3wRsqZqs1DmZ1odsX1PM9bHM1FPdm37DbDXbhVjXqZ5",
+    "hasSGT": true,
+    "trustScore": 52,
+    "passed": true
+  },
+  {
+    "walletAddress": "2D9H9j9syM55FmVDhPMb7RhdsoMZqTujMHRRDwjdXfB5",
+    "hasSGT": true,
+    "trustScore": 53,
+    "passed": true
+  },
+  {
+    "walletAddress": "womf7qmj77FhufDKs1MfhyKqmRfh7BMqPMhw3XXbbdXj",
+    "hasSGT": true,
+    "trustScore": 53,
+    "passed": true
+  },
+  {
+    "walletAddress": "i7TydKKVBf9KPP3MFHFwPT3fZMD1jdmMoToKT1somhHf",
+    "hasSGT": true,
+    "trustScore": 53,
+    "passed": true
+  },
+  {
+    "walletAddress": "dHMwjXd9uuhmwDyoDD5HHd7q5TDwdhRTBV3ZhudhqoXo",
+    "hasSGT": true,
+    "trustScore": 53,
+    "passed": true
+  },
+  {
+    "walletAddress": "Q1uFV7dFVfTVK3qmoPXmF9j17o9DDMj33ZBqbF1RFuMo",
+    "hasSGT": true,
+    "trustScore": 53,
+    "passed": true
+  },
+  {
+    "walletAddress": "KBfh1ufsmV37dKKhFyoXjfRTXfqoHmdMyfqb1dsB5umh",
+    "hasSGT": true,
+    "trustScore": 53,
+    "passed": true
+  },
+  {
+    "walletAddress": "6hZ9ZXqqqZBsdTFFFuDFyw9KjbsbRuodHmKD3HoZbVwf",
+    "hasSGT": true,
+    "trustScore": 54,
+    "passed": true
+  },
+  {
+    "walletAddress": "157ThujRXZfTVyhD1odqKyKmmBf75VoRVyVVKHV7qK1w",
+    "hasSGT": true,
+    "trustScore": 54,
+    "passed": true
+  },
+  {
+    "walletAddress": "nbT7V7jdZXmuB7XT7PD1BM9uhVMXRXbD9HjuwsZudyjd",
+    "hasSGT": true,
+    "trustScore": 54,
+    "passed": true
+  },
+  {
+    "walletAddress": "hyR9BXmyjm3qMhM5VThBFX57j3wfDbbD7ZXTHTw1XbFR",
+    "hasSGT": true,
+    "trustScore": 54,
+    "passed": true
+  },
+  {
+    "walletAddress": "UH7TowBZohXMuBPTXMufHdy7wqFuFhXVbDB5BKsXyPH5",
+    "hasSGT": true,
+    "trustScore": 54,
+    "passed": true
+  },
+  {
+    "walletAddress": "Psm1ff3hbjPZRmTwHMMFRZf1uhhy9TsjfKXhVqZKZ1Vu",
+    "hasSGT": true,
+    "trustScore": 54,
+    "passed": true
+  },
+  {
+    "walletAddress": "ABR79wZFMTMqwM515oV7Bh313VmmPDKHMd1BXfZ17Hud",
+    "hasSGT": true,
+    "trustScore": 55,
+    "passed": true
+  },
+  {
+    "walletAddress": "5MDPyfF7VD5T9Z13VdMMf53HomXdZZKHHsobZsbDfdfd",
+    "hasSGT": true,
+    "trustScore": 55,
+    "passed": true
+  },
+  {
+    "walletAddress": "r5sqsjfsTfdfB3KXwhsFqsXDHVyuqfF1jHXsyf9HBTmT",
+    "hasSGT": true,
+    "trustScore": 55,
+    "passed": true
+  },
+  {
+    "walletAddress": "dSRDoRHdZZqu1HMMqDdsjqmX3y13Vj33PKzXhXmd1PHo",
+    "hasSGT": true,
+    "trustScore": 55,
+    "passed": true
+  },
+  {
+    "walletAddress": "YyBfFVWD3MfoFMD7KyMTPDPd9FDZVTVbMVwuhDB5oDuX",
+    "hasSGT": true,
+    "trustScore": 55,
+    "passed": true
+  },
+  {
+    "walletAddress": "KX99jHjuPXwyoh35MfVT93T1VoXqD5oTB9qMm1FbRsy9",
+    "hasSGT": true,
+    "trustScore": 55,
+    "passed": true
+  },
+  {
+    "walletAddress": "EsdMjzV1MqbsyZydXwD1PMZHq5KV11dyZh1hqdX99V3M",
+    "hasSGT": true,
+    "trustScore": 56,
+    "passed": true
+  },
+  {
+    "walletAddress": "1s7ZMdRTV9qXsXZsDK1mFfo5DDD1bZXjmRHPTyjsddHT",
+    "hasSGT": true,
+    "trustScore": 56,
+    "passed": true
+  },
+  {
+    "walletAddress": "vM5jHFuumbDwMPq3fmbXTbRoTZyhjh1KbsbBBo1sFFb5",
+    "hasSGT": true,
+    "trustScore": 56,
+    "passed": true
+  },
+  {
+    "walletAddress": "hwjB5V5HumT71ZwhqTbwfZo5XjZXfMK39HmwHoTqq19K",
+    "hasSGT": true,
+    "trustScore": 56,
+    "passed": true
+  },
+  {
+    "walletAddress": "cFXKwdDjwbo5Vh3hDfb9sTHoBq1mBoBMfbhhmTKbjw57",
+    "hasSGT": true,
+    "trustScore": 56,
+    "passed": true
+  },
+  {
+    "walletAddress": "PjDmyFMb5y3ydB3os1RmT5XD7PF1KsTXioMXmF5Mwj3h",
+    "hasSGT": true,
+    "trustScore": 56,
+    "passed": true
+  },
+  {
+    "walletAddress": "J1o1qTjBjhd73ywBmZZVZ7VfZsDRfH7BqPP7hZDBu3TB",
+    "hasSGT": true,
+    "trustScore": 57,
+    "passed": true
+  },
+  {
+    "walletAddress": "5dXZdXP1qZbPTqbV5yZX5fy3D9Mq5u7KMKqssPhBKPbu",
+    "hasSGT": true,
+    "trustScore": 57,
+    "passed": true
+  },
+  {
+    "walletAddress": "zuP5sjDmTVqhB111sBF31jHF1yVu3V1DVHVKmFK9FRBK",
+    "hasSGT": true,
+    "trustScore": 57,
+    "passed": true
+  },
+  {
+    "walletAddress": "mRjKwPZR7j9bVjMVTMb13TFbbTuDmwFTwq5B93TfKM1o",
+    "hasSGT": true,
+    "trustScore": 57,
+    "passed": true
+  },
+  {
+    "walletAddress": "gohMdoT55Mo7qsfDuZuPF9yBj9FZRjFybXjMuDb95y5u",
+    "hasSGT": true,
+    "trustScore": 57,
+    "passed": true
+  },
+  {
+    "walletAddress": "TDDmws1FKV9jhDR9u7qsHhXXhBwqDoVwsRuwMbhXffR5",
+    "hasSGT": true,
+    "trustScore": 57,
+    "passed": true
+  },
+  {
+    "walletAddress": "NHHdDw5jwwumjuh1TqRRoVFysyHDVPfh5dT1PH7uHM9D",
+    "hasSGT": true,
+    "trustScore": 58,
+    "passed": true
+  },
+  {
+    "walletAddress": "91hMjh1wdyw5RswMDFHKD91hZ3qR1qoTd1u5Zw9sjous",
+    "hasSGT": true,
+    "trustScore": 58,
+    "passed": true
+  },
+  {
+    "walletAddress": "4BbKhR5D9oPfZsKyobDFVqdDwjVRufVfuKmTu7Rm9Xyy",
+    "hasSGT": true,
+    "trustScore": 58,
+    "passed": true
+  },
+  {
+    "walletAddress": "qhw5KqqyBmTqYF1ywMh9b9hRDPVqwhKwR7mjw9BH9mwq",
+    "hasSGT": true,
+    "trustScore": 58,
+    "passed": true
+  },
+  {
+    "walletAddress": "k5u5f5sV5Fj1D13syHwFK1ZTy7MTXXPDo3buRyh1DqZm",
+    "hasSGT": true,
+    "trustScore": 58,
+    "passed": true
+  },
+  {
+    "walletAddress": "XboXX1hRFsHMbfK95DX11ZKq9j9V1bMHFuTByHFqobub",
+    "hasSGT": true,
+    "trustScore": 58,
+    "passed": true
+  },
+  {
+    "walletAddress": "SyF1ZoXMbXsXoTmVfsVK3KfXoBKoD71MZZb5jBTMjfK9",
+    "hasSGT": true,
+    "trustScore": 59,
+    "passed": true
+  },
+  {
+    "walletAddress": "DVhVThKPX35fK9HVfFHqh9jTZFBKZw5ZbsSmVXdFPwd3",
+    "hasSGT": true,
+    "trustScore": 59,
+    "passed": true
+  },
+  {
+    "walletAddress": "8sZh3HfjuTufBoqRuFdHfuHymbXuHhw1mmbs9BqysDPj",
+    "hasSGT": true,
+    "trustScore": 59,
+    "passed": true
+  },
+  {
+    "walletAddress": "uBMqmXjMy3H1Ku7RXBb1uBud9f1y5u7wdjPo5MRd5f79",
+    "hasSGT": true,
+    "trustScore": 59,
+    "passed": true
+  },
+  {
+    "walletAddress": "pm1PdjKfdBmbuP9KodoHDwoPThXVjKZ3KDDTXMPDMDZm",
+    "hasSGT": true,
+    "trustScore": 59,
+    "passed": true
+  },
+  {
+    "walletAddress": "b5oXPu3dZ7Z1dZb9dVmZZPbhbXDT1BjMq3TwVsBosF9K",
+    "hasSGT": true,
+    "trustScore": 59,
+    "passed": true
+  },
+  {
+    "walletAddress": "WFTmwFh5Ry1DD55dVbXVjPDwFw9DmHFhu91youPdm55s",
+    "hasSGT": true,
+    "trustScore": 59,
+    "passed": true
+  },
+  {
+    "walletAddress": "Hy7DyDHqfyqod91hmj13FP3X9jR5FBqosZ1R1uEVHfVm",
+    "hasSGT": true,
+    "trustScore": 60,
+    "passed": true
+  },
+  {
+    "walletAddress": "C9uMbdFd3TRyM1wjTBuMD3HfhBwoT5MFD9ds3bbFRysP",
+    "hasSGT": true,
+    "trustScore": 60,
+    "passed": true
+  },
+  {
+    "walletAddress": "yfmhBDbyRmH5fsyd9fH9Muws5VPXfw5b3ZFFfmjK9ony",
+    "hasSGT": true,
+    "trustScore": 60,
+    "passed": true
+  },
+  {
+    "walletAddress": "t3DB57P9FRRdBBRmV13X7BwMwd37RK7DBKd7bd75Ksf3",
+    "hasSGT": true,
+    "trustScore": 60,
+    "passed": true
+  },
+  {
+    "walletAddress": "fZfd1jdj1MfMyHdBoV5dByfBsXFZR5shfujDDy3DKDZD",
+    "hasSGT": true,
+    "trustScore": 60,
+    "passed": true
+  },
+  {
+    "walletAddress": "awfHR3bmVFKq7RoRmDHqPuMsofowwB3ffV3ZqBF5PdZK",
+    "hasSGT": true,
+    "trustScore": 60,
+    "passed": true
+  },
+  {
+    "walletAddress": "M7H9BDDsXBqyXKZyFq1mTfdyyjd9FqoMTVmKhyKMoRcM",
+    "hasSGT": true,
+    "trustScore": 61,
+    "passed": true
+  },
+  {
+    "walletAddress": "GqyZByqwHK7X5bfwbXmTZZdwByqudjPXV1qb3dPK7ZKw",
+    "hasSGT": true,
+    "trustScore": 61,
+    "passed": true
+  },
+  {
+    "walletAddress": "31sX9hu7u7V7jdohoo1jDRBdP3hFw1u7Th7Tu9yXM9md",
+    "hasSGT": true,
+    "trustScore": 61,
+    "passed": true
+  },
+  {
+    "walletAddress": "pHRj3dB3d3THMbqhVhPyo5mdKoTu7Z5M3PdTfoBuV9qm",
+    "hasSGT": true,
+    "trustScore": 61,
+    "passed": true
+  },
+  {
+    "walletAddress": "juBDj19KswhyTuR17uZRbT1V1hBbfBjMjjXBKM5yohu9",
+    "hasSGT": true,
+    "trustScore": 61,
+    "passed": true
+  },
+  {
+    "walletAddress": "WRwqoXy7hXVqPdfBBu935XdVb1PPy3f9T1jPRwPZMwTD",
+    "hasSGT": true,
+    "trustScore": 61,
+    "passed": true
+  },
+  {
+    "walletAddress": "Rod37fB1XqyPHVf1qKVb1yZyhqR13hmbH13DwyfFR9R3",
+    "hasSGT": true,
+    "trustScore": 62,
+    "passed": true
+  },
+  {
+    "walletAddress": "CmhwPuPmuHjhbTP73XH3hP5bXFBV5uTqPZmVDMDhbjmP",
+    "hasSGT": true,
+    "trustScore": 62,
+    "passed": true
+  },
+  {
+    "walletAddress": "7H5Pf3BB5FV5RqDTfwMBhVhfjVhwDBu7PKmdK1h7fK5s",
+    "hasSGT": true,
+    "trustScore": 62,
+    "passed": true
+  },
+  {
+    "walletAddress": "tZBd7u95ZZD7BRyRBTRjm3Vmwoyu9qDsFoXfy7jwBDK1",
+    "hasSGT": true,
+    "trustScore": 62,
+    "passed": true
+  },
+  {
+    "walletAddress": "oBX1BX3Ff5HmD9TM7y19bsjXhdqMfbKDmuqwwDbhjHqM",
+    "hasSGT": true,
+    "trustScore": 62,
+    "passed": true
+  },
+  {
+    "walletAddress": "auwjhHZqdRFKy3FMsB1joBHR77VmFFP935FmPdF3ousB",
+    "hasSGT": true,
+    "trustScore": 62,
+    "passed": true
+  },
+  {
+    "walletAddress": "V5jsZKyyUPTX7jwsmf5b7dK9DwpD73bmqj9TPou9BmT5",
+    "hasSGT": true,
+    "trustScore": 63,
+    "passed": true
+  },
+  {
+    "walletAddress": "GhRRZwdZPDPVm7TVuH1FjDHm7FPMFjuFD1jyRmyoPT57",
+    "hasSGT": true,
+    "trustScore": 63,
+    "passed": true
+  },
+  {
+    "walletAddress": "ByBy1BFKMZZfbw5Fj3hyZF3yhDDu5q3fwjjyh5R3X1RP",
+    "hasSGT": true,
+    "trustScore": 63,
+    "passed": true
+  },
+  {
+    "walletAddress": "xV3udVRyqHTfmHZKhZdquofhKd31V7VqHh3hhMXKRDbs",
+    "hasSGT": true,
+    "trustScore": 63,
+    "passed": true
+  },
+  {
+    "walletAddress": "ssVPXHFuBwuXRH3Vw37jwqX1mss7H1DumMyF91bjumsH",
+    "hasSGT": true,
+    "trustScore": 63,
+    "passed": true
+  },
+  {
+    "walletAddress": "ePwsZ5DqXbMjwhuBb9bqmX3Zj1VwXXDhXdBdm33KDVou",
+    "hasSGT": true,
+    "trustScore": 63,
+    "passed": true
+  },
+  {
+    "walletAddress": "Zmo51sDX5hq7yZfobX1hwMmbPuMXR7uHF3qZdZf5fVbq",
+    "hasSGT": true,
+    "trustScore": 64,
+    "passed": true
+  },
+  {
+    "walletAddress": "LBRRVqZ9BwdVoFy1jjkbDDRBf5qKu1FPZH71dRH7mRVD",
+    "hasSGT": true,
+    "trustScore": 64,
+    "passed": true
+  },
+  {
+    "walletAddress": "FFPMjV9dHDPbjufsXsqb3Hdu3fDbDwsKKhZ7dB77hMfy",
+    "hasSGT": true,
+    "trustScore": 64,
+    "passed": true
+  },
+  {
+    "walletAddress": "2y3uMPmB9XhBT7bdojhHVTfXXds7Ts9qTwVq17bBsM5R",
+    "hasSGT": true,
+    "trustScore": 64,
+    "passed": true
+  },
+  {
+    "walletAddress": "w9h15wMwXmMBfqjdmBVXZhj15oRuds9mswTHqhdFBDZs",
+    "hasSGT": true,
+    "trustScore": 64,
+    "passed": true
+  },
+  {
+    "walletAddress": "ifHX7H1odb3ZZdfVo9MjTB51195HjusjZVhf7udw5Dy9",
+    "hasSGT": true,
+    "trustScore": 64,
+    "passed": true
+  },
+  {
+    "walletAddress": "d39jh195oBTR5bHfTuhusTw3MmH35hhf7fKFR5wdK91q",
+    "hasSGT": true,
+    "trustScore": 65,
+    "passed": true
+  },
+  {
+    "walletAddress": "QRuFdFwwKBM5byDsDF33T5jRXPRBduqTqmmoFy9XZdHj",
+    "hasSGT": true,
+    "trustScore": 65,
+    "passed": true
+  },
+  {
+    "walletAddress": "KwTZBVHb77bXqV7KmXZbHZFTu1TjsyZq9hfXX9K3Rq9j",
+    "hasSGT": true,
+    "trustScore": 65,
+    "passed": true
+  },
+  {
+    "walletAddress": "6KDwXbdFoRFPsjVDZB7MXBy15F1KHTyDBfZ1dmsHRqMT",
+    "hasSGT": true,
+    "trustScore": 65,
+    "passed": true
+  },
+  {
+    "walletAddress": "1quFfyRyR3qffM3DkPFsTMRZfXfKoBsmB9mduVbm7dyF",
+    "hasSGT": true,
+    "trustScore": 65,
+    "passed": true
+  },
+  {
+    "walletAddress": "n1fHTDXK7wMqfHoVBj7bmyjMTFPHH1FuP5mDfs5uhh9P",
+    "hasSGT": true,
+    "trustScore": 65,
+    "passed": true
+  },
+  {
+    "walletAddress": "hjDw9TZVjq5oVDD579du99doBhF7RV9bPHhH1T5dK9so",
+    "hasSGT": true,
+    "trustScore": 66,
+    "passed": true
+  },
+  {
+    "walletAddress": "Uu7u7HTuwZHmuoZVdm95duXKV9VDT3uwhb7HsM1fRDw3",
+    "hasSGT": true,
+    "trustScore": 66,
+    "passed": true
+  },
+  {
+    "walletAddress": "PDoDjhsV9PqMjVDFqRT1bRXBfDuTK1o9hbRy3d7yTq5f",
+    "hasSGT": true,
+    "trustScore": 66,
+    "passed": true
+  },
+  {
+    "walletAddress": "AoRbZpRyuummwBZDKj3qRw5h35ddswmhdRDFyFRHdZsj",
+    "hasSGT": true,
+    "trustScore": 66,
+    "passed": true
+  },
+  {
+    "walletAddress": "577uD33B5h31DbRMPd5BTyRq3X7qmD7DTPFTjoTKoRdX",
+    "hasSGT": true,
+    "trustScore": 66,
+    "passed": true
+  },
+  {
+    "walletAddress": "rVmMdV7oVM5bZXRKBPP9sXR9dsXmh5ZTT1KZD3jmbo1H",
+    "hasSGT": true,
+    "trustScore": 66,
+    "passed": true
+  },
+  {
+    "walletAddress": "m1ZjqZH9bVjFFqyf3j33myPXhwZKPPjPwh7d7m99sXso",
+    "hasSGT": true,
+    "trustScore": 67,
+    "passed": true
+  },
+  {
+    "walletAddress": "YPDs5doDHBfjsB19BfwXmhwm7ZD53RyVMF9PVswBMbKh",
+    "hasSGT": true,
+    "trustScore": 67,
+    "passed": true
+  },
+  {
+    "walletAddress": "TV1yFwPsf9Hh7mPqf3wT5Du7h3dbqKKFZyqmRThVBdBw",
+    "hasSGT": true,
+    "trustScore": 67,
+    "passed": true
+  },
+  {
+    "walletAddress": "E5fZ3HXHRmyq3Z1Pmw1oFXq3ww5sHPyMZm71u5mFdVTm",
+    "hasSGT": true,
+    "trustScore": 67,
+    "passed": true
+  },
+  {
+    "walletAddress": "17fwVDZFh595wqTP7mP3w1R9BwjquRMss9ZKfwmKqbMB",
+    "hasSGT": true,
+    "trustScore": 67,
+    "passed": true
+  },
+  {
+    "walletAddress": "vyyFXdhyV7K55T5X7Zm7BHuqqK597oqqDwdb9ybXq1Kf",
+    "hasSGT": true,
+    "trustScore": 67,
+    "passed": true
+  },
+  {
+    "walletAddress": "hKTTfPoqu5fXZbj7shRw9ZVdBmjoqyBHMoRD5qKoB9h1",
+    "hasSGT": true,
+    "trustScore": 68,
+    "passed": true
+  },
+  {
+    "walletAddress": "csRXPZBBjfRHB53MBT7RKBj3byHbf7dDX7K1bHsRKD7K",
+    "hasSGT": true,
+    "trustScore": 68,
+    "passed": true
+  },
+  {
+    "walletAddress": "PPHHby9XRoRwBmBPDFhHjuDRduoKymmZosHj35RKM1f7",
+    "hasSGT": true,
+    "trustScore": 68,
+    "passed": true
+  },
+  {
+    "walletAddress": "JmjmdmyTmTswKDuBMH7fufZ7RoHZm5HsjjXjVdhy7179",
+    "hasSGT": true,
+    "trustScore": 68,
+    "passed": true
+  },
+  {
+    "walletAddress": "5juU7KZVwD3wFPD9uHq9h5DwBddMPXqHmFBF5RBZqPuh",
+    "hasSGT": true,
+    "trustScore": 68,
+    "passed": true
+  },
+  {
+    "walletAddress": "zFKuDuTKVHjhMBfPyhPHs9H9Rff9by9bMj33b1731oHV",
+    "hasSGT": true,
+    "trustScore": 68,
+    "passed": true
+  },
+  {
+    "walletAddress": "mwjd3F3K7KDmyKTBKjoFRuDBuKyjDjwbD9Pfq1wPy9FX",
+    "hasSGT": true,
+    "trustScore": 69,
+    "passed": true
+  },
+  {
+    "walletAddress": "g9djhPbqbDZMRu3RDojPMmR9KFRD73oy79TKm9Ks5jyR",
+    "hasSGT": true,
+    "trustScore": 69,
+    "passed": true
+  },
+  {
+    "walletAddress": "TjP7ZTKmqDDoVXb1Z5bhsBymsy5wHmhbbBZFfDVoXyww",
+    "hasSGT": true,
+    "trustScore": 69,
+    "passed": true
+  },
+  {
+    "walletAddress": "N3wP3P7hwbDjTXfsfh9fwBuqZwBsRF1qRmVDKRw57h1f",
+    "hasSGT": true,
+    "trustScore": 69,
+    "passed": true
+  },
+  {
+    "walletAddress": "9XmsMPoqdBsMK3smsFsFqhBhbTDV3uyPBHwwyDwwPK9d",
+    "hasSGT": true,
+    "trustScore": 69,
+    "passed": true
+  },
+  {
+    "walletAddress": "4wP7fTujyHufuhBhmbRfVMKFXZfMsfBThbfwBwBm3s5D",
+    "hasSGT": true,
+    "trustScore": 69,
+    "passed": true
+  },
+  {
+    "walletAddress": "qK9dRKmKRZ1sBVydso1MMyZqB7Po9oPR7KBVhKVPDFMR",
+    "hasSGT": true,
+    "trustScore": 70,
+    "passed": true
+  },
+  {
+    "walletAddress": "kqhw9wu5wPZ1fMFVZfVfdTdmPm13ZmXoTssfd1DV1Pds",
+    "hasSGT": true,
+    "trustScore": 70,
+    "passed": true
+  },
+  {
+    "walletAddress": "X1bmDRjVo39ZmuKd3bZBMKbPhVDPoRhTfs19MwMPD3D3",
+    "hasSGT": true,
+    "trustScore": 70,
+    "passed": true
+  },
+  {
+    "walletAddress": "Sj9dmT9X7P3X1b5uFDFhFfyBMsBjDDBfXssdZwbBK5mT",
+    "hasSGT": true,
+    "trustScore": 70,
+    "passed": true
+  },
+  {
+    "walletAddress": "Du3bj3Kfju1sDPdB379hMwM9qqXoPKDwZj9V1oX59XKP",
+    "hasSGT": true,
+    "trustScore": 70,
+    "passed": true
+  },
+  {
+    "walletAddress": "8Db1BhK5j1X55PPPXmhFdmTTd37XjMRoKBM5DK5f5wm7",
+    "hasSGT": true,
+    "trustScore": 70,
+    "passed": true
+  },
+  {
+    "walletAddress": "uoFTy3ZjTmwVd5yRKmwBBTwomBB9bb1myMqj59RHyDTu",
+    "hasSGT": true,
+    "trustScore": 70,
+    "passed": true
+  },
+  {
+    "walletAddress": "p73bq5mo7uXobqw1j9wXm1b9hBXj53s7y3R5XfPodd91",
+    "hasSGT": true,
+    "trustScore": 71,
+    "passed": true
+  },
+  {
+    "walletAddress": "bVhjD3PTubFVFVXBKVyMdjjwqbVK7sfPwHZ7XFuDTqoj",
+    "hasSGT": true,
+    "trustScore": 71,
+    "passed": true
+  },
+  {
+    "walletAddress": "W1MHKZuKKsF5HVho9sbyB1H5qquXXBwq7m3bqRRDTm9y",
+    "hasSGT": true,
+    "trustScore": 71,
+    "passed": true
+  },
+  {
+    "walletAddress": "HP1jbqoDVDRoP9BBo3HysuVjyXwoPFmo5BhFKdKD1mos",
+    "hasSGT": true,
+    "trustScore": 71,
+    "passed": true
+  },
+  {
+    "walletAddress": "Cuo7o39fsPKRFdjyd9HHsdjf71fu1dTZXqodT531H1d7",
+    "hasSGT": true,
+    "trustScore": 71,
+    "passed": true
+  },
+  {
+    "walletAddress": "yHTFB1dDwf7ZT71MTf5obfhymosDo5sqfMHsFdysB7qK",
+    "hasSGT": true,
+    "trustScore": 71,
+    "passed": true
+  },
+  {
+    "walletAddress": "to7oHdD7shDw5wbbDhDP519yVqPVywhb9hKf9XowyRBF",
+    "hasSGT": true,
+    "trustScore": 72,
+    "passed": true
+  },
+  {
+    "walletAddress": "fyuw9fRbPVu1F5T9513PwsHXjKbMjBF9fwuDMDjHyf5T",
+    "hasSGT": true,
+    "trustScore": 72,
+    "passed": true
+  },
+  {
+    "walletAddress": "ahRVmF9qwBsmRMRPmRfKsyP35fqsXMoqDXswh7RXVyuw",
+    "hasSGT": true,
+    "trustScore": 72,
+    "passed": true
+  },
+  {
+    "walletAddress": "MsDdd9Z7bMRRuuFBBbqXwyTR75V1u9VsBwV1DdHZKFPw",
+    "hasSGT": true,
+    "trustScore": 72,
+    "passed": true
+  },
+  {
+    "walletAddress": "GB1mVHoVwDdRRj95of3eBT3j93u9HDwF7mDXV5yR31wb",
+    "hasSGT": true,
+    "trustScore": 72,
+    "passed": true
+  },
+  {
+    "walletAddress": "3mfKDTu3yZb51uKTw95wyKRHyXmKRuuTq37MoBXmyF5Z",
+    "hasSGT": true,
+    "trustScore": 72,
+    "passed": true
+  },
+  {
+    "walletAddress": "xM9sHTqfFV1wyo91fB7BR5ZDqKd33HV9jTRuPh1obsFP",
+    "hasSGT": true,
+    "trustScore": 73,
+    "passed": true
+  },
+  {
+    "walletAddress": "jfy9bDj5osqH1jho3V33wZo7TPPMXqPfBFM5yqjbsDyX",
+    "hasSGT": true,
+    "trustScore": 73,
+    "passed": true
+  },
+  {
+    "walletAddress": "WjbwZy5MK9PydsFDBqdDR6dwjuB1o9TTwu3BwhKmouoP",
+    "hasSGT": true,
+    "trustScore": 73,
+    "passed": true
+  },
+  {
+    "walletAddress": "R9ZHHRVfRHVdbVm7PumsX1f7uZo1DPKmXohoBXK7joDV",
+    "hasSGT": true,
+    "trustScore": 73,
+    "passed": true
+  },
+  {
+    "walletAddress": "C1RDyfKBFFswF7T7MMddV993hDFKF9sy7sBmRm1Mbh3R",
+    "hasSGT": true,
+    "trustScore": 73,
+    "passed": true
+  },
+  {
+    "walletAddress": "73s7osKPBjXdqRjMDR7ZHsfhwBVwoPbRZofyb39Mfqy3",
+    "hasSGT": true,
+    "trustScore": 73,
+    "passed": true
+  },
+  {
+    "walletAddress": "t595mho5oBdsB55hVw3XFyqh9s7dmKDDBX1sKsdHsWhj",
+    "hasSGT": true,
+    "trustScore": 74,
+    "passed": true
+  },
+  {
+    "walletAddress": "owKoHMTuVXsbusjsojbXPFhbTFbXfbwPy9Pw1hMbu5DB",
+    "hasSGT": true,
+    "trustScore": 74,
+    "passed": true
+  },
+  {
+    "walletAddress": "aR1FKsfMuwRRoFq7MPydVDMhfR3XuHVfyymPouP5TZ13",
+    "hasSGT": true,
+    "trustScore": 74,
+    "passed": true
+  },
+  {
+    "walletAddress": "VqdVsfqmuyobVB7K9w5FPX3bD1BsT9mXXRV9qo9ZyFKu",
+    "hasSGT": true,
+    "trustScore": 74,
+    "passed": true
+  },
+  {
+    "walletAddress": "GDP17ww5Vfhd7bpRf1bdHRm3ZssXKKTjMFfDmdsd9M5f",
+    "hasSGT": true,
+    "trustScore": 74,
+    "passed": true
+  },
+  {
+    "walletAddress": "BjwKFKqXPjMyfBPhBHXPhfBMHK797Pf3R1FdP9fRzRBs",
+    "hasSGT": true,
+    "trustScore": 74,
+    "passed": true
+  },
+  {
+    "walletAddress": "x1ZfXXMHBTw9Z9b31MwhBwqhBFV97HfZf1DuTqd3BfjV",
+    "hasSGT": true,
+    "trustScore": 75,
+    "passed": true
+  },
+  {
+    "walletAddress": "sDXTqTKVBhwFKD5d9dy53dy9uosfR5PZZuRKKRwddR7h",
+    "hasSGT": true,
+    "trustScore": 75,
+    "passed": true
+  },
+  {
+    "walletAddress": "eu1FHbFHw9w7jPPbfu5h75V3BRPoFDHTFVjysh1sPHdV",
+    "hasSGT": true,
+    "trustScore": 75,
+    "passed": true
+  },
+  {
+    "walletAddress": "Z7qFBbXTmybqyXVZ1XffBbqR7PXBKDdZ199hMR7BVj7w",
+    "hasSGT": true,
+    "trustScore": 75,
+    "passed": true
+  },
+  {
+    "walletAddress": "LhVq5RFyMZf9j1fZ79ZfbFKfVR57T5PHD1oqbhhhPRhR",
+    "hasSGT": true,
+    "trustScore": 75,
+    "passed": true
+  },
+  {
+    "walletAddress": "F1HyofKbBRmufZV3z9AohV9B9XDbFDb5doPiPTXduXBK",
+    "hasSGT": true,
+    "trustScore": 75,
+    "passed": true
+  },
+  {
+    "walletAddress": "2VyRy5bDVoy5jD1HoP7PVfMVHhjsM9bDMKFhD1DXqy7q",
+    "hasSGT": true,
+    "trustScore": 76,
+    "passed": true
+  },
+  {
+    "walletAddress": "wubfRTMXdqRPquZB9q1KjHd7XdRbfhq1hXPu1RTMsTfB",
+    "hasSGT": true,
+    "trustScore": 76,
+    "passed": true
+  },
+  {
+    "walletAddress": "iHF7hKfjsDwyXmyjHHqoBhh7bFPwb3wVss1qfHhjb1fw",
+    "hasSGT": true,
+    "trustScore": 76,
+    "passed": true
+  },
+  {
+    "walletAddress": "do3VuXmPDBHTPKP5XB7BfsKwdhoBjbV9uyMq9h3DF7qj",
+    "hasSGT": true,
+    "trustScore": 76,
+    "passed": true
+  },
+  {
+    "walletAddress": "QyhTVBBFBFu5ZoZMHMfy1qKM3jjsDyhKoRVKZRHqXuuw",
+    "hasSGT": true,
+    "trustScore": 76,
+    "passed": true
+  },
+  {
+    "walletAddress": "KZL53MZoXXhhHdHf1jmomV39usFoXKqoZBmh9XDXDRBb",
+    "hasSGT": true,
+    "trustScore": 76,
+    "passed": true
+  },
+  {
+    "walletAddress": "6s9K7FyPTouXmq3qMX53sfddf1hhqmbqwKs9XoZXFRKM",
+    "hasSGT": true,
+    "trustScore": 77,
+    "passed": true
+  },
+  {
+    "walletAddress": "133H5hMD53RPqyyjh1sPwPRu5DHo3wDs3Dh5fsF5wXZj",
+    "hasSGT": true,
+    "trustScore": 77,
+    "passed": true
+  },
+  {
+    "walletAddress": "nmT1jdHfBmKHTDB1q1TXFwy5BdZTyFsPjh59yZoyffHd",
+    "hasSGT": true,
+    "trustScore": 77,
+    "passed": true
+  },
+  {
+    "walletAddress": "hwMyhMMyPqB5qK3TdsPXmdm3VDZD1oBuuF3XVuhwVjuP",
+    "hasSGT": true,
+    "trustScore": 77,
+    "passed": true
+  },
+  {
+    "walletAddress": "UThjKfwuZbMH1H3RoKfwmyDXRBFuRXDFTqwmujouy1Dw",
+    "hasSGT": true,
+    "trustScore": 77,
+    "passed": true
+  },
+  {
+    "walletAddress": "PqofBqVM7VqD57HV3DBojRmMusbHBDRobwsyo1BDoTyD",
+    "hasSGT": true,
+    "trustScore": 77,
+    "passed": true
+  },
+  {
+    "walletAddress": "AMZBXwq9ohfyKBRfPmosR55Fq3HoFD1PjKZ1hFHZRVVT",
+    "hasSGT": true,
+    "trustScore": 78,
+    "passed": true
+  },
+  {
+    "walletAddress": "5j7VfKdsRHB555j5B1f7m13moXV3ZqMB73RK7BHR4PHo",
+    "hasSGT": true,
+    "trustScore": 78,
+    "passed": true
+  },
+  {
+    "walletAddress": "rFT1ZMsbKoyfRD1BDdTjFbBHVowX5PZ5wT9DVdFdmq7M",
+    "hasSGT": true,
+    "trustScore": 78,
+    "passed": true
+  },
+  {
+    "walletAddress": "mdRB9omFq3Zyd9D33MRPR91fhF7RdodhhZF357BjPbRM",
+    "hasSGT": true,
+    "trustScore": 78,
+    "passed": true
+  },
+  {
+    "walletAddress": "Yw7VmMBquq7hPZud3ZZKPdB7RfFfPhh5VBVFmf5qVdmD",
+    "hasSGT": true,
+    "trustScore": 78,
+    "passed": true
+  },
+  {
+    "walletAddress": "TXm3Xhw5bKBwQVKKHuhFy9oPwVVjhFyR3ZVojMHwmZZB",
+    "hasSGT": true,
+    "trustScore": 78,
+    "passed": true
+  },
+  {
+    "walletAddress": "EqZBFqBTw9mw11qMDHMXVMDTT3KZd97P1D3TjywoTP51",
+    "hasSGT": true,
+    "trustScore": 79,
+    "passed": true
+  },
+  {
+    "walletAddress": "91DRw59ZVmqfZTRfq1Bsj1m3PRhKBuVmB3HqwF51KjhZ",
+    "hasSGT": true,
+    "trustScore": 79,
+    "passed": true
+  },
+  {
+    "walletAddress": "vjssqMRfZqBFP7hmF9yZV3uTHhwBK1TmjRKm9hKDM5DM",
+    "hasSGT": true,
+    "trustScore": 79,
+    "passed": true
+  },
+  {
+    "walletAddress": "hZ3h7Zqo9bRm3qyu3qRhhdbFw33HXusmbjFhmdVTyqfP",
+    "hasSGT": true,
+    "trustScore": 79,
+    "passed": true
+  },
+  {
+    "walletAddress": "cdBhDmKm71R7Mq3V3yDodMBbhswDs1MHmwKDTZ373f37",
+    "hasSGT": true,
+    "trustScore": 79,
+    "passed": true
+  },
+  {
+    "walletAddress": "Puo3VsKh3K9VHf9KVPuV5DwZMTqHFK33fVZ7MToZXHjD",
+    "hasSGT": true,
+    "trustScore": 79,
+    "passed": true
+  },
+  {
+    "walletAddress": "J7mqwwwFoDbVPTyVjqmRo9fsowfXwBw7mjTTu53Km7yZ",
+    "hasSGT": true,
+    "trustScore": 80,
+    "passed": true
+  },
+  {
+    "walletAddress": "5hRXZRq9PR7w5hqyshVqf7jPb1uTHR5HTwZq7KsM5TVu",
+    "hasSGT": true,
+    "trustScore": 80,
+    "passed": true
+  },
+  {
+    "walletAddress": "z15dHyRumR3ZywRTPdbR7RsT37subhZPwFBmPKs9oyby",
+    "hasSGT": true,
+    "trustScore": 80,
+    "passed": true
+  },
+  {
+    "walletAddress": "m3FhMXwjoq7hwbR5sVZKyZ3fo9TZFTmKyZsHqXMf79fP",
+    "hasSGT": true,
+    "trustScore": 80,
+    "passed": true
+  },
+  {
+    "walletAddress": "guXMu3D335yMhws1MoPjZy3735BjXbdKyffKqj1TTRbR",
+    "hasSGT": true,
+    "trustScore": 80,
+    "passed": true
+  },
+  {
+    "walletAddress": "TPDowf91f3uPXFqfZjoR9jh931fbjwfM1Dhm97qo5m5H",
+    "hasSGT": true,
+    "trustScore": 80,
+    "passed": true
+  },
+  {
+    "walletAddress": "NfouuudPjZHRMFuMDdwfMVy11ToP3Bmw1dqyhdPXM3PD",
+    "hasSGT": true,
+    "trustScore": 81,
+    "passed": true
+  },
+  {
+    "walletAddress": "9BhVoKMfT53sVBw1s5BKhDBsb9bK1sfqbFMTjuVmbw1m",
+    "hasSGT": true,
+    "trustScore": 81,
+    "passed": true
+  },
+  {
+    "walletAddress": "4ZPh7bKjws5w7M5U7RFofsB71bsXPuy1hP9wu71Du79F",
+    "hasSGT": true,
+    "trustScore": 81,
+    "passed": true
+  },
+  {
+    "walletAddress": "qyu7KyXb5XMMhTsfmd51yHZVHHf5hDRmsDdqbPwXfBb7",
+    "hasSGT": true,
+    "trustScore": 81,
+    "passed": true
+  },
+  {
+    "walletAddress": "k3q3f7RbsdfHKq1TsZFP3wm93FF7wVR9mZmd5TdRB1Z1",
+    "hasSGT": true,
+    "trustScore": 81,
+    "passed": true
+  },
+  {
+    "walletAddress": "XsDooTf7PKhKmusBMFwsVo1T3Fbdw9BoqBfMTMRHTyo7",
+    "hasSGT": true,
+    "trustScore": 81,
+    "passed": true
+  },
+  {
+    "walletAddress": "SwHfBD333BqKdHB5DdouTo7MyujKqHfXRRXBXTXyFHbX",
+    "hasSGT": true,
+    "trustScore": 81,
+    "passed": true
+  },
+  {
+    "walletAddress": "DT33XKPq5HqMK7VdR33hy3bHuRsKDZPRP9PbsjHDBhfd",
+    "hasSGT": true,
+    "trustScore": 82,
+    "passed": true
+  },
+  {
+    "walletAddress": "8qbMfhBMVfd115mRd539ToPZsHju1hBTBZmdmqHoq1sR",
+    "hasSGT": true,
+    "trustScore": 82,
+    "passed": true
+  },
+  {
+    "walletAddress": "uMw7HFdbwj9fK1Z1q3uq1q3uMKw9moXM9ByTbXHb3sh7",
+    "hasSGT": true,
+    "trustScore": 82,
+    "passed": true
+  },
+  {
+    "walletAddress": "pj33FMXhFMFV131PowPhqD9KDMHDyBM3y9hb1qVhPbD7",
+    "hasSGT": true,
+    "trustScore": 82,
+    "passed": true
+  },
+  {
+    "walletAddress": "bFoZVRZhPDdFbuf7TTwf37KTBwHuXsBFX7X9vfVZZqhM",
+    "hasSGT": true,
+    "trustScore": 82,
+    "passed": true
+  },
+  {
+    "walletAddress": "WdFuV5wyy1HbZTwwB1d7KFuqwDdhZyR5mq9hFbjPD7Rs",
+    "hasSGT": true,
+    "trustScore": 82,
+    "passed": true
+  },
+  {
+    "walletAddress": "Hw33MFyqMuRjT1HswVw9uH5m7m3DPDPf7yFFyswsKjdb",
+    "hasSGT": true,
+    "trustScore": 83,
+    "passed": true
+  },
+  {
+    "walletAddress": "CXZj1hf19dZsydBPo3FKZZh7ZsHdbqZb9PH3XXwMqMBq",
+    "hasSGT": true,
+    "trustScore": 83,
+    "passed": true
+  },
+  {
+    "walletAddress": "yqMssh1MVDjFwsmVbMFsodDZydBPMyu3fBouZXsfqbbw",
+    "hasSGT": true,
+    "trustScore": 83,
+    "passed": true
+  },
+  {
+    "walletAddress": "t19shfFbPXyfdmX9M3dKoT3BRH3sHu5ujK3sPPmjHKDV",
+    "hasSGT": true,
+    "trustScore": 83,
+    "passed": true
+  },
+  {
+    "walletAddress": "fjoZMK3uhT7Vh77HTb1hoZHoBZuDbPXH5KHTybM3HHBm",
+    "hasSGT": true,
+    "trustScore": 83,
+    "passed": true
+  },
+  {
+    "walletAddress": "auTfwh3mu1fmBsKm71TFywXuXuR7uMmdwqqPjP9suV7f",
+    "hasSGT": true,
+    "trustScore": 83,
+    "passed": true
+  },
+  {
+    "walletAddress": "MR3B777DVoD9fsqDu9qqHFZbqbH3Bqhf9xh7jhu1V315",
+    "hasSGT": true,
+    "trustScore": 84,
+    "passed": true
+  },
+  {
+    "walletAddress": "GouPZuThH7TXqBd5DuKquPDTMRZujqT5wyMhqyBXFmPF",
+    "hasSGT": true,
+    "trustScore": 84,
+    "passed": true
+  },
+  {
+    "walletAddress": "3Kmb7V1qXXP31Vs1Vw3hoMZT73R9yymyX1mDD7yHXX1P",
+    "hasSGT": true,
+    "trustScore": 84,
+    "passed": true
+  },
+  {
+    "walletAddress": "xhD5HFfuVqHuu1TP1X3oHZDT9yubRPMmHyo1yhKojdsX",
+    "hasSGT": true,
+    "trustScore": 84,
+    "passed": true
+  },
+  {
+    "walletAddress": "jDff7HDXmV9PV7DZoDPVHwmTHmMKXsyTs7dR5VPMFKZm",
+    "hasSGT": true,
+    "trustScore": 84,
+    "passed": true
+  },
+  {
+    "walletAddress": "eBoMmZ35MjoMqsdsuMwbXfb7hVRsXyjbwHqs7KHBByjT",
+    "hasSGT": true,
+    "trustScore": 84,
+    "passed": true
+  },
+  {
+    "walletAddress": "RmRxm77PmZbVZPVyBqHssKP3MZFMHZRo9mZHhjh3hFKm",
+    "hasSGT": true,
+    "trustScore": 85,
+    "passed": true
+  },
+  {
+    "walletAddress": "CKTDbMBq9RZXVqRqKH1j9DHmRqkVmBu5KBmMMs319MbZ",
+    "hasSGT": true,
+    "trustScore": 85,
+    "passed": true
+  },
+  {
+    "walletAddress": "7fsZ7y1DFyoKDPRDhhoyH95wsRDDb5RbToZVqH5hH1HP",
+    "hasSGT": true,
+    "trustScore": 85,
+    "passed": true
+  },
+  {
+    "walletAddress": "tTZTw7sqdRmDfdyDDFKMdm3DqudTZVdqqVqTo3dZ15TP",
+    "hasSGT": true,
+    "trustScore": 85,
+    "passed": true
+  },
+  {
+    "walletAddress": "oZBFhR9V39MjHDfZ5wD1M9TX9RP7bmFhwy7HFKPd73qD",
+    "hasSGT": true,
+    "trustScore": 85,
+    "passed": true
+  },
+  {
+    "walletAddress": "aXPHshMVjTmP3h3fHR3RZK1BqHF7VqdqZZXVdXdfTh1F",
+    "hasSGT": true,
+    "trustScore": 85,
+    "passed": true
+  },
+  {
+    "walletAddress": "VTd5553PZPwToVFMw7sh9hqfdVbsXsqdVVPuUw19TB95",
+    "hasSGT": true,
+    "trustScore": 86,
+    "passed": true
+  },
+  {
+    "walletAddress": "Gs9VHR9UBT7XFTKZsXwhwbXbjH5Hhd9PuoyTVbf3oXV7",
+    "hasSGT": true,
+    "trustScore": 86,
+    "passed": true
+  },
+  {
+    "walletAddress": "Bw5RmTFyZjTV3XwmsmMZwBwMydVfhTybyhKwRBdqMyR5",
+    "hasSGT": true,
+    "trustScore": 86,
+    "passed": true
+  },
+  {
+    "walletAddress": "xfd5B5dVdMoTbbo7qV3MmuoHhhVd9ffFfyqM79PPT1T5",
+    "hasSGT": true,
+    "trustScore": 86,
+    "passed": true
+  },
+  {
+    "walletAddress": "sqX3HhffZsFwsehdsD51ZF3DTKwy1qqFd5hDj15PoRsX",
+    "hasSGT": true,
+    "trustScore": 86,
+    "passed": true
+  },
+  {
+    "walletAddress": "eT7XBf9TbqyZq7h37mKjMFhqKmX9mHjZ3K3oKhjRKsqu",
+    "hasSGT": true,
+    "trustScore": 86,
+    "passed": true
+  },
+  {
+    "walletAddress": "ZjjuXbyHZmXFdT9qqTF3KhfVjM5odyHZBPDMoMVMTud3",
+    "hasSGT": true,
+    "trustScore": 87,
+    "passed": true
+  },
+  {
+    "walletAddress": "LMRTXMfyP3wDsFZZTbh33BhFDB3Hj1MoPF3MwB9TRjDB",
+    "hasSGT": true,
+    "trustScore": 87,
+    "passed": true
+  },
+  {
+    "walletAddress": "FdBb15DV53BXFojmuHsq7Vwm75KMmRsR7dbHoh1BhH3K",
+    "hasSGT": true,
+    "trustScore": 87,
+    "passed": true
+  },
+  {
+    "walletAddress": "293wbmPHwdyVFj7ZsKsMKjw3P1XB3HKdsjFK75FVRMsV",
+    "hasSGT": true,
+    "trustScore": 87,
+    "passed": true
+  },
+  {
+    "walletAddress": "wXVRVfHVywXjh3mfbsP5ZdMBVf3jTwT9ZZQDZT7KsheX",
+    "hasSGT": true,
+    "trustScore": 87,
+    "passed": true
+  },
+  {
+    "walletAddress": "iw7fwXPfhmyTy57yX3jmMMou9D5bwDh573DbsfmPHjZT",
+    "hasSGT": true,
+    "trustScore": 87,
+    "passed": true
+  },
+  {
+    "walletAddress": "d15Z5obVMM359UPRVuV7D7ofTHK5qfBmuMHD5ZKyjf1K",
+    "hasSGT": true,
+    "trustScore": 88,
+    "passed": true
+  },
+  {
+    "walletAddress": "QjbFqBd5q2wMo59HM91dqqMMDZZ9RdTo3MBDPZuHDquT",
+    "hasSGT": true,
+    "trustScore": 88,
+    "passed": true
+  },
+  {
+    "walletAddress": "KuPFo9y9yw7bj9uf91sMVTXX5DqdmTqoBuVqTdBHPKFw",
+    "hasSGT": true,
+    "trustScore": 88,
+    "passed": true
+  },
+  {
+    "walletAddress": "6RFhy7juyP7XXmfP7uqTTPmK1PomPDfDs9BjdhqKHZdD",
+    "hasSGT": true,
+    "trustScore": 88,
+    "passed": true
+  },
+  {
+    "walletAddress": "1oh4wRD3sDqfFyhThFKMZy1yThPoP1b55MFVybfwbF3f",
+    "hasSGT": true,
+    "trustScore": 88,
+    "passed": true
+  },
+  {
+    "walletAddress": "nBT5y7sVohhj3RhfyVo9HwF9odbbdDFhf9Dbm5jbhFFT",
+    "hasSGT": true,
+    "trustScore": 88,
+    "passed": true
+  },
+  {
+    "walletAddress": "hh9mfH9Mwdj7XFsZH1m11T7BTm9dfbhTM7qjZFqDH3Pm",
+    "hasSGT": true,
+    "trustScore": 89,
+    "passed": true
+  },
+  {
+    "walletAddress": "U5u97DbqHsRdjKs1HqDdwXDRmVwPuwdm7hj93sVwwTdw",
+    "hasSGT": true,
+    "trustScore": 89,
+    "passed": true
+  },
+  {
+    "walletAddress": "PbTTFbVHB3uDBXdPFjTfumVy5yRPXRXbVhsdPqVsh5jy",
+    "hasSGT": true,
+    "trustScore": 89,
+    "passed": true
+  },
+  {
+    "walletAddress": "AmMRDKTjXFKZmXd7y9hd5ydTuQmj5m11yXMdVsBHMysG",
+    "hasSGT": true,
+    "trustScore": 89,
+    "passed": true
+  },
+  {
+    "walletAddress": "5VuHdFP9kmFHFKhPw9V737oX3sKq7whDrHRsfKho3wfB",
+    "hasSGT": true,
+    "trustScore": 89,
+    "passed": true
+  },
+  {
+    "walletAddress": "rfoFb5Kfsobjfssjf1hBj7HoTbVqbdPXbPm7sPXoTbDX",
+    "hasSGT": true,
+    "trustScore": 89,
+    "passed": true
+  },
+  {
+    "walletAddress": "myMXFbjTFH3HsDPMmM999K3sm3u77fTwybRoTMBXjuX5",
+    "hasSGT": true,
+    "trustScore": 90,
+    "passed": true
+  },
+  {
+    "walletAddress": "YZ7w5RVVqKqK3KjbTRZwsb5ZhRDmMMB9BZw59dMPjVR1",
+    "hasSGT": true,
+    "trustScore": 90,
+    "passed": true
+  },
+  {
+    "walletAddress": "TsoFh7sm9h5BDDomKbmKw13dTVKf7qR9dbPwX7ds1sHH",
+    "hasSGT": true,
+    "trustScore": 90,
+    "passed": true
+  },
+  {
+    "walletAddress": "EFZd3DDRws9Hm1jsMZmDRTRuoqj9DsKqwHDuZKVoXDq3",
+    "hasSGT": true,
+    "trustScore": 90,
+    "passed": true
+  },
+  {
+    "walletAddress": "9m7wKV39hu7m5HqoZX59HTuybhs1RRRB51oXMVwyZdZm",
+    "hasSGT": true,
+    "trustScore": 90,
+    "passed": true
+  },
+  {
+    "walletAddress": "v9mPbm57bPwq1wP77qo3Zy9jRqHMyhw3mRyymVqd7h7R",
+    "hasSGT": true,
+    "trustScore": 90,
+    "passed": true
+  },
+  {
+    "walletAddress": "qfZduoR91P9qByjuM7mMFq7MPydVDMhfR3XuHVfyymPo",
+    "hasSGT": true,
+    "trustScore": 91,
+    "passed": true
+  },
+  {
+    "walletAddress": "cqDjXXmHb1DXqhd7VFwu3PZ39ZMF739MyKfTdTK5qqKd",
+    "hasSGT": true,
+    "trustScore": 91,
+    "passed": true
+  },
+  {
+    "walletAddress": "P9ZP7ufBVHVsfhdjKRBKbbhdVHmqbsF1VjPXqMwRqPfd",
+    "hasSGT": true,
+    "trustScore": 91,
+    "passed": true
+  },
+  {
+    "walletAddress": "JjfbRRwTmj51uKK9RuDfmoq7MZhmshsXsw15bu7duVsD",
+    "hasSGT": true,
+    "trustScore": 91,
+    "passed": true
+  },
+  {
+    "walletAddress": "5MMu9yBMMywRKVyj3B991dsmmMhhubhdbTbyTM7PuVBs",
+    "hasSGT": true,
+    "trustScore": 91,
+    "passed": true
+  },
+  {
+    "walletAddress": "zdyHd5hq9BfRMMHVoqZ9oTByqrqbyhoZ75sKqyuo75hZ",
+    "hasSGT": true,
+    "trustScore": 91,
+    "passed": true
+  },
+  {
+    "walletAddress": "mh7FbjffmV51MFB5B5VMq7wmfqwV3ofsfdTdyM9FowF3",
+    "hasSGT": true,
+    "trustScore": 92,
+    "passed": true
+  }
+]

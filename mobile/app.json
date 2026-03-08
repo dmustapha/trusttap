@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "TrustTap+",
+    "slug": "trusttap-plus",
+    "scheme": "trusttap",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0E0C0A"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.trusttap.mobile",
+      "infoPlist": {
+        "NSCameraUsageDescription": "TrustTap+ uses the camera to scan QR codes for in-person meeting verification."
+      }
+    },
+    "android": {
+      "package": "com.trusttap.mobile",
+      "permissions": ["android.permission.CAMERA"],
+      "adaptiveIcon": {
+        "backgroundColor": "#0E0C0A",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-font",
+      "expo-camera"
+    ]
+  }
+}

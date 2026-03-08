@@ -1,0 +1,1328 @@
+[
+  {
+    "walletAddress": "fRRwPwbb9wqTbf9ZDHjMRVKZoDBPsjsP7Rh7VZVMqxX3",
+    "analysis": {
+      "walletAddress": "fRRwPwbb9wqTbf9ZDHjMRVKZoDBPsjsP7Rh7VZVMqxX3",
+      "hasSGT": true,
+      "walletAge": 548,
+      "firstTransactionDate": "2024-09-05T09:46:19.795Z",
+      "transactionCount": 2000,
+      "protocolsUsed": [
+        "Jupiter",
+        "Raydium AMM",
+        "Marinade",
+        "Orca Whirlpool"
+      ],
+      "hasStakedSOL": true,
+      "hasLPPositions": true,
+      "hasLendingPositions": true,
+      "nftCount": 15,
+      "blueChipNFTCount": 0,
+      "hasSolDomain": true,
+      "solDomain": "dami.sol",
+      "daoVoteCount": 0,
+      "meetingCount": 3,
+      "analyzedAt": "2026-03-07T09:46:19.787Z",
+      "stakingLevel": 3,
+      "lpLevel": 3,
+      "lendingLevel": 3,
+      "totalPortfolioSOL": 150,
+      "solBalance": 0,
+      "lstBalance": 0
+    },
+    "profile": {
+      "walletAddress": "fRRwPwbb9wqTbf9ZDHjMRVKZoDBPsjsP7Rh7VZVMqxX3",
+      "score": 75,
+      "label": "Trusted",
+      "color": "#22C55E",
+      "breakdown": {
+        "device": 25,
+        "financial": 7,
+        "walletAge": 9,
+        "activity": 8,
+        "diversity": 7,
+        "defi": 9,
+        "identity": 3,
+        "physical": 7
+      },
+      "badges": [
+        {
+          "id": "veteran",
+          "name": "Veteran",
+          "description": "Active Solana participant for over a year",
+          "earned": true,
+          "earnedAt": "2026-03-07T09:46:40.661Z"
+        },
+        {
+          "id": "defi-degen",
+          "name": "DeFi Degen",
+          "description": "Diverse DeFi activity across the ecosystem",
+          "earned": false,
+          "progress": "4/5 protocols, 9/5 DeFi depth"
+        },
+        {
+          "id": "whale",
+          "name": "Whale",
+          "description": "Notable economic commitment to Solana",
+          "earned": false,
+          "progress": "150/500 SOL"
+        },
+        {
+          "id": "governor",
+          "name": "Governor",
+          "description": "Active participant in on-chain governance",
+          "earned": false,
+          "progress": "0/3 votes"
+        },
+        {
+          "id": "networker",
+          "name": "Networker",
+          "description": "Well-connected in the Seeker community",
+          "earned": false,
+          "progress": "3/5 meetings"
+        },
+        {
+          "id": "og",
+          "name": "OG",
+          "description": "Early Solana ecosystem participant",
+          "earned": false,
+          "progress": "548/730 days"
+        },
+        {
+          "id": "builder",
+          "name": "Builder",
+          "description": "Contributor to the Solana ecosystem",
+          "earned": false,
+          "progress": "Deploy a program on Solana"
+        }
+      ],
+      "aiSummary": "Highly active DeFi trader with 18 months of diverse protocol usage across Jupiter, Raydium, Marinade, and Orca. Full spectrum DeFi engagement including staking, liquidity provision, and lending demonstrates deep ecosystem knowledge. Verified Seeker device holder with 3 physical meeting verifications.",
+      "sybilAssessment": "HUMAN (confident)",
+      "meetingHistory": [],
+      "analysis": {
+        "walletAddress": "fRRwPwbb9wqTbf9ZDHjMRVKZoDBPsjsP7Rh7VZVMqxX3",
+        "hasSGT": true,
+        "walletAge": 548,
+        "firstTransactionDate": "2024-09-05T09:46:19.795Z",
+        "transactionCount": 2000,
+        "protocolsUsed": [
+          "Jupiter",
+          "Raydium AMM",
+          "Marinade",
+          "Orca Whirlpool"
+        ],
+        "hasStakedSOL": true,
+        "hasLPPositions": true,
+        "hasLendingPositions": true,
+        "nftCount": 15,
+        "blueChipNFTCount": 0,
+        "hasSolDomain": true,
+        "solDomain": "dami.sol",
+        "daoVoteCount": 0,
+        "meetingCount": 3,
+        "analyzedAt": "2026-03-07T09:46:19.787Z",
+        "stakingLevel": 3,
+        "lpLevel": 3,
+        "lendingLevel": 3,
+        "totalPortfolioSOL": 150,
+        "solBalance": 0,
+        "lstBalance": 0
+      },
+      "cachedAt": "2026-03-07T09:46:19.787Z"
+    },
+    "cachedAt": "2026-03-07T09:46:19.787Z",
+    "expiresAt": "2027-03-07T09:46:19.794Z",
+    "source": "precomputed"
+  },
+  {
+    "walletAddress": "abD5FFDf3d9PHRMXwdTjf5y19hP9MjfT7DKjyKMRHwsq",
+    "analysis": {
+      "walletAddress": "abD5FFDf3d9PHRMXwdTjf5y19hP9MjfT7DKjyKMRHwsq",
+      "hasSGT": true,
+      "walletAge": 200,
+      "firstTransactionDate": "2025-08-19T09:46:19.795Z",
+      "transactionCount": 300,
+      "protocolsUsed": [
+        "Tensor",
+        "Magic Eden"
+      ],
+      "hasStakedSOL": false,
+      "hasLPPositions": false,
+      "hasLendingPositions": false,
+      "nftCount": 45,
+      "blueChipNFTCount": 2,
+      "hasSolDomain": true,
+      "solDomain": "nftking.sol",
+      "daoVoteCount": 0,
+      "meetingCount": 1,
+      "analyzedAt": "2026-03-07T09:46:19.787Z",
+      "stakingLevel": 0,
+      "lpLevel": 0,
+      "lendingLevel": 0,
+      "totalPortfolioSOL": 10,
+      "solBalance": 0,
+      "lstBalance": 0
+    },
+    "profile": {
+      "walletAddress": "abD5FFDf3d9PHRMXwdTjf5y19hP9MjfT7DKjyKMRHwsq",
+      "score": 51,
+      "label": "Established",
+      "color": "#EAB308",
+      "breakdown": {
+        "device": 25,
+        "financial": 3,
+        "walletAge": 6,
+        "activity": 6,
+        "diversity": 3,
+        "defi": 0,
+        "identity": 5,
+        "physical": 3
+      },
+      "badges": [
+        {
+          "id": "veteran",
+          "name": "Veteran",
+          "description": "Active Solana participant for over a year",
+          "earned": false,
+          "progress": "200/365 days"
+        },
+        {
+          "id": "defi-degen",
+          "name": "DeFi Degen",
+          "description": "Diverse DeFi activity across the ecosystem",
+          "earned": false,
+          "progress": "2/5 protocols, 0/5 DeFi depth"
+        },
+        {
+          "id": "whale",
+          "name": "Whale",
+          "description": "Notable economic commitment to Solana",
+          "earned": false,
+          "progress": "10/500 SOL"
+        },
+        {
+          "id": "governor",
+          "name": "Governor",
+          "description": "Active participant in on-chain governance",
+          "earned": false,
+          "progress": "0/3 votes"
+        },
+        {
+          "id": "networker",
+          "name": "Networker",
+          "description": "Well-connected in the Seeker community",
+          "earned": false,
+          "progress": "1/5 meetings"
+        },
+        {
+          "id": "og",
+          "name": "OG",
+          "description": "Early Solana ecosystem participant",
+          "earned": false,
+          "progress": "200/730 days"
+        },
+        {
+          "id": "builder",
+          "name": "Builder",
+          "description": "Contributor to the Solana ecosystem",
+          "earned": false,
+          "progress": "Deploy a program on Solana"
+        }
+      ],
+      "aiSummary": "NFT-focused wallet active for 7 months with collections across Tensor and Magic Eden marketplaces. Holds 2 blue-chip NFTs and owns a .sol domain. Limited DeFi engagement suggests a collector profile rather than a trader.",
+      "sybilAssessment": "LIKELY HUMAN (moderate)",
+      "meetingHistory": [],
+      "analysis": {
+        "walletAddress": "abD5FFDf3d9PHRMXwdTjf5y19hP9MjfT7DKjyKMRHwsq",
+        "hasSGT": true,
+        "walletAge": 200,
+        "firstTransactionDate": "2025-08-19T09:46:19.795Z",
+        "transactionCount": 300,
+        "protocolsUsed": [
+          "Tensor",
+          "Magic Eden"
+        ],
+        "hasStakedSOL": false,
+        "hasLPPositions": false,
+        "hasLendingPositions": false,
+        "nftCount": 45,
+        "blueChipNFTCount": 2,
+        "hasSolDomain": true,
+        "solDomain": "nftking.sol",
+        "daoVoteCount": 0,
+        "meetingCount": 1,
+        "analyzedAt": "2026-03-07T09:46:19.787Z",
+        "stakingLevel": 0,
+        "lpLevel": 0,
+        "lendingLevel": 0,
+        "totalPortfolioSOL": 10,
+        "solBalance": 0,
+        "lstBalance": 0
+      },
+      "cachedAt": "2026-03-07T09:46:19.787Z"
+    },
+    "cachedAt": "2026-03-07T09:46:19.787Z",
+    "expiresAt": "2027-03-07T09:46:19.794Z",
+    "source": "precomputed"
+  },
+  {
+    "walletAddress": "M75RjudB15Mo7HZos9FHDRHTo9M3uTjPwdZdVq3KmMuZ",
+    "analysis": {
+      "walletAddress": "M75RjudB15Mo7HZos9FHDRHTo9M3uTjPwdZdVq3KmMuZ",
+      "hasSGT": true,
+      "walletAge": 500,
+      "firstTransactionDate": "2024-10-23T09:46:19.795Z",
+      "transactionCount": 800,
+      "protocolsUsed": [
+        "Jupiter",
+        "Raydium AMM",
+        "Marinade",
+        "SPL Governance",
+        "Squads"
+      ],
+      "hasStakedSOL": true,
+      "hasLPPositions": false,
+      "hasLendingPositions": false,
+      "nftCount": 10,
+      "blueChipNFTCount": 0,
+      "hasSolDomain": false,
+      "daoVoteCount": 15,
+      "meetingCount": 4,
+      "analyzedAt": "2026-03-07T09:46:19.787Z",
+      "stakingLevel": 3,
+      "lpLevel": 0,
+      "lendingLevel": 0,
+      "totalPortfolioSOL": 50,
+      "solBalance": 0,
+      "lstBalance": 0
+    },
+    "profile": {
+      "walletAddress": "M75RjudB15Mo7HZos9FHDRHTo9M3uTjPwdZdVq3KmMuZ",
+      "score": 67,
+      "label": "Trusted",
+      "color": "#22C55E",
+      "breakdown": {
+        "device": 25,
+        "financial": 5,
+        "walletAge": 9,
+        "activity": 6,
+        "diversity": 6,
+        "defi": 3,
+        "identity": 3,
+        "physical": 10
+      },
+      "badges": [
+        {
+          "id": "veteran",
+          "name": "Veteran",
+          "description": "Active Solana participant for over a year",
+          "earned": true,
+          "earnedAt": "2026-03-07T09:46:40.663Z"
+        },
+        {
+          "id": "defi-degen",
+          "name": "DeFi Degen",
+          "description": "Diverse DeFi activity across the ecosystem",
+          "earned": false,
+          "progress": "5/5 protocols, 3/5 DeFi depth"
+        },
+        {
+          "id": "whale",
+          "name": "Whale",
+          "description": "Notable economic commitment to Solana",
+          "earned": false,
+          "progress": "50/500 SOL"
+        },
+        {
+          "id": "governor",
+          "name": "Governor",
+          "description": "Active participant in on-chain governance",
+          "earned": true,
+          "earnedAt": "2026-03-07T09:46:40.663Z"
+        },
+        {
+          "id": "networker",
+          "name": "Networker",
+          "description": "Well-connected in the Seeker community",
+          "earned": false,
+          "progress": "4/5 meetings"
+        },
+        {
+          "id": "og",
+          "name": "OG",
+          "description": "Early Solana ecosystem participant",
+          "earned": false,
+          "progress": "500/730 days"
+        },
+        {
+          "id": "builder",
+          "name": "Builder",
+          "description": "Contributor to the Solana ecosystem",
+          "earned": false,
+          "progress": "Deploy a program on Solana"
+        }
+      ],
+      "aiSummary": "Active governance participant with 15 DAO votes and involvement across 5 protocols. Strong staking commitment via Marinade with regular Jupiter trading activity. Well-connected with 4 verified physical meetings in the Seeker community.",
+      "sybilAssessment": "HUMAN (confident)",
+      "meetingHistory": [],
+      "analysis": {
+        "walletAddress": "M75RjudB15Mo7HZos9FHDRHTo9M3uTjPwdZdVq3KmMuZ",
+        "hasSGT": true,
+        "walletAge": 500,
+        "firstTransactionDate": "2024-10-23T09:46:19.795Z",
+        "transactionCount": 800,
+        "protocolsUsed": [
+          "Jupiter",
+          "Raydium AMM",
+          "Marinade",
+          "SPL Governance",
+          "Squads"
+        ],
+        "hasStakedSOL": true,
+        "hasLPPositions": false,
+        "hasLendingPositions": false,
+        "nftCount": 10,
+        "blueChipNFTCount": 0,
+        "hasSolDomain": false,
+        "daoVoteCount": 15,
+        "meetingCount": 4,
+        "analyzedAt": "2026-03-07T09:46:19.787Z",
+        "stakingLevel": 3,
+        "lpLevel": 0,
+        "lendingLevel": 0,
+        "totalPortfolioSOL": 50,
+        "solBalance": 0,
+        "lstBalance": 0
+      },
+      "cachedAt": "2026-03-07T09:46:19.787Z"
+    },
+    "cachedAt": "2026-03-07T09:46:19.787Z",
+    "expiresAt": "2027-03-07T09:46:19.794Z",
+    "source": "precomputed"
+  },
+  {
+    "walletAddress": "GVX1bw3wFqyDH3yBF3Zyq1DbsP1DmwwPFjfyyqVZRH1F",
+    "analysis": {
+      "walletAddress": "GVX1bw3wFqyDH3yBF3Zyq1DbsP1DmwwPFjfyyqVZRH1F",
+      "hasSGT": true,
+      "walletAge": 14,
+      "firstTransactionDate": "2026-02-21T09:46:19.795Z",
+      "transactionCount": 12,
+      "protocolsUsed": [
+        "Jupiter"
+      ],
+      "hasStakedSOL": false,
+      "hasLPPositions": false,
+      "hasLendingPositions": false,
+      "nftCount": 0,
+      "blueChipNFTCount": 0,
+      "hasSolDomain": false,
+      "daoVoteCount": 0,
+      "meetingCount": 0,
+      "analyzedAt": "2026-03-07T09:46:19.787Z",
+      "stakingLevel": 0,
+      "lpLevel": 0,
+      "lendingLevel": 0,
+      "totalPortfolioSOL": 1,
+      "solBalance": 0,
+      "lstBalance": 0
+    },
+    "profile": {
+      "walletAddress": "GVX1bw3wFqyDH3yBF3Zyq1DbsP1DmwwPFjfyyqVZRH1F",
+      "score": 31,
+      "label": "Basic",
+      "color": "#F97316",
+      "breakdown": {
+        "device": 25,
+        "financial": 2,
+        "walletAge": 1,
+        "activity": 2,
+        "diversity": 1,
+        "defi": 0,
+        "identity": 0,
+        "physical": 0
+      },
+      "badges": [
+        {
+          "id": "veteran",
+          "name": "Veteran",
+          "description": "Active Solana participant for over a year",
+          "earned": false,
+          "progress": "14/365 days"
+        },
+        {
+          "id": "defi-degen",
+          "name": "DeFi Degen",
+          "description": "Diverse DeFi activity across the ecosystem",
+          "earned": false,
+          "progress": "1/5 protocols, 0/5 DeFi depth"
+        },
+        {
+          "id": "whale",
+          "name": "Whale",
+          "description": "Notable economic commitment to Solana",
+          "earned": false,
+          "progress": "1/500 SOL"
+        },
+        {
+          "id": "governor",
+          "name": "Governor",
+          "description": "Active participant in on-chain governance",
+          "earned": false,
+          "progress": "0/3 votes"
+        },
+        {
+          "id": "networker",
+          "name": "Networker",
+          "description": "Well-connected in the Seeker community",
+          "earned": false,
+          "progress": "0/5 meetings"
+        },
+        {
+          "id": "og",
+          "name": "OG",
+          "description": "Early Solana ecosystem participant",
+          "earned": false,
+          "progress": "14/730 days"
+        },
+        {
+          "id": "builder",
+          "name": "Builder",
+          "description": "Contributor to the Solana ecosystem",
+          "earned": false,
+          "progress": "Deploy a program on Solana"
+        }
+      ],
+      "aiSummary": "Very new wallet with only 2 weeks of history and minimal activity. Has used Jupiter for basic swaps. No DeFi positions, NFTs, or community engagement yet. Score will improve with continued authentic usage.",
+      "sybilAssessment": "UNCERTAIN",
+      "meetingHistory": [],
+      "analysis": {
+        "walletAddress": "GVX1bw3wFqyDH3yBF3Zyq1DbsP1DmwwPFjfyyqVZRH1F",
+        "hasSGT": true,
+        "walletAge": 14,
+        "firstTransactionDate": "2026-02-21T09:46:19.795Z",
+        "transactionCount": 12,
+        "protocolsUsed": [
+          "Jupiter"
+        ],
+        "hasStakedSOL": false,
+        "hasLPPositions": false,
+        "hasLendingPositions": false,
+        "nftCount": 0,
+        "blueChipNFTCount": 0,
+        "hasSolDomain": false,
+        "daoVoteCount": 0,
+        "meetingCount": 0,
+        "analyzedAt": "2026-03-07T09:46:19.787Z",
+        "stakingLevel": 0,
+        "lpLevel": 0,
+        "lendingLevel": 0,
+        "totalPortfolioSOL": 1,
+        "solBalance": 0,
+        "lstBalance": 0
+      },
+      "cachedAt": "2026-03-07T09:46:19.787Z"
+    },
+    "cachedAt": "2026-03-07T09:46:19.787Z",
+    "expiresAt": "2027-03-07T09:46:19.794Z",
+    "source": "precomputed"
+  },
+  {
+    "walletAddress": "317PfVH1ZwV5H9uwKjX3mjuTh5FByP1jhjjXMKH9KF1u",
+    "analysis": {
+      "walletAddress": "317PfVH1ZwV5H9uwKjX3mjuTh5FByP1jhjjXMKH9KF1u",
+      "hasSGT": true,
+      "walletAge": 400,
+      "firstTransactionDate": "2025-01-31T09:46:19.795Z",
+      "transactionCount": 1500,
+      "protocolsUsed": [
+        "Jupiter",
+        "Raydium AMM",
+        "Marinade"
+      ],
+      "hasStakedSOL": true,
+      "hasLPPositions": true,
+      "hasLendingPositions": false,
+      "nftCount": 80,
+      "blueChipNFTCount": 3,
+      "hasSolDomain": true,
+      "solDomain": "whale.sol",
+      "daoVoteCount": 5,
+      "meetingCount": 5,
+      "analyzedAt": "2026-03-07T09:46:19.787Z",
+      "stakingLevel": 3,
+      "lpLevel": 3,
+      "lendingLevel": 0,
+      "totalPortfolioSOL": 150,
+      "solBalance": 0,
+      "lstBalance": 0
+    },
+    "profile": {
+      "walletAddress": "317PfVH1ZwV5H9uwKjX3mjuTh5FByP1jhjjXMKH9KF1u",
+      "score": 75,
+      "label": "Trusted",
+      "color": "#22C55E",
+      "breakdown": {
+        "device": 25,
+        "financial": 7,
+        "walletAge": 8,
+        "activity": 8,
+        "diversity": 3,
+        "defi": 6,
+        "identity": 6,
+        "physical": 12
+      },
+      "badges": [
+        {
+          "id": "veteran",
+          "name": "Veteran",
+          "description": "Active Solana participant for over a year",
+          "earned": true,
+          "earnedAt": "2026-03-07T09:46:40.663Z"
+        },
+        {
+          "id": "defi-degen",
+          "name": "DeFi Degen",
+          "description": "Diverse DeFi activity across the ecosystem",
+          "earned": false,
+          "progress": "3/5 protocols, 6/5 DeFi depth"
+        },
+        {
+          "id": "whale",
+          "name": "Whale",
+          "description": "Notable economic commitment to Solana",
+          "earned": false,
+          "progress": "150/500 SOL"
+        },
+        {
+          "id": "governor",
+          "name": "Governor",
+          "description": "Active participant in on-chain governance",
+          "earned": true,
+          "earnedAt": "2026-03-07T09:46:40.663Z"
+        },
+        {
+          "id": "networker",
+          "name": "Networker",
+          "description": "Well-connected in the Seeker community",
+          "earned": true,
+          "earnedAt": "2026-03-07T09:46:40.663Z"
+        },
+        {
+          "id": "og",
+          "name": "OG",
+          "description": "Early Solana ecosystem participant",
+          "earned": false,
+          "progress": "400/730 days"
+        },
+        {
+          "id": "builder",
+          "name": "Builder",
+          "description": "Contributor to the Solana ecosystem",
+          "earned": false,
+          "progress": "Deploy a program on Solana"
+        }
+      ],
+      "aiSummary": "Significant ecosystem participant with large NFT collection (80 items, 3 blue-chip) and active DeFi usage. Over a year of consistent activity across Jupiter, Raydium, and Marinade with staking and LP positions. Verified governance participation and 5 physical meetings.",
+      "sybilAssessment": "HUMAN (confident)",
+      "meetingHistory": [],
+      "analysis": {
+        "walletAddress": "317PfVH1ZwV5H9uwKjX3mjuTh5FByP1jhjjXMKH9KF1u",
+        "hasSGT": true,
+        "walletAge": 400,
+        "firstTransactionDate": "2025-01-31T09:46:19.795Z",
+        "transactionCount": 1500,
+        "protocolsUsed": [
+          "Jupiter",
+          "Raydium AMM",
+          "Marinade"
+        ],
+        "hasStakedSOL": true,
+        "hasLPPositions": true,
+        "hasLendingPositions": false,
+        "nftCount": 80,
+        "blueChipNFTCount": 3,
+        "hasSolDomain": true,
+        "solDomain": "whale.sol",
+        "daoVoteCount": 5,
+        "meetingCount": 5,
+        "analyzedAt": "2026-03-07T09:46:19.787Z",
+        "stakingLevel": 3,
+        "lpLevel": 3,
+        "lendingLevel": 0,
+        "totalPortfolioSOL": 150,
+        "solBalance": 0,
+        "lstBalance": 0
+      },
+      "cachedAt": "2026-03-07T09:46:19.787Z"
+    },
+    "cachedAt": "2026-03-07T09:46:19.787Z",
+    "expiresAt": "2027-03-07T09:46:19.794Z",
+    "source": "precomputed"
+  },
+  {
+    "walletAddress": "xPybFBbdffwyfTSMD5bX51q57j7MyXVTTsVymqTFBhfu",
+    "analysis": {
+      "walletAddress": "xPybFBbdffwyfTSMD5bX51q57j7MyXVTTsVymqTFBhfu",
+      "hasSGT": true,
+      "walletAge": 250,
+      "firstTransactionDate": "2025-06-30T09:46:19.795Z",
+      "transactionCount": 600,
+      "protocolsUsed": [
+        "Jupiter",
+        "Raydium AMM",
+        "Marinade",
+        "Orca Whirlpool",
+        "Tensor",
+        "Solend"
+      ],
+      "hasStakedSOL": true,
+      "hasLPPositions": true,
+      "hasLendingPositions": false,
+      "nftCount": 5,
+      "blueChipNFTCount": 0,
+      "hasSolDomain": true,
+      "solDomain": "multiuser.sol",
+      "daoVoteCount": 0,
+      "meetingCount": 2,
+      "analyzedAt": "2026-03-07T09:46:19.787Z",
+      "stakingLevel": 3,
+      "lpLevel": 3,
+      "lendingLevel": 0,
+      "totalPortfolioSOL": 50,
+      "solBalance": 0,
+      "lstBalance": 0
+    },
+    "profile": {
+      "walletAddress": "xPybFBbdffwyfTSMD5bX51q57j7MyXVTTsVymqTFBhfu",
+      "score": 63,
+      "label": "Trusted",
+      "color": "#22C55E",
+      "breakdown": {
+        "device": 25,
+        "financial": 5,
+        "walletAge": 6,
+        "activity": 6,
+        "diversity": 7,
+        "defi": 6,
+        "identity": 3,
+        "physical": 5
+      },
+      "badges": [
+        {
+          "id": "veteran",
+          "name": "Veteran",
+          "description": "Active Solana participant for over a year",
+          "earned": false,
+          "progress": "250/365 days"
+        },
+        {
+          "id": "defi-degen",
+          "name": "DeFi Degen",
+          "description": "Diverse DeFi activity across the ecosystem",
+          "earned": true,
+          "earnedAt": "2026-03-07T09:46:40.663Z"
+        },
+        {
+          "id": "whale",
+          "name": "Whale",
+          "description": "Notable economic commitment to Solana",
+          "earned": false,
+          "progress": "50/500 SOL"
+        },
+        {
+          "id": "governor",
+          "name": "Governor",
+          "description": "Active participant in on-chain governance",
+          "earned": false,
+          "progress": "0/3 votes"
+        },
+        {
+          "id": "networker",
+          "name": "Networker",
+          "description": "Well-connected in the Seeker community",
+          "earned": false,
+          "progress": "2/5 meetings"
+        },
+        {
+          "id": "og",
+          "name": "OG",
+          "description": "Early Solana ecosystem participant",
+          "earned": false,
+          "progress": "250/730 days"
+        },
+        {
+          "id": "builder",
+          "name": "Builder",
+          "description": "Contributor to the Solana ecosystem",
+          "earned": false,
+          "progress": "Deploy a program on Solana"
+        }
+      ],
+      "aiSummary": "Impressively diverse protocol usage across 6 platforms including DEXes, liquid staking, and NFT marketplaces. Active staking and LP participation demonstrates genuine DeFi engagement. Owns a .sol domain and has 2 verified meetings.",
+      "sybilAssessment": "HUMAN (confident)",
+      "meetingHistory": [],
+      "analysis": {
+        "walletAddress": "xPybFBbdffwyfTSMD5bX51q57j7MyXVTTsVymqTFBhfu",
+        "hasSGT": true,
+        "walletAge": 250,
+        "firstTransactionDate": "2025-06-30T09:46:19.795Z",
+        "transactionCount": 600,
+        "protocolsUsed": [
+          "Jupiter",
+          "Raydium AMM",
+          "Marinade",
+          "Orca Whirlpool",
+          "Tensor",
+          "Solend"
+        ],
+        "hasStakedSOL": true,
+        "hasLPPositions": true,
+        "hasLendingPositions": false,
+        "nftCount": 5,
+        "blueChipNFTCount": 0,
+        "hasSolDomain": true,
+        "solDomain": "multiuser.sol",
+        "daoVoteCount": 0,
+        "meetingCount": 2,
+        "analyzedAt": "2026-03-07T09:46:19.787Z",
+        "stakingLevel": 3,
+        "lpLevel": 3,
+        "lendingLevel": 0,
+        "totalPortfolioSOL": 50,
+        "solBalance": 0,
+        "lstBalance": 0
+      },
+      "cachedAt": "2026-03-07T09:46:19.787Z"
+    },
+    "cachedAt": "2026-03-07T09:46:19.787Z",
+    "expiresAt": "2027-03-07T09:46:19.794Z",
+    "source": "precomputed"
+  },
+  {
+    "walletAddress": "juqooh7dhKh51qjK3wVqhTVVMMmTDT9q1ZwKs1qBwHRs",
+    "analysis": {
+      "walletAddress": "juqooh7dhKh51qjK3wVqhTVVMMmTDT9q1ZwKs1qBwHRs",
+      "hasSGT": true,
+      "walletAge": 45,
+      "firstTransactionDate": "2026-01-21T09:46:19.795Z",
+      "transactionCount": 30,
+      "protocolsUsed": [
+        "Jupiter"
+      ],
+      "hasStakedSOL": false,
+      "hasLPPositions": false,
+      "hasLendingPositions": false,
+      "nftCount": 1,
+      "blueChipNFTCount": 0,
+      "hasSolDomain": false,
+      "daoVoteCount": 0,
+      "meetingCount": 0,
+      "analyzedAt": "2026-03-07T09:46:19.787Z",
+      "stakingLevel": 0,
+      "lpLevel": 0,
+      "lendingLevel": 0,
+      "totalPortfolioSOL": 1,
+      "solBalance": 0,
+      "lstBalance": 0
+    },
+    "profile": {
+      "walletAddress": "juqooh7dhKh51qjK3wVqhTVVMMmTDT9q1ZwKs1qBwHRs",
+      "score": 33,
+      "label": "Basic",
+      "color": "#F97316",
+      "breakdown": {
+        "device": 25,
+        "financial": 2,
+        "walletAge": 2,
+        "activity": 2,
+        "diversity": 1,
+        "defi": 0,
+        "identity": 1,
+        "physical": 0
+      },
+      "badges": [
+        {
+          "id": "veteran",
+          "name": "Veteran",
+          "description": "Active Solana participant for over a year",
+          "earned": false,
+          "progress": "45/365 days"
+        },
+        {
+          "id": "defi-degen",
+          "name": "DeFi Degen",
+          "description": "Diverse DeFi activity across the ecosystem",
+          "earned": false,
+          "progress": "1/5 protocols, 0/5 DeFi depth"
+        },
+        {
+          "id": "whale",
+          "name": "Whale",
+          "description": "Notable economic commitment to Solana",
+          "earned": false,
+          "progress": "1/500 SOL"
+        },
+        {
+          "id": "governor",
+          "name": "Governor",
+          "description": "Active participant in on-chain governance",
+          "earned": false,
+          "progress": "0/3 votes"
+        },
+        {
+          "id": "networker",
+          "name": "Networker",
+          "description": "Well-connected in the Seeker community",
+          "earned": false,
+          "progress": "0/5 meetings"
+        },
+        {
+          "id": "og",
+          "name": "OG",
+          "description": "Early Solana ecosystem participant",
+          "earned": false,
+          "progress": "45/730 days"
+        },
+        {
+          "id": "builder",
+          "name": "Builder",
+          "description": "Contributor to the Solana ecosystem",
+          "earned": false,
+          "progress": "Deploy a program on Solana"
+        }
+      ],
+      "aiSummary": "Relatively new wallet with light activity over 6 weeks. Basic Jupiter usage for swaps. No DeFi positions or community engagement. Building history but needs more time and activity to establish trust.",
+      "sybilAssessment": "UNCERTAIN",
+      "meetingHistory": [],
+      "analysis": {
+        "walletAddress": "juqooh7dhKh51qjK3wVqhTVVMMmTDT9q1ZwKs1qBwHRs",
+        "hasSGT": true,
+        "walletAge": 45,
+        "firstTransactionDate": "2026-01-21T09:46:19.795Z",
+        "transactionCount": 30,
+        "protocolsUsed": [
+          "Jupiter"
+        ],
+        "hasStakedSOL": false,
+        "hasLPPositions": false,
+        "hasLendingPositions": false,
+        "nftCount": 1,
+        "blueChipNFTCount": 0,
+        "hasSolDomain": false,
+        "daoVoteCount": 0,
+        "meetingCount": 0,
+        "analyzedAt": "2026-03-07T09:46:19.787Z",
+        "stakingLevel": 0,
+        "lpLevel": 0,
+        "lendingLevel": 0,
+        "totalPortfolioSOL": 1,
+        "solBalance": 0,
+        "lstBalance": 0
+      },
+      "cachedAt": "2026-03-07T09:46:19.787Z"
+    },
+    "cachedAt": "2026-03-07T09:46:19.787Z",
+    "expiresAt": "2027-03-07T09:46:19.794Z",
+    "source": "precomputed"
+  },
+  {
+    "walletAddress": "eHHHqVwd1DsmwmbK913uRTXKB7wT35uP775HVRffRDB3",
+    "analysis": {
+      "walletAddress": "eHHHqVwd1DsmwmbK913uRTXKB7wT35uP775HVRffRDB3",
+      "hasSGT": true,
+      "walletAge": 800,
+      "firstTransactionDate": "2023-12-28T09:46:19.795Z",
+      "transactionCount": 1200,
+      "protocolsUsed": [
+        "Jupiter",
+        "Raydium AMM",
+        "Marinade",
+        "Orca Whirlpool",
+        "Solend"
+      ],
+      "hasStakedSOL": true,
+      "hasLPPositions": true,
+      "hasLendingPositions": true,
+      "nftCount": 25,
+      "blueChipNFTCount": 3,
+      "hasSolDomain": true,
+      "solDomain": "og.sol",
+      "daoVoteCount": 20,
+      "meetingCount": 6,
+      "analyzedAt": "2026-03-07T09:46:19.787Z",
+      "stakingLevel": 3,
+      "lpLevel": 3,
+      "lendingLevel": 3,
+      "totalPortfolioSOL": 150,
+      "solBalance": 0,
+      "lstBalance": 0
+    },
+    "profile": {
+      "walletAddress": "eHHHqVwd1DsmwmbK913uRTXKB7wT35uP775HVRffRDB3",
+      "score": 86,
+      "label": "Highly Trusted",
+      "color": "#10B981",
+      "breakdown": {
+        "device": 25,
+        "financial": 7,
+        "walletAge": 10,
+        "activity": 8,
+        "diversity": 7,
+        "defi": 9,
+        "identity": 8,
+        "physical": 12
+      },
+      "badges": [
+        {
+          "id": "veteran",
+          "name": "Veteran",
+          "description": "Active Solana participant for over a year",
+          "earned": true,
+          "earnedAt": "2026-03-07T09:46:40.663Z"
+        },
+        {
+          "id": "defi-degen",
+          "name": "DeFi Degen",
+          "description": "Diverse DeFi activity across the ecosystem",
+          "earned": true,
+          "earnedAt": "2026-03-07T09:46:40.663Z"
+        },
+        {
+          "id": "whale",
+          "name": "Whale",
+          "description": "Notable economic commitment to Solana",
+          "earned": false,
+          "progress": "150/500 SOL"
+        },
+        {
+          "id": "governor",
+          "name": "Governor",
+          "description": "Active participant in on-chain governance",
+          "earned": true,
+          "earnedAt": "2026-03-07T09:46:40.663Z"
+        },
+        {
+          "id": "networker",
+          "name": "Networker",
+          "description": "Well-connected in the Seeker community",
+          "earned": true,
+          "earnedAt": "2026-03-07T09:46:40.663Z"
+        },
+        {
+          "id": "og",
+          "name": "OG",
+          "description": "Early Solana ecosystem participant",
+          "earned": true,
+          "earnedAt": "2026-03-07T09:46:40.663Z"
+        },
+        {
+          "id": "builder",
+          "name": "Builder",
+          "description": "Contributor to the Solana ecosystem",
+          "earned": false,
+          "progress": "Deploy a program on Solana"
+        }
+      ],
+      "aiSummary": "Original Solana ecosystem participant with over 2 years of continuous activity. Maximum trust across all dimensions: diverse DeFi engagement, governance participation, blue-chip NFT holder, and extensively verified through 6 physical meetings. Exemplary on-chain reputation.",
+      "sybilAssessment": "HUMAN (confident)",
+      "meetingHistory": [],
+      "analysis": {
+        "walletAddress": "eHHHqVwd1DsmwmbK913uRTXKB7wT35uP775HVRffRDB3",
+        "hasSGT": true,
+        "walletAge": 800,
+        "firstTransactionDate": "2023-12-28T09:46:19.795Z",
+        "transactionCount": 1200,
+        "protocolsUsed": [
+          "Jupiter",
+          "Raydium AMM",
+          "Marinade",
+          "Orca Whirlpool",
+          "Solend"
+        ],
+        "hasStakedSOL": true,
+        "hasLPPositions": true,
+        "hasLendingPositions": true,
+        "nftCount": 25,
+        "blueChipNFTCount": 3,
+        "hasSolDomain": true,
+        "solDomain": "og.sol",
+        "daoVoteCount": 20,
+        "meetingCount": 6,
+        "analyzedAt": "2026-03-07T09:46:19.787Z",
+        "stakingLevel": 3,
+        "lpLevel": 3,
+        "lendingLevel": 3,
+        "totalPortfolioSOL": 150,
+        "solBalance": 0,
+        "lstBalance": 0
+      },
+      "cachedAt": "2026-03-07T09:46:19.787Z"
+    },
+    "cachedAt": "2026-03-07T09:46:19.787Z",
+    "expiresAt": "2027-03-07T09:46:19.794Z",
+    "source": "precomputed"
+  },
+  {
+    "walletAddress": "Rb5RTuodu9VHMMVPhwXjMFTwqyDuwfH1ouZFqXTZXTsT",
+    "analysis": {
+      "walletAddress": "Rb5RTuodu9VHMMVPhwXjMFTwqyDuwfH1ouZFqXTZXTsT",
+      "hasSGT": true,
+      "walletAge": 180,
+      "firstTransactionDate": "2025-09-08T09:46:19.795Z",
+      "transactionCount": 400,
+      "protocolsUsed": [
+        "Jupiter",
+        "Raydium AMM",
+        "Marinade"
+      ],
+      "hasStakedSOL": true,
+      "hasLPPositions": false,
+      "hasLendingPositions": false,
+      "nftCount": 3,
+      "blueChipNFTCount": 0,
+      "hasSolDomain": true,
+      "solDomain": "alice.sol",
+      "daoVoteCount": 0,
+      "meetingCount": 2,
+      "analyzedAt": "2026-03-07T09:46:19.787Z",
+      "stakingLevel": 3,
+      "lpLevel": 0,
+      "lendingLevel": 0,
+      "totalPortfolioSOL": 50,
+      "solBalance": 0,
+      "lstBalance": 0
+    },
+    "profile": {
+      "walletAddress": "Rb5RTuodu9VHMMVPhwXjMFTwqyDuwfH1ouZFqXTZXTsT",
+      "score": 55,
+      "label": "Established",
+      "color": "#EAB308",
+      "breakdown": {
+        "device": 25,
+        "financial": 5,
+        "walletAge": 5,
+        "activity": 6,
+        "diversity": 3,
+        "defi": 3,
+        "identity": 3,
+        "physical": 5
+      },
+      "badges": [
+        {
+          "id": "veteran",
+          "name": "Veteran",
+          "description": "Active Solana participant for over a year",
+          "earned": false,
+          "progress": "180/365 days"
+        },
+        {
+          "id": "defi-degen",
+          "name": "DeFi Degen",
+          "description": "Diverse DeFi activity across the ecosystem",
+          "earned": false,
+          "progress": "3/5 protocols, 3/5 DeFi depth"
+        },
+        {
+          "id": "whale",
+          "name": "Whale",
+          "description": "Notable economic commitment to Solana",
+          "earned": false,
+          "progress": "50/500 SOL"
+        },
+        {
+          "id": "governor",
+          "name": "Governor",
+          "description": "Active participant in on-chain governance",
+          "earned": false,
+          "progress": "0/3 votes"
+        },
+        {
+          "id": "networker",
+          "name": "Networker",
+          "description": "Well-connected in the Seeker community",
+          "earned": false,
+          "progress": "2/5 meetings"
+        },
+        {
+          "id": "og",
+          "name": "OG",
+          "description": "Early Solana ecosystem participant",
+          "earned": false,
+          "progress": "180/730 days"
+        },
+        {
+          "id": "builder",
+          "name": "Builder",
+          "description": "Contributor to the Solana ecosystem",
+          "earned": false,
+          "progress": "Deploy a program on Solana"
+        }
+      ],
+      "aiSummary": "Established wallet with 6 months of activity across Jupiter, Raydium, and Marinade. Active staker with a .sol domain. Moderate trading volume and 2 verified physical meetings. Solid foundation for growing trust.",
+      "sybilAssessment": "LIKELY HUMAN (moderate)",
+      "meetingHistory": [],
+      "analysis": {
+        "walletAddress": "Rb5RTuodu9VHMMVPhwXjMFTwqyDuwfH1ouZFqXTZXTsT",
+        "hasSGT": true,
+        "walletAge": 180,
+        "firstTransactionDate": "2025-09-08T09:46:19.795Z",
+        "transactionCount": 400,
+        "protocolsUsed": [
+          "Jupiter",
+          "Raydium AMM",
+          "Marinade"
+        ],
+        "hasStakedSOL": true,
+        "hasLPPositions": false,
+        "hasLendingPositions": false,
+        "nftCount": 3,
+        "blueChipNFTCount": 0,
+        "hasSolDomain": true,
+        "solDomain": "alice.sol",
+        "daoVoteCount": 0,
+        "meetingCount": 2,
+        "analyzedAt": "2026-03-07T09:46:19.787Z",
+        "stakingLevel": 3,
+        "lpLevel": 0,
+        "lendingLevel": 0,
+        "totalPortfolioSOL": 50,
+        "solBalance": 0,
+        "lstBalance": 0
+      },
+      "cachedAt": "2026-03-07T09:46:19.787Z"
+    },
+    "cachedAt": "2026-03-07T09:46:19.787Z",
+    "expiresAt": "2027-03-07T09:46:19.794Z",
+    "source": "precomputed"
+  },
+  {
+    "walletAddress": "C5myTZf59hw5X9BMoHyDmMBh5Rq3fy5yqb3XFFyh1Ddd",
+    "analysis": {
+      "walletAddress": "C5myTZf59hw5X9BMoHyDmMBh5Rq3fy5yqb3XFFyh1Ddd",
+      "hasSGT": true,
+      "walletAge": 60,
+      "firstTransactionDate": "2026-01-06T09:46:19.795Z",
+      "transactionCount": 80,
+      "protocolsUsed": [
+        "Jupiter",
+        "Raydium AMM"
+      ],
+      "hasStakedSOL": false,
+      "hasLPPositions": false,
+      "hasLendingPositions": false,
+      "nftCount": 2,
+      "blueChipNFTCount": 0,
+      "hasSolDomain": false,
+      "daoVoteCount": 0,
+      "meetingCount": 0,
+      "analyzedAt": "2026-03-07T09:46:19.787Z",
+      "stakingLevel": 0,
+      "lpLevel": 0,
+      "lendingLevel": 0,
+      "totalPortfolioSOL": 10,
+      "solBalance": 0,
+      "lstBalance": 0
+    },
+    "profile": {
+      "walletAddress": "C5myTZf59hw5X9BMoHyDmMBh5Rq3fy5yqb3XFFyh1Ddd",
+      "score": 38,
+      "label": "Basic",
+      "color": "#F97316",
+      "breakdown": {
+        "device": 25,
+        "financial": 3,
+        "walletAge": 2,
+        "activity": 4,
+        "diversity": 3,
+        "defi": 0,
+        "identity": 1,
+        "physical": 0
+      },
+      "badges": [
+        {
+          "id": "veteran",
+          "name": "Veteran",
+          "description": "Active Solana participant for over a year",
+          "earned": false,
+          "progress": "60/365 days"
+        },
+        {
+          "id": "defi-degen",
+          "name": "DeFi Degen",
+          "description": "Diverse DeFi activity across the ecosystem",
+          "earned": false,
+          "progress": "2/5 protocols, 0/5 DeFi depth"
+        },
+        {
+          "id": "whale",
+          "name": "Whale",
+          "description": "Notable economic commitment to Solana",
+          "earned": false,
+          "progress": "10/500 SOL"
+        },
+        {
+          "id": "governor",
+          "name": "Governor",
+          "description": "Active participant in on-chain governance",
+          "earned": false,
+          "progress": "0/3 votes"
+        },
+        {
+          "id": "networker",
+          "name": "Networker",
+          "description": "Well-connected in the Seeker community",
+          "earned": false,
+          "progress": "0/5 meetings"
+        },
+        {
+          "id": "og",
+          "name": "OG",
+          "description": "Early Solana ecosystem participant",
+          "earned": false,
+          "progress": "60/730 days"
+        },
+        {
+          "id": "builder",
+          "name": "Builder",
+          "description": "Contributor to the Solana ecosystem",
+          "earned": false,
+          "progress": "Deploy a program on Solana"
+        }
+      ],
+      "aiSummary": "Two-month-old wallet with basic trading activity on Jupiter and Raydium. No DeFi positions, domains, or community engagement yet. Shows early signs of genuine usage but needs more history to build trust.",
+      "sybilAssessment": "UNCERTAIN",
+      "meetingHistory": [],
+      "analysis": {
+        "walletAddress": "C5myTZf59hw5X9BMoHyDmMBh5Rq3fy5yqb3XFFyh1Ddd",
+        "hasSGT": true,
+        "walletAge": 60,
+        "firstTransactionDate": "2026-01-06T09:46:19.795Z",
+        "transactionCount": 80,
+        "protocolsUsed": [
+          "Jupiter",
+          "Raydium AMM"
+        ],
+        "hasStakedSOL": false,
+        "hasLPPositions": false,
+        "hasLendingPositions": false,
+        "nftCount": 2,
+        "blueChipNFTCount": 0,
+        "hasSolDomain": false,
+        "daoVoteCount": 0,
+        "meetingCount": 0,
+        "analyzedAt": "2026-03-07T09:46:19.787Z",
+        "stakingLevel": 0,
+        "lpLevel": 0,
+        "lendingLevel": 0,
+        "totalPortfolioSOL": 10,
+        "solBalance": 0,
+        "lstBalance": 0
+      },
+      "cachedAt": "2026-03-07T09:46:19.787Z"
+    },
+    "cachedAt": "2026-03-07T09:46:19.787Z",
+    "expiresAt": "2027-03-07T09:46:19.794Z",
+    "source": "precomputed"
+  }
+]
