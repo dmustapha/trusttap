@@ -115,8 +115,8 @@ export function HeroSection() {
         }}
       />
 
-      {/* Top spacer */}
-      <div className="w-full flex-1" />
+      {/* Top spacer — grows more to push hero toward true visual center */}
+      <div className="w-full" style={{ flex: '1.4 1 0%' }} />
 
       {/* Badge strip — elevated above the rings visually */}
       <motion.div
@@ -195,8 +195,8 @@ export function HeroSection() {
         </motion.p>
       </div>
 
-      {/* Spacer */}
-      <div className="w-full flex-1" />
+      {/* Bottom spacer */}
+      <div className="w-full" style={{ flex: '0.6 1 0%' }} />
 
       {/* CTA area */}
       <motion.div
