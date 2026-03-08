@@ -37,10 +37,10 @@ const steps = [
   },
   {
     num: '05',
-    label: 'Shield',
-    title: 'Sybil Shield',
-    body: 'Filter airdrop participants by device attestation and TrustScore. Set a threshold \u2014 only wallets that pass get through.',
-    visual: 'shield',
+    label: 'Level Up',
+    title: 'Level Up Your Score',
+    body: 'Get personalized recommendations to improve your trust score. Toggle actions on and off to see how each one would boost your projected score.',
+    visual: 'levelup',
   },
   {
     num: '06',
@@ -344,6 +344,48 @@ function ShieldVisual() {
   );
 }
 
+function LevelUpVisual() {
+  const actions = [
+    { label: 'Stake SOL', pts: '+4', done: false, delay: 0.3 },
+    { label: 'Use DEX', pts: '+3', done: true, delay: 0.42 },
+    { label: 'Register .sol', pts: '+5', done: false, delay: 0.54 },
+  ];
+
+  return (
+    <div className="flex w-full max-w-[260px] flex-col gap-3">
+      <motion.div
+        className="flex items-baseline gap-2"
+        initial={{ opacity: 0, y: 6 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ delay: 0.2 }}
+      >
+        <span style={{ fontFamily: 'var(--font-serif-display)', fontSize: '1.4rem', fontWeight: 300, color: 'var(--text-primary)', lineHeight: 1 }}>
+          52
+        </span>
+        <span style={{ fontFamily: 'var(--font-mono)', fontSize: '0.6rem', color: 'var(--text-muted)' }}>now</span>
+        <svg width="16" height="10" viewBox="0 0 16 10" fill="none" stroke="var(--tt-primary)" strokeWidth="1.5" strokeLinecap="round"><polyline points="2,5 8,5 14,2" /></svg>
+        <span style={{ fontFamily: 'var(--font-serif-display)', fontSize: '1.4rem', fontWeight: 300, color: 'var(--tt-primary)', lineHeight: 1 }}>
+          64
+        </span>
+        <span style={{ fontFamily: 'var(--font-mono)', fontSize: '0.6rem', color: 'var(--text-muted)' }}>projected</span>
+      </motion.div>
+      {actions.map((a) => (
+        <motion.div
+          key={a.label}
+          className="flex items-center justify-between px-3 py-2"
+          style={{ background: 'var(--bg-surface)', borderLeft: a.done ? '2px solid var(--tt-primary)' : '2px solid var(--bg-elevated)' }}
+          initial={{ opacity: 0, x: -8 }}
+          animate={{ opacity: 1, x: 0 }}
+          transition={{ delay: a.delay }}
+        >
+          <span style={{ fontFamily: 'var(--font-ui)', fontSize: '0.7rem', color: a.done ? 'var(--text-muted)' : 'var(--text-secondary)', textDecoration: a.done ? 'line-through' : 'none' }}>{a.label}</span>
+          <span style={{ fontFamily: 'var(--font-mono)', fontSize: '0.65rem', color: 'var(--tt-primary)' }}>{a.pts}</span>
+        </motion.div>
+      ))}
+    </div>
+  );
+}
+
 function ReadyVisual() {
   return (
     <motion.div
@@ -374,6 +416,7 @@ const VISUALS: Record<string, React.ReactNode> = {
   scan: <ScanVisual />,
   search: <SearchVisual />,
   shield: <ShieldVisual />,
+  levelup: <LevelUpVisual />,
   ready: <ReadyVisual />,
 };
 

@@ -21,7 +21,7 @@ export function PageShell({ children, className = '' }: { children: ReactNode; c
   return (
     <>
       <header className="fixed top-0 left-0 right-0 z-40 flex items-center px-4 bg-[var(--bg-base)]" style={{ height: 48, paddingTop: 'env(safe-area-inset-top, 0px)' }}>
-        <img src="/favicon.png" alt="" width={22} height={22} style={{ opacity: 0.85 }} />
+        <img src="/favicon.png" alt="" width={32} height={32} style={{ opacity: 0.85 }} />
         <span
           className="ml-2 font-[family-name:var(--font-serif-display)]"
           style={{ fontSize: '0.95rem', fontWeight: 300, color: 'var(--text-primary)', letterSpacing: '-0.01em' }}
