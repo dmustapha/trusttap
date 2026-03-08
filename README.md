@@ -52,6 +52,7 @@ Only Saga Genesis Token holders can access the full platform. This creates a tru
 - **Sybil Shield**: Detects suspicious wallet patterns (low age, bot-like activity, airdrop farming)
 - **AI Trust Summaries**: Natural language wallet analysis powered by Groq LLM
 - **PWA Install**: Add to home screen on Seeker for a native app experience
+- **SKR Tipping**: Send SKR tokens to other users after viewing their profile or verifying a meeting
 - **Mobile Wallet Adapter**: Connect directly from Solana Mobile devices via MWA
 
 ---
