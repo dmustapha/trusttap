@@ -38,6 +38,8 @@ export const metadata: Metadata = {
   description: "On-chain reputation for the Solana Seeker community. Verify trust through wallet history and physical meetings.",
   manifest: "/manifest.json",
   icons: {
+    icon: "/favicon.png",
+    shortcut: "/favicon.ico",
     apple: "/icons/icon-192.png",
   },
 };
