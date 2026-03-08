@@ -18,7 +18,7 @@ Tap "Connect Wallet" to auto-connect with a demo wallet and explore the full app
 
 ## Demo Video
 
-<!-- TODO: Add YouTube link after recording -->
+**[Watch the demo on YouTube](https://youtu.be/Rq8BfpDrnZY)**
 
 ---
 
@@ -36,9 +36,9 @@ Saga Genesis Token holders earn a 25-point bonus in the Device dimension, but al
 |---------|--------|----------|
 | ![Profile](docs/images/profile.png) | ![Search](docs/images/search.png) | ![Level Up](docs/images/levelup.png) |
 
-| QR Scan | Sybil Shield |
-|---------|-------------|
-| ![Scan](docs/images/scan.png) | ![Shield](docs/images/shield.png) |
+| QR Scan |
+|---------|
+| ![Scan](docs/images/scan.png) |
 
 ---
 
@@ -49,7 +49,7 @@ Saga Genesis Token holders earn a 25-point bonus in the Device dimension, but al
 - **Wallet Lookup**: Search any Solana address or .sol domain to view their trust profile
 - **QR Meeting Verification**: Scan QR codes in person to cryptographically verify you met another wallet holder (Ed25519 signatures)
 - **Level Up Recommendations**: AI-powered suggestions for improving your trust score based on current wallet gaps
-- **Sybil Shield**: Detects suspicious wallet patterns (low age, bot-like activity, airdrop farming)
+- **Sybil Detection**: Built-in pattern detection flags bot-like activity, airdrop farming, and shallow DeFi engagement
 - **AI Trust Summaries**: Natural language wallet analysis powered by Groq LLM
 - **PWA Install**: Add to home screen on Seeker for a native app experience
 - **SKR Tipping**: Send SKR tokens to other users after viewing their profile or verifying a meeting
@@ -143,11 +143,11 @@ In demo mode, meeting records are stored in-memory and persist for the session.
 
 ---
 
-### Part 5: Sybil Shield
+### Part 5: Sybil detection
 
-1. From the Profile page, look for the Sybil Shield section in the trust profile
-2. The analysis checks wallets for suspicious patterns: low account age, bot-like transaction timing, airdrop farming behavior, and lack of genuine DeFi activity
-3. Each flagged wallet shows which specific signals triggered the detection
+1. From the Profile page, the trust profile includes built-in sybil detection
+2. The analysis flags suspicious patterns: low account age, bot-like transaction timing, airdrop farming behavior, and lack of genuine DeFi activity
+3. Low-scoring wallets display which specific signals triggered the detection
 
 ---
 
