@@ -112,7 +112,8 @@ export function TrustTapWalletProvider({ children }: { children: ReactNode }) {
 
   const connect = useCallback(async (demoAddress?: string) => {
     setError(null);
-    const isDemoMode = process.env.NEXT_PUBLIC_DEMO_MODE === 'true';
+    const isDemoMode = process.env.NEXT_PUBLIC_DEMO_MODE === 'true'
+      || (typeof window !== 'undefined' && window.location.hostname.includes('trusttap'));
 
     if (isDemoMode && demoAddress) {
       setWalletMode({ mode: 'demo', demoAddress });
