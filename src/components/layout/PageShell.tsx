@@ -19,11 +19,23 @@ export function PageShell({ children, className = '' }: { children: ReactNode; c
   }, []);
 
   return (
-    <main
-      ref={mainRef}
-      className={`mx-auto w-full max-w-md px-4 pb-28 pt-10 font-[family-name:var(--font-serif-body)] ${className}`}
-    >
-      {children}
-    </main>
+    <>
+      <header className="fixed top-0 left-0 right-0 z-40 flex items-center px-4 bg-[var(--bg-base)]" style={{ height: 48, paddingTop: 'env(safe-area-inset-top, 0px)' }}>
+        <img src="/favicon.png" alt="" width={22} height={22} style={{ opacity: 0.85 }} />
+        <span
+          className="ml-2 font-[family-name:var(--font-serif-display)]"
+          style={{ fontSize: '0.95rem', fontWeight: 300, color: 'var(--text-primary)', letterSpacing: '-0.01em' }}
+        >
+          Trust<span style={{ fontWeight: 600 }}>Tap</span><span style={{ color: 'var(--tt-primary)', fontWeight: 600 }}>+</span>
+        </span>
+      </header>
+      <main
+        ref={mainRef}
+        className={`mx-auto w-full max-w-md px-4 pb-28 font-[family-name:var(--font-serif-body)] ${className}`}
+        style={{ paddingTop: 'calc(48px + env(safe-area-inset-top, 0px) + 8px)' }}
+      >
+        {children}
+      </main>
+    </>
   );
 }
