@@ -36,7 +36,7 @@ export function QRScanner({ onScan }: QRScannerProps) {
         // eslint-disable-next-line @typescript-eslint/no-explicit-any
         await (scanner as any).start(
           { facingMode: 'environment' },
-          { fps: 10, qrbox: { width: 220, height: 220 } },
+          { fps: 15, qrbox: { width: 250, height: 250 }, aspectRatio: 1.0 },
           (decodedText: string) => {
             if (!hasScannedRef.current) {
               hasScannedRef.current = true;
@@ -98,7 +98,7 @@ export function QRScanner({ onScan }: QRScannerProps) {
       <div
         ref={scannerRef}
         className="overflow-hidden"
-        style={{ width: 264, height: 264, background: 'var(--bg-surface)' }}
+        style={{ width: 300, height: 300, background: 'var(--bg-surface)' }}
       />
 
       {scanning && !cameraError && (
