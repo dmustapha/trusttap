@@ -78,48 +78,6 @@ function TrustRings() {
   );
 }
 
-// Stat item with animated number reveal
-function StatItem({ value, label, delay }: { value: string; label: string; delay: number }) {
-  return (
-    <motion.div
-      className="flex flex-col items-center gap-0.5"
-      initial={{ opacity: 0, y: 8 }}
-      animate={{ opacity: 1, y: 0 }}
-      transition={{ duration: 0.7, delay, ease: [0.16, 1, 0.3, 1] }}
-    >
-      <span
-        style={{
-          fontFamily: 'var(--font-serif-display)',
-          fontSize: 'clamp(1.6rem, 5vw, 2rem)',
-          fontWeight: 600,
-          lineHeight: 1,
-          color: 'var(--tt-primary)',
-          letterSpacing: '-0.02em',
-        }}
-      >
-        {value}
-      </span>
-      <span
-        style={{
-          fontFamily: 'var(--font-ui)',
-          fontSize: '0.62rem',
-          letterSpacing: '0.12em',
-          textTransform: 'uppercase',
-          color: 'var(--text-muted)',
-        }}
-      >
-        {label}
-      </span>
-    </motion.div>
-  );
-}
-
-const STATS = [
-  { value: '7',   label: 'Trust Dimensions', delay: 0.45 },
-  { value: '20+', label: 'Protocols',          delay: 0.55 },
-  { value: '1',   label: 'SGT Gate',           delay: 0.65 },
-] as const;
-
 const BADGES = [
   { label: 'Seeker Device', dot: true },
   { label: 'Solana Mobile', dot: false },
@@ -138,7 +96,7 @@ export function HeroSection() {
 
   return (
     <section
-      className="relative z-10 flex h-[100dvh] flex-col overflow-hidden"
+      className="relative z-10 flex h-[100dvh] flex-col items-center overflow-hidden"
       style={{ padding: '0 24px' }}
     >
       {/* Animated rings — absolute, behind everything */}
@@ -158,11 +116,11 @@ export function HeroSection() {
       />
 
       {/* Top spacer */}
-      <div className="flex-1" />
+      <div className="w-full flex-1" />
 
       {/* Badge strip — elevated above the rings visually */}
       <motion.div
-        className="mx-auto mb-7 flex items-center gap-2"
+        className="mb-7 flex flex-wrap items-center justify-center gap-2"
         initial={{ opacity: 0, y: -6 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.7, delay: 0.15, ease: [0.16, 1, 0.3, 1] }}
@@ -237,33 +195,12 @@ export function HeroSection() {
         </motion.p>
       </div>
 
-      {/* Divider */}
-      <motion.div
-        className="mx-auto my-8"
-        initial={{ scaleX: 0, opacity: 0 }}
-        animate={{ scaleX: 1, opacity: 1 }}
-        transition={{ duration: 0.7, delay: 0.35, ease: [0.16, 1, 0.3, 1] }}
-        style={{
-          width: 48,
-          height: 1,
-          background: 'linear-gradient(90deg, transparent, var(--tt-primary), transparent)',
-          transformOrigin: 'center',
-        }}
-      />
-
-      {/* Stats row */}
-      <div className="relative z-10 mx-auto flex items-start gap-6">
-        {STATS.map((s) => (
-          <StatItem key={s.label} {...s} />
-        ))}
-      </div>
-
       {/* Spacer */}
-      <div className="flex-1" />
+      <div className="w-full flex-1" />
 
       {/* CTA area */}
       <motion.div
-        className="relative z-10 text-center"
+        className="relative z-10 w-full text-center"
         style={{ paddingBottom: 48 }}
         initial={{ opacity: 0, y: 12 }}
         animate={{ opacity: 1, y: 0 }}
