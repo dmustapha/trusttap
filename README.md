@@ -8,8 +8,6 @@ A mobile-first trust scoring system that analyzes Solana wallet history to gener
 [![Tests](https://img.shields.io/badge/tests-124_passing-brightgreen)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-![TrustTap+ Landing](docs/images/landing.png)
-
 ## Live Demo
 
 **[trusttap.vercel.app](https://trusttap.vercel.app)**
@@ -32,13 +30,9 @@ Saga Genesis Token holders earn a 25-point bonus in the Device dimension, but al
 
 ## Screenshots
 
-| Profile | Search | Level Up |
-|---------|--------|----------|
-| ![Profile](docs/images/profile.png) | ![Search](docs/images/search.png) | ![Level Up](docs/images/levelup.png) |
-
-| QR Scan |
-|---------|
-| ![Scan](docs/images/scan.png) |
+| Profile | Search | Level Up | QR Scan |
+|---------|--------|----------|---------|
+| <img src="docs/images/profile.png" width="250"> | <img src="docs/images/search.png" width="250"> | <img src="docs/images/levelup.png" width="250"> | <img src="docs/images/scan.png" width="250"> |
 
 ---
 
@@ -76,90 +70,32 @@ Saga Genesis Token holders earn a 25-point bonus in the Device dimension, but al
 
 ---
 
-## Testing the App
+## Try It Out
 
-The live demo at [trusttap.vercel.app](https://trusttap.vercel.app) runs in **demo mode**. Tapping "Connect Wallet" auto-connects with a pre-computed demo wallet. No Seeker device, no real wallet, no extensions needed. All 10 demo wallets are available via Search.
+Open [trusttap.vercel.app](https://trusttap.vercel.app) on your phone or desktop. Tap "Connect Wallet" to auto-connect with a demo wallet. No Seeker device, no real wallet, no extensions needed.
 
-In production on a real Seeker device, removing the `DEMO_MODE` env var switches to **live mode**: "Connect Wallet" opens the Solana Mobile Wallet Adapter (MWA), connects to the user's real wallet, checks for SGT ownership, and computes a live trust score from on-chain data. Same code, same features, just different data source.
+From there you can:
 
----
+1. **Profile** - View the trust score dial, 8-dimension breakdown, AI summary, and meeting history
+2. **Search** - Paste any demo wallet address below to see different trust tiers
+3. **Level Up** - Toggle recommended actions on/off to preview how they change your projected score
+4. **QR Scan** - See QR code generation for in-person meeting verification
+5. **Sybil Detection** - Low-scoring wallets show which suspicious patterns were flagged
 
-### Part 1: View a trust profile
-
-1. Open [trusttap.vercel.app](https://trusttap.vercel.app)
-2. Tap "Connect Wallet" to auto-connect with a demo wallet
-3. Navigate to **Profile** in the bottom nav
-4. The profile page shows the wallet's trust score dial (0-100), tier badge, 8-dimension score breakdown, AI-generated trust summary, and meeting history
-
-Try different trust tiers by searching for demo wallets (see Part 3).
-
----
-
-### Part 2: Explore Level Up recommendations
-
-1. Navigate to **Level Up** from the bottom nav
-2. The page analyzes your current wallet and identifies gaps in your trust score
-3. Actions are grouped into 4 categories: Quick Wins, Transaction-Based, Social, and Long-Term
-4. Toggle actions on/off to see how completing them would change your projected score
-5. The projected score dial updates in real time as you toggle actions
-
-A wallet scoring 31 (Basic) will see 11 available actions. A wallet scoring 86 (Highly Trusted) will see only 1-2 remaining actions.
-
----
-
-### Part 3: Search any wallet
-
-1. Navigate to **Search** from the bottom nav
-2. Paste a full Solana wallet address or type a .sol domain name (e.g., `alice.sol`)
-3. The app fetches the wallet's on-chain data from Helius, computes the trust score, and displays the full profile
-4. For demo wallets, results load instantly from cache. For live wallets, the Helius API call takes 2-3 seconds.
-
-**Demo wallets to try:**
+### Demo wallets
 
 | Address | Score | Tier |
 |---------|-------|------|
 | `eHHHqVwd1DsmwmbK913uRTXKB7wT35uP775HVRffRDB3` | 86 | Highly Trusted |
 | `fRRwPwbb9wqTbf9ZDHjMRVKZoDBPsjsP7Rh7VZVMqxX3` | 75 | Trusted |
-| `317PfVH1ZwV5H9uwKjX3mjuTh5FByP1jhjjXMKH9KF1u` | 75 | Trusted |
 | `M75RjudB15Mo7HZos9FHDRHTo9M3uTjPwdZdVq3KmMuZ` | 67 | Trusted |
-| `xPybFBbdffwyfTSMD5bX51q57j7MyXVTTsVymqTFBhfu` | 63 | Trusted |
 | `Rb5RTuodu9VHMMVPhwXjMFTwqyDuwfH1ouZFqXTZXTsT` | 55 | Established |
-| `abD5FFDf3d9PHRMXwdTjf5y19hP9MjfT7DKjyKMRHwsq` | 51 | Established |
 | `C5myTZf59hw5X9BMoHyDmMBh5Rq3fy5yqb3XFFyh1Ddd` | 38 | Basic |
-| `juqooh7dhKh51qjK3wVqhTVVMMmTDT9q1ZwKs1qBwHRs` | 33 | Basic |
 | `GVX1bw3wFqyDH3yBF3Zyq1DbsP1DmwwPFjfyyqVZRH1F` | 31 | Basic |
 
----
+### On a real Seeker device
 
-### Part 4: QR meeting verification
-
-1. Navigate to **Scan** from the bottom nav
-2. A QR code is generated containing your wallet address and a timestamp
-3. To verify a meeting: have the other person show their QR code and scan it with your camera
-4. The app creates a meeting record signed with Ed25519, linking both wallets with a timestamp
-5. Verified meetings boost both wallets' trust scores (Physical dimension, up to 12 points)
-
-In demo mode, meeting records are stored in-memory and persist for the session.
-
----
-
-### Part 5: Sybil detection
-
-1. From the Profile page, the trust profile includes built-in sybil detection
-2. The analysis flags suspicious patterns: low account age, bot-like transaction timing, airdrop farming behavior, and lack of genuine DeFi activity
-3. Low-scoring wallets display which specific signals triggered the detection
-
----
-
-### Production mode (on Seeker)
-
-When deployed without `DEMO_MODE`, the app runs in live mode:
-
-1. Open the app on a Solana Seeker device (or any browser with Phantom/Solflare installed)
-2. Tap "Connect Wallet" to authorize via Mobile Wallet Adapter (MWA on Android) or wallet extension (desktop)
-3. Helius fetches your full on-chain history and the scoring engine computes your live trust score
-4. SGT holders receive a 25-point Device bonus. Non-holders get scored on the remaining 7 dimensions
-5. All features work identically to demo mode, with real wallet data
+Without the `DEMO_MODE` env var, "Connect Wallet" opens Mobile Wallet Adapter (MWA), connects to your real wallet, and computes a live trust score from on-chain data. SGT holders get a 25-point Device bonus. Same app, real data.
 
 ---
 
