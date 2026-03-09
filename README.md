@@ -8,16 +8,6 @@ A mobile-first trust scoring system that analyzes Solana wallet history to gener
 [![Tests](https://img.shields.io/badge/tests-124_passing-brightgreen)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-## Download
-
-**[Download the APK](https://expo.dev/accounts/defidamii/projects/trusttap-plus/builds/c556be2c-d86f-4171-90e4-6b734f66152c)**
-
-The APK runs in demo mode with pre-loaded wallets so you can explore every feature without a Seeker device or real wallet. Install on any Android device or emulator.
-
-## Demo Video
-
-**[Watch the demo on YouTube](https://youtu.be/Rq8BfpDrnZY)**
-
 ---
 
 ## What Is TrustTap+?
@@ -223,6 +213,18 @@ trusttap/
 ├── docs/                     # Architecture docs, images
 └── research/                 # Feasibility studies
 ```
+
+---
+
+## Download
+
+**[Download the APK](https://expo.dev/accounts/defidamii/projects/trusttap-plus/builds/c556be2c-d86f-4171-90e4-6b734f66152c)**
+
+The APK runs in demo mode with pre-loaded wallets so you can explore every feature without a Seeker device or real wallet. Install on any Android device or emulator.
+
+## Demo Video
+
+**[Watch the demo on YouTube](https://youtu.be/Rq8BfpDrnZY)**
 
 ---
 
