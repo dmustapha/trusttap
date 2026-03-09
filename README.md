@@ -20,9 +20,9 @@ Saga Genesis Token holders earn a 25-point bonus in the Device dimension, but al
 
 ## Screenshots
 
-| Profile | Search | Level Up | QR Scan |
-|---------|--------|----------|---------|
-| <img src="docs/images/profile.png" width="250"> | <img src="docs/images/search.png" width="250"> | <img src="docs/images/levelup.png" width="250"> | <img src="docs/images/scan.png" width="250"> |
+| Landing | Profile | Search | Level Up | QR Scan |
+|---------|---------|--------|----------|---------|
+| <img src="docs/images/landing.png" width="200"> | <img src="docs/images/profile.png" width="200"> | <img src="docs/images/search.png" width="200"> | <img src="docs/images/levelup.png" width="200"> | <img src="docs/images/scan.png" width="200"> |
 
 ---
 
