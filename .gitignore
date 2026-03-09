@@ -34,25 +34,22 @@ yarn-error.log*
 .env*
 !.env.example
 
-# TrustTap+ cache
+# cache
 src/data/cache/
 src/data/meetings/
 
 # vercel
 .vercel
 
-# claude
+# local
 .claude/
+.playwright-mcp/
 
 # typescript
 *.tsbuildinfo
 next-env.d.ts
 
-# playwright
-.playwright-mcp/
-
-# design forge
-.design-forge-state.json
+# design iterations
 design-variations/
 
 # screenshots (large, docs/images/ has curated set)
