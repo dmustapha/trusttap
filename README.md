@@ -2,17 +2,17 @@
 
 A mobile-first trust scoring system that analyzes Solana wallet history to generate verifiable reputation scores. Built for the Solana Seeker ecosystem.
 
+[![React Native](https://img.shields.io/badge/React_Native-Expo-000020?logo=expo&logoColor=white)](https://expo.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)](https://nextjs.org/)
 [![Solana](https://img.shields.io/badge/Solana-Mobile-9945FF?logo=solana&logoColor=white)](https://solanamobile.com/)
 [![Tests](https://img.shields.io/badge/tests-124_passing-brightgreen)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-## Live Demo
+## Download
 
-**[trusttap.vercel.app](https://trusttap.vercel.app)**
+**[Download the APK](https://expo.dev/accounts/defidamii/projects/trusttap-plus/builds/c556be2c-d86f-4171-90e4-6b734f66152c)**
 
-Tap "Connect Wallet" to auto-connect with a demo wallet and explore the full app. No setup needed.
+The APK runs in demo mode with pre-loaded wallets so you can explore every feature without a Seeker device or real wallet. Install on any Android device or emulator.
 
 ## Demo Video
 
@@ -45,7 +45,6 @@ Saga Genesis Token holders earn a 25-point bonus in the Device dimension, but al
 - **Level Up Recommendations**: AI-powered suggestions for improving your trust score based on current wallet gaps
 - **Sybil Detection**: Built-in pattern detection flags bot-like activity, airdrop farming, and shallow DeFi engagement
 - **AI Trust Summaries**: Natural language wallet analysis powered by Groq LLM
-- **PWA Install**: Add to home screen on Seeker for a native app experience
 - **SKR Tipping**: Send SKR tokens to other users after viewing their profile or verifying a meeting
 - **Mobile Wallet Adapter**: Connect directly from Solana Mobile devices via MWA
 
@@ -55,24 +54,22 @@ Saga Genesis Token holders earn a 25-point bonus in the Device dimension, but al
 
 | Layer | Technology |
 |-------|-----------|
-| Framework | Next.js 16 (App Router, PWA) |
+| Mobile App | React Native (Expo) + MWA |
+| API Backend | Next.js 16 (App Router, Vercel) |
 | Language | TypeScript (strict mode) |
-| Styling | Tailwind CSS 4 |
-| Animations | Framer Motion |
 | Wallet | Solana Mobile Wallet Adapter (MWA) |
 | On-Chain Data | Helius RPC (free tier) |
 | AI Summaries | Groq API (Llama) |
 | QR Codes | react-qr-code + html5-qrcode |
 | Crypto | tweetnacl + bs58 (Ed25519 signatures) |
 | Testing | Vitest + Testing Library |
-| Mobile | React Native (Expo) + MWA |
-| Deployment | Vercel (web), EAS Build (Android APK) |
+| Build | EAS Build (Android APK) |
 
 ---
 
 ## Try It Out
 
-Open [trusttap.vercel.app](https://trusttap.vercel.app) on your phone or desktop. Tap "Connect Wallet" to auto-connect with a demo wallet. No Seeker device, no real wallet, no extensions needed.
+Install the APK on your Android device or emulator. Open the app and tap "Connect Wallet" to auto-connect with a demo wallet. No Seeker device or real wallet needed.
 
 From there you can:
 
@@ -95,7 +92,7 @@ From there you can:
 
 ### On a real Seeker device
 
-Without the `DEMO_MODE` env var, "Connect Wallet" opens Mobile Wallet Adapter (MWA), connects to your real wallet, and computes a live trust score from on-chain data. SGT holders get a 25-point Device bonus. Same app, real data.
+On a Solana Seeker, "Connect Wallet" opens Mobile Wallet Adapter (MWA), connects to your real wallet, and computes a live trust score from on-chain data. SGT holders get a 25-point Device bonus. Same app, real data.
 
 ---
 
@@ -108,22 +105,19 @@ Without the `DEMO_MODE` env var, "Connect Wallet" opens Mobile Wallet Adapter (M
 **Meeting verification:** When two users scan each other's QR codes, each code contains the wallet address and a timestamp. The app creates a meeting record and both parties sign it with their wallet's Ed25519 key via MWA. This proves both wallets were physically present at the same time.
 
 ```
-Solana Seeker Device
+React Native App (Android APK)
   |
-  v
-Next.js PWA (Vercel)
+  +---> Mobile Wallet Adapter ---> Solana Wallet (sign/connect)
   |
-  +---> Mobile Wallet Adapter ---> Wallet App (sign/connect)
-  |
-  +---> Helius RPC API ----------> Solana Mainnet (read-only)
+  +---> Next.js API (Vercel) ----> Scoring Engine
+  |         |                        |
+  |         +---> Helius RPC ------> Solana Mainnet (read-only)
+  |         |         |
+  |         |         +---> Transaction history
+  |         |         +---> Token balances (SGT, NFTs, DeFi)
+  |         |         +---> Account age, staking, governance
   |         |
-  |         +---> Transaction history
-  |         +---> Token balances (SGT, NFTs, DeFi)
-  |         +---> Account age, staking, governance
-  |
-  +---> Scoring Engine ----------> 8-dimension trust score (0-100)
-  |
-  +---> Groq LLM API -----------> Natural language trust summary
+  |         +---> Groq LLM -------> Natural language trust summary
   |
   +---> QR + Ed25519 Sigs ------> In-person meeting verification
 ```
@@ -151,11 +145,14 @@ All endpoints are serverless functions on Vercel. No authentication required for
 
 ## Running Locally
 
+### API backend
+
 ```bash
 git clone https://github.com/dmustapha/trusttap.git
 cd trusttap
 npm install
 cp .env.example .env.local
+npm run dev
 ```
 
 Required environment variables:
@@ -168,13 +165,19 @@ Required environment variables:
 | `NEXT_PUBLIC_DEMO_MODE` | Set to `true` for client-side demo mode |
 | `NEXT_PUBLIC_USE_DEMO_SGT` | Set to `true` to simulate SGT ownership in development |
 
-Start the dev server:
+### Mobile app
 
 ```bash
-npm run dev
+cd mobile
+npm install
+npx expo start
 ```
 
-Open [http://localhost:3000](http://localhost:3000).
+Run on Android emulator or device. For a release APK, use EAS Build:
+
+```bash
+eas build --platform android --profile preview
+```
 
 Run tests:
 
