@@ -44,12 +44,13 @@ src/data/meetings/
 # local
 .claude/
 .playwright-mcp/
+.pipeline-artifacts/
 
 # typescript
 *.tsbuildinfo
 next-env.d.ts
 
-# design iterations
+# build artifacts
 design-variations/
 
 # screenshots (large, docs/images/ has curated set)

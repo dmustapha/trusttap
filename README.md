@@ -1,6 +1,6 @@
-# TrustTap+: On-Chain Reputation for Solana Seeker
+# TrustTap: Reputation Infrastructure for Solana Seeker
 
-A mobile-first trust scoring system that analyzes Solana wallet history to generate verifiable reputation scores. Built for the Solana Seeker ecosystem.
+The trust layer that makes every dApp on Seeker safer. TrustTap scores wallets from 0 to 100 using on-chain history, hardware attestation (SGT), and cryptographic proof-of-meeting, then exposes that score as an API any dApp can query.
 
 [![React Native](https://img.shields.io/badge/React_Native-Expo-000020?logo=expo&logoColor=white)](https://expo.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -8,13 +8,31 @@ A mobile-first trust scoring system that analyzes Solana wallet history to gener
 [![Tests](https://img.shields.io/badge/tests-124_passing-brightgreen)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+![TrustTap Profile](docs/images/profile.png)
+
+## Live Demo
+
+**[trusttap.vercel.app](https://trusttap.vercel.app)**
+
+Connect a wallet or explore with built-in demo wallets across all trust tiers.
+
+## Demo Video
+
+**[Watch on YouTube](https://youtu.be/Rq8BfpDrnZY)**
+
 ---
 
-## What Is TrustTap+?
+## What Is TrustTap?
 
-TrustTap+ turns your Solana wallet history into a trust score from 0 to 100. It reads on-chain data through the Helius RPC API and scores wallets across 8 dimensions: device ownership (SGT), financial depth, wallet age, transaction activity, protocol diversity, DeFi participation, identity signals, and physical meeting verification.
+Crypto has no way to verify the person behind a wallet. Sybil wallets captured 49% of the Arbitrum airdrop. P2P scams grew 40% year-over-year. 17,000 real users were incorrectly rejected from legitimate airdrops.
 
-Saga Genesis Token holders earn a 25-point bonus in the Device dimension, but all wallets can access the full platform and receive scores. This creates a trusted community layer on Solana Mobile where every member's reputation is backed by verifiable on-chain activity.
+TrustTap solves this by combining three layers no other product has:
+
+1. **Hardware attestation** via Saga Genesis Token (SGT). Each Seeker device has a soulbound NFT that cannot be faked, transferred, or duplicated. Cost of attack: $500 per identity.
+2. **On-chain behavior analysis** across 19 Solana protocols, pulling real transaction history, DeFi depth, governance participation, and portfolio composition through the Helius RPC API.
+3. **Physical meeting verification** using QR codes and Ed25519 wallet signatures via Mobile Wallet Adapter. Two people scan each other, both sign, and a cryptographic proof-of-meeting is recorded on-chain via SPL Memo.
+
+The result is a trust score from 0 to 100 that any dApp on the Solana dApp Store can query to filter bots, verify counterparties, and reward real users.
 
 ---
 
@@ -22,21 +40,49 @@ Saga Genesis Token holders earn a 25-point bonus in the Device dimension, but al
 
 | Profile | Search | Level Up | QR Scan |
 |---------|--------|----------|---------|
-| <img src="docs/images/profile.png" width="250"> | <img src="docs/images/search.png" width="250"> | <img src="docs/images/levelup.png" width="250"> | <img src="docs/images/scan.png" width="250"> |
+| <img src="docs/images/profile.png" width="220"> | <img src="docs/images/search.png" width="220"> | <img src="docs/images/levelup.png" width="220"> | <img src="docs/images/scan.png" width="220"> |
+
+| Sybil Shield |
+|--------------|
+| <img src="docs/images/shield.png" width="220"> |
 
 ---
 
 ## Features
 
+### For Users
 - **8-Dimension Trust Score**: Device (SGT), financial depth, wallet age, activity volume, protocol diversity, DeFi depth, identity signals, and physical meetings
-- **SGT Bonus Scoring**: Saga Genesis Token holders earn a 25-point Device bonus; all wallets get full access
-- **Wallet Lookup**: Search any Solana address or .sol domain to view their trust profile
-- **QR Meeting Verification**: Scan QR codes in person to cryptographically verify you met another wallet holder (Ed25519 signatures)
-- **Level Up Recommendations**: AI-powered suggestions for improving your trust score based on current wallet gaps
-- **Sybil Detection**: Built-in pattern detection flags bot-like activity, airdrop farming, and shallow DeFi engagement
+- **QR Meeting Verification**: Scan in person to cryptographically prove you met another wallet holder (Ed25519 signatures, SPL Memo on-chain)
+- **Level Up Recommendations**: AI-powered suggestions for improving your score based on current wallet gaps
+- **SKR Tipping**: Send Seeker Rewards tokens to trusted users after viewing their profile or verifying a meeting
 - **AI Trust Summaries**: Natural language wallet analysis powered by Groq LLM
-- **SKR Tipping**: Send SKR tokens to other users after viewing their profile or verifying a meeting
-- **Mobile Wallet Adapter**: Connect directly from Solana Mobile devices via MWA
+- **Wallet Lookup**: Search any Solana address or .sol/.skr domain to view their trust profile
+
+### For the Ecosystem
+- **Sybil Shield API**: Projects query trust scores to filter bot wallets from airdrops, governance, and token distributions
+- **Network Graph API**: Map on-chain social connections between verified wallets
+- **SKR-Native Scoring**: .skr domains earn higher identity scores than .sol domains, rewarding Seeker-native identity
+- **Open API**: 10 serverless endpoints, no authentication required. Any dApp can integrate trust scoring today.
+
+---
+
+## Why Seeker?
+
+TrustTap cannot exist on any other phone.
+
+The Saga Genesis Token is a soulbound NFT tied to the Seeker hardware. It provides a $500 cost-of-attack floor per identity. No software wallet, no browser extension, and no other device can replicate this. SGT is worth 25 of 100 possible trust points, making hardware attestation the single largest scoring dimension.
+
+Mobile Wallet Adapter (MWA) enables on-device signing for meeting verifications without exposing private keys. The QR scan flow opens MWA, both parties sign, and the meeting proof is committed to Solana via SPL Memo. This physical verification layer is what separates TrustTap from every other reputation system in crypto.
+
+---
+
+## SKR Integration
+
+Seeker Rewards (SKR) are integrated as both a utility and a scoring signal:
+
+- **Tipping**: Send SKR to other users directly from their trust profile or after a meeting verification. Builds an SPL token transfer with automatic Associated Token Account creation.
+- **Identity scoring**: Wallets with .skr domains earn 4 identity points vs 2 for .sol domains. This rewards Seeker-native identity adoption.
+- **Balance display**: SKR balance is shown on user profiles, queryable via `/api/skr-balance/[address]`.
 
 ---
 
@@ -44,32 +90,36 @@ Saga Genesis Token holders earn a 25-point bonus in the Device dimension, but al
 
 | Layer | Technology |
 |-------|-----------|
-| Mobile App | React Native (Expo) + MWA |
-| API Backend | Next.js 16 (App Router, Vercel) |
+| Mobile App | React Native (Expo) + Mobile Wallet Adapter |
+| API Backend | Next.js 16 App Router (Vercel serverless) |
 | Language | TypeScript (strict mode) |
 | Wallet | Solana Mobile Wallet Adapter (MWA) |
-| On-Chain Data | Helius RPC (free tier) |
-| AI Summaries | Groq API (Llama) |
-| QR Codes | react-qr-code + html5-qrcode |
-| Crypto | tweetnacl + bs58 (Ed25519 signatures) |
-| Testing | Vitest + Testing Library |
+| On-Chain Data | Helius RPC API |
+| AI Summaries | Groq API (Llama 3) |
+| QR Verification | react-qr-code + html5-qrcode |
+| Cryptography | tweetnacl + bs58 (Ed25519 signatures) |
+| On-Chain Proofs | SPL Memo Program v2 |
+| Token Transfers | @solana/spl-token (SKR tipping) |
+| Testing | Vitest + Testing Library (124 tests) |
 | Build | EAS Build (Android APK) |
 
 ---
 
 ## Try It Out
 
-Install the APK on your Android device or emulator. Open the app and tap "Connect Wallet" to auto-connect with a demo wallet. No Seeker device or real wallet needed.
+### Download the APK
 
-From there you can:
+**[Download from EAS Build](https://expo.dev/accounts/defidamii/projects/trusttap-plus/builds/c556be2c-d86f-4171-90e4-6b734f66152c)**
 
-1. **Profile** - View the trust score dial, 8-dimension breakdown, AI summary, and meeting history
-2. **Search** - Paste any demo wallet address below to see different trust tiers
-3. **Level Up** - Toggle recommended actions on/off to preview how they change your projected score
-4. **QR Scan** - See QR code generation for in-person meeting verification
-5. **Sybil Detection** - Low-scoring wallets show which suspicious patterns were flagged
+Install on any Android device or emulator. The app runs in demo mode with pre-loaded wallets.
 
-### Demo wallets
+1. **Profile**: View the trust score dial, 8-dimension breakdown, AI summary, and meeting history
+2. **Search**: Paste any demo wallet address to see different trust tiers
+3. **Level Up**: Toggle recommended actions to preview how they change your projected score
+4. **QR Scan**: Generate and scan QR codes for in-person meeting verification
+5. **Sybil Shield**: Low-scoring wallets show which suspicious patterns were flagged
+
+### Demo Wallets
 
 | Address | Score | Tier |
 |---------|-------|------|
@@ -80,62 +130,84 @@ From there you can:
 | `C5myTZf59hw5X9BMoHyDmMBh5Rq3fy5yqb3XFFyh1Ddd` | 38 | Basic |
 | `GVX1bw3wFqyDH3yBF3Zyq1DbsP1DmwwPFjfyyqVZRH1F` | 31 | Basic |
 
-### On a real Seeker device
+### On a Real Seeker
 
-On a Solana Seeker, "Connect Wallet" opens Mobile Wallet Adapter (MWA), connects to your real wallet, and computes a live trust score from on-chain data. SGT holders get a 25-point Device bonus. Same app, real data.
+"Connect Wallet" opens Mobile Wallet Adapter, connects to your real wallet, and computes a live trust score from on-chain data. SGT holders get the full 25-point Device bonus.
 
 ---
 
 ## How It Works
 
-**Scoring algorithm:** The trust score is a weighted sum across 8 dimensions, each with a defined maximum. Device ownership (SGT) is worth 25 points as a binary gate. Wallet age uses an asymptotic curve (10 points max, reaching ~6.3 at 1 year). Activity volume is tiered by transaction count (10 points). Financial depth is tiered by portfolio size in SOL-equivalent (10 points). Protocol diversity counts unique protocols with bonuses for advanced DeFi like CLMMs, derivatives, and vaults (10 points). DeFi depth scores based on interaction complexity (13 points). Identity tracks .sol domain ownership and other on-chain identity signals (10 points). Physical meetings verified via QR + Ed25519 signatures contribute up to 12 points.
+### Scoring Algorithm
 
-**SGT scoring:** On first connect, the app queries the wallet's token accounts for the Saga Genesis Token (collection `GT22s89nU4iWFkNXj1Bw6uYhJJWDRPpShHt4Bk8f99Te`). SGT holders receive 25 points in the Device dimension. Non-holders still get full platform access with scores based on the remaining 7 dimensions (75 point max).
+The trust score is a weighted sum across 8 dimensions (100 points max):
 
-**Meeting verification:** When two users scan each other's QR codes, each code contains the wallet address and a timestamp. The app creates a meeting record and both parties sign it with their wallet's Ed25519 key via MWA. This proves both wallets were physically present at the same time.
+| Dimension | Max Points | Method |
+|-----------|-----------|--------|
+| Device (SGT) | 25 | Binary: soulbound NFT present or not |
+| Financial Depth | 10 | Tiered by total portfolio in SOL-equivalent |
+| Wallet Age | 10 | Asymptotic curve: score = 10 x (1 - e^(-days/240)) |
+| Activity Volume | 10 | Tiered by transaction count (10+ to 5000+) |
+| Protocol Diversity | 10 | Unique protocol count + bonuses for CLMMs, derivatives, vaults |
+| DeFi Depth | 13 | Graduated: staking (0-5) + LP (0-4) + lending (0-4) |
+| Identity | 10 | .skr domain (4) / .sol (2) + NFTs (0-3) + governance (0-3) |
+| Physical Meetings | 12 | Graduated tiers from 1 meeting (3 pts) to 5+ (12 pts) |
+
+### Anti-Gaming
+
+- 5 meetings per day maximum
+- 7-day cooldown between the same wallet pair
+- 60-second challenge expiry for QR verification
+- Sybil detection flags bot-like patterns: low age + high activity, airdrop farming signatures, shallow DeFi engagement
+
+### Architecture
 
 ```
 React Native App (Android APK)
   |
-  +---> Mobile Wallet Adapter ---> Solana Wallet (sign/connect)
+  +--- Mobile Wallet Adapter ---> Solana Wallet (sign/connect)
   |
-  +---> Next.js API (Vercel) ----> Scoring Engine
+  +--- Next.js API (Vercel) ----> Scoring Engine
   |         |                        |
-  |         +---> Helius RPC ------> Solana Mainnet (read-only)
+  |         +--- Helius RPC -------> Solana Mainnet (read-only)
   |         |         |
-  |         |         +---> Transaction history
-  |         |         +---> Token balances (SGT, NFTs, DeFi)
-  |         |         +---> Account age, staking, governance
+  |         |         +--- Transaction history (19 protocols)
+  |         |         +--- Token balances (SGT, SKR, NFTs, LSTs)
+  |         |         +--- Account age, staking, governance
   |         |
-  |         +---> Groq LLM -------> Natural language trust summary
+  |         +--- Groq LLM --------> Natural language trust summary
+  |         |
+  |         +--- Sybil Engine ----> Pattern detection + bot flagging
   |
-  +---> QR + Ed25519 Sigs ------> In-person meeting verification
+  +--- QR + Ed25519 Sigs -------> In-person meeting verification
+  |                                   |
+  +--- SPL Memo -----------------> On-chain proof-of-meeting
 ```
 
 ---
 
 ## API Reference
 
-All endpoints are serverless functions on Vercel. No authentication required for demo mode.
+All endpoints are serverless functions on Vercel.
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
-| GET | `/api/profile/[address]` | Fetch trust profile for a wallet address |
-| GET | `/api/meetings/[address]` | List verified meetings for a wallet |
-| GET | `/api/demo-wallets` | Get all pre-computed demo wallet profiles |
-| POST | `/api/ai-summary` | Generate AI trust summary for a wallet |
-| GET | `/api/resolve-domain` | Resolve .sol domain to wallet address |
+| GET | `/api/profile/[address]` | Fetch full trust profile for a wallet |
+| POST | `/api/analyze-wallet` | Run wallet analysis with live Helius data |
 | POST | `/api/sybil-check` | Run sybil detection on a wallet |
-| GET | `/api/skr-balance/[address]` | Check SKR token balance |
-| POST | `/api/analyze-wallet` | Full wallet analysis with Helius data |
 | GET | `/api/network/[wallet]` | Get wallet's on-chain network graph |
+| GET | `/api/meetings/[address]` | List verified meetings for a wallet |
 | POST | `/api/meeting/create` | Record a verified in-person meeting |
+| POST | `/api/ai-summary` | Generate AI trust summary |
+| GET | `/api/skr-balance/[address]` | Check SKR token balance |
+| GET | `/api/resolve-domain` | Resolve .sol/.skr domain to wallet address |
+| GET | `/api/demo-wallets` | Get all pre-computed demo wallet profiles |
 
 ---
 
 ## Running Locally
 
-### API backend
+### API Backend
 
 ```bash
 git clone https://github.com/dmustapha/trusttap.git
@@ -145,17 +217,15 @@ cp .env.example .env.local
 npm run dev
 ```
 
-Required environment variables:
-
 | Variable | Description |
 |----------|-------------|
 | `HELIUS_API_KEY` | Free API key from [helius.dev](https://helius.dev) |
 | `GROQ_API_KEY` | Free API key from [console.groq.com](https://console.groq.com) |
 | `DEMO_MODE` | Set to `true` to use pre-computed demo wallets |
 | `NEXT_PUBLIC_DEMO_MODE` | Set to `true` for client-side demo mode |
-| `NEXT_PUBLIC_USE_DEMO_SGT` | Set to `true` to simulate SGT ownership in development |
+| `NEXT_PUBLIC_USE_DEMO_SGT` | Set to `true` to simulate SGT ownership in dev |
 
-### Mobile app
+### Mobile App
 
 ```bash
 cd mobile
@@ -163,13 +233,13 @@ npm install
 npx expo start
 ```
 
-Run on Android emulator or device. For a release APK, use EAS Build:
+Build a release APK:
 
 ```bash
 eas build --platform android --profile preview
 ```
 
-Run tests:
+### Tests
 
 ```bash
 npm test
@@ -192,39 +262,27 @@ trusttap/
 │   │   ├── guide/            # First-time user guide
 │   │   ├── badges/           # Trust tier badges
 │   │   └── api/              # 10 serverless API routes
-│   ├── components/           # UI components (wallet, trust, meeting, layout)
-│   ├── lib/                  # Core logic
-│   │   ├── helius.ts         # Helius API client
+│   ├── components/           # UI components
+│   ├── lib/
 │   │   ├── scoring.ts        # Trust score algorithm (8 dimensions)
-│   │   ├── cache.ts          # Profile caching layer
-│   │   ├── meeting-tx.ts     # Meeting transaction builder
+│   │   ├── helius.ts         # Helius RPC client
 │   │   ├── skr.ts            # SKR token integration
+│   │   ├── meeting-tx.ts     # Meeting transaction builder (SPL Memo)
+│   │   ├── cache.ts          # Profile caching layer
+│   │   ├── constants.ts      # Protocol IDs, token mints, thresholds
 │   │   └── validation.ts     # Input validation + rate limiting
 │   ├── types/                # TypeScript interfaces
 │   ├── context/              # React context providers
 │   ├── hooks/                # Custom React hooks
-│   └── data/                 # Pre-computed demo wallet data (10 wallets)
+│   └── data/                 # Pre-computed demo wallet data
 ├── mobile/                   # React Native (Expo) Android app
-│   ├── src/screens/          # Profile, Scan, Search, LevelUp screens
+│   ├── src/screens/          # Profile, Scan, Search, LevelUp
 │   ├── src/hooks/            # Trust profile, meeting, wallet hooks
 │   ├── src/context/          # Wallet context (MWA + demo mode)
 │   └── eas.json              # EAS Build config (APK)
-├── public/                   # PWA manifest, icons, favicon
-├── docs/                     # Architecture docs, images
-└── research/                 # Feasibility studies
+├── public/                   # PWA manifest, icons
+└── docs/images/              # Screenshots
 ```
-
----
-
-## Download
-
-**[Download the APK](https://expo.dev/accounts/defidamii/projects/trusttap-plus/builds/c556be2c-d86f-4171-90e4-6b734f66152c)**
-
-The APK runs in demo mode with pre-loaded wallets so you can explore every feature without a Seeker device or real wallet. Install on any Android device or emulator.
-
-## Demo Video
-
-**[Watch the demo on YouTube](https://youtu.be/Rq8BfpDrnZY)**
 
 ---
 
