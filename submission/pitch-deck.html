@@ -1,0 +1,742 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TrustTap - Pitch Deck</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  :root {
+    --bg: #0E0C0A;
+    --surface: #1A1612;
+    --elevated: #252018;
+    --subtle: #2E2820;
+    --primary: #10B981;
+    --accent: #14B8A6;
+    --text: #F5EFE3;
+    --text-secondary: #D0C4AE;
+    --text-muted: #A89A88;
+    --danger: #EF4444;
+    --solana: #9945FF;
+  }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    font-family: 'Inter', -apple-system, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    overflow-x: hidden;
+  }
+
+  .slide {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 60px 80px;
+    position: relative;
+    border-bottom: 1px solid var(--elevated);
+  }
+
+  .slide-number {
+    position: absolute;
+    bottom: 30px;
+    right: 40px;
+    font-size: 13px;
+    color: var(--text-muted);
+    letter-spacing: 1px;
+  }
+
+  .logo-corner {
+    position: absolute;
+    top: 30px;
+    right: 40px;
+    width: 48px;
+    height: 48px;
+    border-radius: 12px;
+  }
+
+  /* ── Slide 1: Cover ── */
+  .cover {
+    align-items: center;
+    text-align: center;
+    background: radial-gradient(ellipse at 50% 30%, rgba(16,185,129,0.06) 0%, var(--bg) 70%);
+  }
+
+  .cover-logo {
+    width: 120px;
+    height: 120px;
+    border-radius: 28px;
+    margin-bottom: 40px;
+    box-shadow: 0 0 60px rgba(16,185,129,0.15);
+  }
+
+  .cover h1 {
+    font-size: 72px;
+    font-weight: 800;
+    letter-spacing: -2px;
+    line-height: 1;
+    margin-bottom: 16px;
+  }
+
+  .cover .subtitle {
+    font-size: 26px;
+    font-weight: 400;
+    color: var(--primary);
+    margin-bottom: 12px;
+  }
+
+  .cover .tagline {
+    font-size: 18px;
+    color: var(--text-secondary);
+    max-width: 600px;
+    line-height: 1.5;
+    margin-bottom: 48px;
+  }
+
+  .cover .meta {
+    font-size: 14px;
+    color: var(--text-muted);
+    letter-spacing: 0.5px;
+  }
+
+  /* ── Section headers ── */
+  .section-label {
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--primary);
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin-bottom: 12px;
+  }
+
+  .slide h2 {
+    font-size: 48px;
+    font-weight: 700;
+    letter-spacing: -1.5px;
+    line-height: 1.1;
+    margin-bottom: 40px;
+  }
+
+  /* ── Slide 2: Problem ── */
+  .stat-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 32px;
+    max-width: 900px;
+  }
+
+  .stat-card {
+    background: var(--surface);
+    border: 1px solid var(--elevated);
+    border-radius: 16px;
+    padding: 32px;
+  }
+
+  .stat-card .number {
+    font-size: 56px;
+    font-weight: 800;
+    color: var(--danger);
+    line-height: 1;
+    margin-bottom: 8px;
+  }
+
+  .stat-card .label {
+    font-size: 16px;
+    color: var(--text-secondary);
+    line-height: 1.5;
+  }
+
+  /* ── Slide 3: Solution ── */
+  .layers {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    max-width: 900px;
+  }
+
+  .layer {
+    display: flex;
+    gap: 24px;
+    align-items: flex-start;
+    background: var(--surface);
+    border: 1px solid var(--elevated);
+    border-radius: 16px;
+    padding: 28px 32px;
+  }
+
+  .layer-num {
+    flex-shrink: 0;
+    width: 48px;
+    height: 48px;
+    border-radius: 12px;
+    background: var(--primary);
+    color: var(--bg);
+    font-weight: 700;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .layer-content h3 {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 6px;
+    color: var(--text);
+  }
+
+  .layer-content p {
+    font-size: 15px;
+    color: var(--text-secondary);
+    line-height: 1.5;
+  }
+
+  /* ── Slide 4: Scoring ── */
+  .score-table {
+    width: 100%;
+    max-width: 900px;
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 12px;
+    overflow: hidden;
+  }
+
+  .score-table th {
+    background: var(--primary);
+    color: var(--bg);
+    font-weight: 600;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 14px 20px;
+    text-align: left;
+  }
+
+  .score-table th:nth-child(2) { text-align: center; }
+
+  .score-table td {
+    padding: 14px 20px;
+    font-size: 15px;
+    border-bottom: 1px solid var(--elevated);
+  }
+
+  .score-table tr:nth-child(odd) td { background: var(--surface); }
+  .score-table tr:nth-child(even) td { background: var(--bg); }
+
+  .score-table td:first-child {
+    font-weight: 600;
+    color: var(--text);
+  }
+
+  .score-table td:nth-child(2) {
+    text-align: center;
+    font-weight: 700;
+    color: var(--accent);
+    font-size: 18px;
+  }
+
+  .score-table td:nth-child(3) {
+    color: var(--text-secondary);
+  }
+
+  /* ── Slide 5: Why Seeker ── */
+  .seeker-points {
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+    max-width: 900px;
+  }
+
+  .seeker-point {
+    padding-left: 20px;
+    border-left: 3px solid var(--primary);
+  }
+
+  .seeker-point h3 {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 6px;
+  }
+
+  .seeker-point p {
+    font-size: 15px;
+    color: var(--text-secondary);
+    line-height: 1.5;
+  }
+
+  .callout {
+    font-size: 22px;
+    font-weight: 600;
+    color: var(--text);
+    margin-bottom: 36px;
+  }
+
+  /* ── Slide 6: Product ── */
+  .phone-row {
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .phone-frame {
+    text-align: center;
+  }
+
+  .phone-frame .frame {
+    width: 200px;
+    height: 400px;
+    background: var(--surface);
+    border: 2px solid var(--elevated);
+    border-radius: 24px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px;
+  }
+
+  .phone-frame img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 16px;
+  }
+
+  .phone-frame .caption {
+    margin-top: 12px;
+    font-size: 14px;
+    color: var(--text-muted);
+    font-weight: 500;
+  }
+
+  /* ── Slide 7: API ── */
+  .api-table {
+    width: 100%;
+    max-width: 900px;
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 12px;
+    overflow: hidden;
+  }
+
+  .api-table th {
+    background: var(--primary);
+    color: var(--bg);
+    font-weight: 600;
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 12px 16px;
+    text-align: left;
+  }
+
+  .api-table td {
+    padding: 12px 16px;
+    font-size: 14px;
+    border-bottom: 1px solid var(--elevated);
+  }
+
+  .api-table tr:nth-child(odd) td { background: var(--surface); }
+  .api-table tr:nth-child(even) td { background: var(--bg); }
+
+  .api-table .method {
+    font-family: 'SF Mono', 'Fira Code', monospace;
+    font-weight: 600;
+    color: var(--accent);
+    font-size: 13px;
+  }
+
+  .api-table .endpoint {
+    font-family: 'SF Mono', 'Fira Code', monospace;
+    color: var(--text);
+    font-size: 13px;
+  }
+
+  .api-table td:last-child { color: var(--text-secondary); }
+
+  .api-note {
+    margin-top: 20px;
+    font-size: 14px;
+    color: var(--text-muted);
+  }
+
+  /* ── Slide 8: Tech Stack ── */
+  .stack-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 16px;
+    max-width: 900px;
+  }
+
+  .stack-item {
+    background: var(--surface);
+    border: 1px solid var(--elevated);
+    border-radius: 12px;
+    padding: 20px;
+  }
+
+  .stack-item .stack-label {
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--primary);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 6px;
+  }
+
+  .stack-item .stack-value {
+    font-size: 15px;
+    color: var(--text);
+    font-weight: 500;
+  }
+
+  /* ── Slide 9: Roadmap ── */
+  .roadmap {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    max-width: 900px;
+  }
+
+  .milestone {
+    display: flex;
+    gap: 20px;
+    align-items: flex-start;
+  }
+
+  .milestone-badge {
+    flex-shrink: 0;
+    background: var(--primary);
+    color: var(--bg);
+    font-weight: 700;
+    font-size: 13px;
+    padding: 8px 16px;
+    border-radius: 8px;
+    min-width: 100px;
+    text-align: center;
+  }
+
+  .milestone-content h3 {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 4px;
+  }
+
+  .milestone-content p {
+    font-size: 14px;
+    color: var(--text-secondary);
+    line-height: 1.5;
+  }
+
+  /* ── Slide 10: Close ── */
+  .close {
+    align-items: center;
+    text-align: center;
+    background: radial-gradient(ellipse at 50% 50%, rgba(16,185,129,0.08) 0%, var(--bg) 70%);
+  }
+
+  .close h2 {
+    font-size: 64px;
+    margin-bottom: 12px;
+  }
+
+  .close .close-tagline {
+    font-size: 22px;
+    color: var(--primary);
+    margin-bottom: 48px;
+  }
+
+  .close-links {
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    margin-bottom: 40px;
+  }
+
+  .close-links a {
+    color: var(--text-secondary);
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 500;
+    transition: color 0.2s;
+  }
+
+  .close-links a:hover { color: var(--primary); }
+
+  .built-on {
+    font-size: 16px;
+    color: var(--solana);
+    font-weight: 500;
+  }
+
+  /* ── Print / PDF ── */
+  @media print {
+    .slide {
+      page-break-after: always;
+      min-height: 100vh;
+    }
+    .slide:last-child { page-break-after: avoid; }
+  }
+</style>
+</head>
+<body>
+
+<!-- Slide 1: Cover -->
+<section class="slide cover">
+  <img src="../public/logo.png" alt="TrustTap" class="cover-logo">
+  <h1>TrustTap</h1>
+  <p class="subtitle">Reputation Infrastructure for Solana Seeker</p>
+  <p class="tagline">The trust layer that makes every dApp on Seeker safer. Scores wallets 0-100 using hardware attestation, on-chain history, and cryptographic proof-of-meeting.</p>
+  <p class="meta">Dami Mustapha &nbsp;&middot;&nbsp; March 2026 &nbsp;&middot;&nbsp; trusttap.vercel.app</p>
+  <span class="slide-number">01 / 10</span>
+</section>
+
+<!-- Slide 2: Problem -->
+<section class="slide">
+  <div class="section-label">The Problem</div>
+  <h2>Crypto has no way to verify<br>the person behind a wallet.</h2>
+  <div class="stat-grid">
+    <div class="stat-card">
+      <div class="number">49%</div>
+      <div class="label">of the Arbitrum airdrop was captured by Sybil wallets</div>
+    </div>
+    <div class="stat-card">
+      <div class="number">40%</div>
+      <div class="label">year-over-year growth in P2P crypto scams</div>
+    </div>
+    <div class="stat-card">
+      <div class="number">17,000</div>
+      <div class="label">real users incorrectly rejected from legitimate airdrops</div>
+    </div>
+    <div class="stat-card">
+      <div class="number">$0</div>
+      <div class="label">reputation infrastructure on Solana Mobile today</div>
+    </div>
+  </div>
+  <span class="slide-number">02 / 10</span>
+</section>
+
+<!-- Slide 3: Solution -->
+<section class="slide">
+  <div class="section-label">The Solution</div>
+  <h2>Three layers no other<br>product has.</h2>
+  <div class="layers">
+    <div class="layer">
+      <div class="layer-num">1</div>
+      <div class="layer-content">
+        <h3>Hardware Attestation (SGT)</h3>
+        <p>Soulbound NFT tied to Seeker hardware. $500 cost-of-attack per identity. Cannot be faked, transferred, or duplicated.</p>
+      </div>
+    </div>
+    <div class="layer">
+      <div class="layer-num">2</div>
+      <div class="layer-content">
+        <h3>On-Chain Behavior Analysis</h3>
+        <p>19 Solana protocols analyzed via Helius RPC: transaction history, DeFi depth, governance participation, portfolio composition.</p>
+      </div>
+    </div>
+    <div class="layer">
+      <div class="layer-num">3</div>
+      <div class="layer-content">
+        <h3>Physical Meeting Verification</h3>
+        <p>QR scan + Ed25519 wallet signatures via Mobile Wallet Adapter. Cryptographic proof-of-meeting recorded on-chain via SPL Memo.</p>
+      </div>
+    </div>
+  </div>
+  <span class="slide-number">03 / 10</span>
+</section>
+
+<!-- Slide 4: Scoring -->
+<section class="slide">
+  <div class="section-label">Scoring Algorithm</div>
+  <h2>8 dimensions. 100 points.</h2>
+  <table class="score-table">
+    <thead>
+      <tr><th>Dimension</th><th>Max</th><th>Method</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>Device (SGT)</td><td>25</td><td>Soulbound NFT present or not</td></tr>
+      <tr><td>DeFi Depth</td><td>13</td><td>Staking + LP + lending graduated</td></tr>
+      <tr><td>Physical Meetings</td><td>12</td><td>1 meeting (3 pts) to 5+ (12 pts)</td></tr>
+      <tr><td>Financial Depth</td><td>10</td><td>Total portfolio in SOL-equivalent</td></tr>
+      <tr><td>Wallet Age</td><td>10</td><td>Asymptotic curve over time</td></tr>
+      <tr><td>Activity Volume</td><td>10</td><td>Transaction count tiers</td></tr>
+      <tr><td>Protocol Diversity</td><td>10</td><td>Unique protocols + DeFi bonuses</td></tr>
+      <tr><td>Identity</td><td>10</td><td>.skr domain (4) / .sol (2) + NFTs + governance</td></tr>
+    </tbody>
+  </table>
+  <span class="slide-number">04 / 10</span>
+</section>
+
+<!-- Slide 5: Why Seeker -->
+<section class="slide">
+  <div class="section-label">Platform Lock-In</div>
+  <h2>Why Seeker?</h2>
+  <p class="callout">TrustTap cannot exist on any other phone.</p>
+  <div class="seeker-points">
+    <div class="seeker-point">
+      <h3>SGT = $500 cost-of-attack floor</h3>
+      <p>No software wallet or browser extension can replicate a soulbound NFT tied to physical hardware. SGT is worth 25 of 100 trust points, the single largest scoring dimension.</p>
+    </div>
+    <div class="seeker-point">
+      <h3>Mobile Wallet Adapter for meeting verification</h3>
+      <p>On-device signing without exposing private keys. QR scan opens MWA, both parties sign, proof goes on-chain via SPL Memo.</p>
+    </div>
+    <div class="seeker-point">
+      <h3>SKR-native identity scoring</h3>
+      <p>.skr domains earn higher identity scores than .sol domains, rewarding Seeker-native identity adoption.</p>
+    </div>
+  </div>
+  <span class="slide-number">05 / 10</span>
+</section>
+
+<!-- Slide 6: Product -->
+<section class="slide">
+  <div class="section-label">Working Product</div>
+  <h2>Built in 9 days. Not a concept.</h2>
+  <div class="phone-row">
+    <div class="phone-frame">
+      <div class="frame"><img src="../docs/images/profile.png" alt="Trust Profile"></div>
+      <div class="caption">Trust Profile</div>
+    </div>
+    <div class="phone-frame">
+      <div class="frame"><img src="../docs/images/search.png" alt="Wallet Search"></div>
+      <div class="caption">Wallet Search</div>
+    </div>
+    <div class="phone-frame">
+      <div class="frame"><img src="../docs/images/scan.png" alt="QR Verify"></div>
+      <div class="caption">QR Verify</div>
+    </div>
+    <div class="phone-frame">
+      <div class="frame"><img src="../docs/images/shield.png" alt="Sybil Shield"></div>
+      <div class="caption">Sybil Shield</div>
+    </div>
+  </div>
+  <span class="slide-number">06 / 10</span>
+</section>
+
+<!-- Slide 7: API -->
+<section class="slide">
+  <div class="section-label">Ecosystem Value</div>
+  <h2>Open API. Any dApp can query.</h2>
+  <table class="api-table">
+    <thead>
+      <tr><th>Method</th><th>Endpoint</th><th>Description</th></tr>
+    </thead>
+    <tbody>
+      <tr><td class="method">GET</td><td class="endpoint">/api/profile/[address]</td><td>Full trust profile for a wallet</td></tr>
+      <tr><td class="method">POST</td><td class="endpoint">/api/analyze-wallet</td><td>Run wallet analysis with live Helius data</td></tr>
+      <tr><td class="method">POST</td><td class="endpoint">/api/sybil-check</td><td>Run sybil detection on a wallet</td></tr>
+      <tr><td class="method">GET</td><td class="endpoint">/api/network/[wallet]</td><td>On-chain network graph</td></tr>
+      <tr><td class="method">POST</td><td class="endpoint">/api/meeting/create</td><td>Record verified in-person meeting</td></tr>
+      <tr><td class="method">GET</td><td class="endpoint">/api/skr-balance/[address]</td><td>Check SKR token balance</td></tr>
+    </tbody>
+  </table>
+  <p class="api-note">10 serverless endpoints on Vercel. No authentication required. Free to integrate.</p>
+  <span class="slide-number">07 / 10</span>
+</section>
+
+<!-- Slide 8: Tech Stack -->
+<section class="slide">
+  <div class="section-label">Technical Foundation</div>
+  <h2>Tech Stack</h2>
+  <div class="stack-grid">
+    <div class="stack-item">
+      <div class="stack-label">Mobile App</div>
+      <div class="stack-value">React Native (Expo) + MWA</div>
+    </div>
+    <div class="stack-item">
+      <div class="stack-label">API Backend</div>
+      <div class="stack-value">Next.js 16 (Vercel)</div>
+    </div>
+    <div class="stack-item">
+      <div class="stack-label">Language</div>
+      <div class="stack-value">TypeScript (strict)</div>
+    </div>
+    <div class="stack-item">
+      <div class="stack-label">On-Chain Data</div>
+      <div class="stack-value">Helius RPC (19 protocols)</div>
+    </div>
+    <div class="stack-item">
+      <div class="stack-label">Cryptography</div>
+      <div class="stack-value">tweetnacl (Ed25519)</div>
+    </div>
+    <div class="stack-item">
+      <div class="stack-label">On-Chain Proofs</div>
+      <div class="stack-value">SPL Memo v2</div>
+    </div>
+    <div class="stack-item">
+      <div class="stack-label">Token Transfers</div>
+      <div class="stack-value">@solana/spl-token (SKR)</div>
+    </div>
+    <div class="stack-item">
+      <div class="stack-label">AI Summaries</div>
+      <div class="stack-value">Groq (Llama 3)</div>
+    </div>
+    <div class="stack-item">
+      <div class="stack-label">Testing</div>
+      <div class="stack-value">Vitest (124 passing)</div>
+    </div>
+  </div>
+  <span class="slide-number">08 / 10</span>
+</section>
+
+<!-- Slide 9: Roadmap -->
+<section class="slide">
+  <div class="section-label">Grant Roadmap</div>
+  <h2>14 weeks to production.</h2>
+  <div class="roadmap">
+    <div class="milestone">
+      <div class="milestone-badge">Weeks 1-4</div>
+      <div class="milestone-content">
+        <h3>Foundation</h3>
+        <p>Persistent trust score storage (PostgreSQL). Rate-limited public API with auth keys for high-volume integrators. dApp Store listing.</p>
+      </div>
+    </div>
+    <div class="milestone">
+      <div class="milestone-badge">Weeks 5-8</div>
+      <div class="milestone-content">
+        <h3>SKR Economy</h3>
+        <p>Bi-directional SKR tipping. SKR staking for score boosts. Token-gated API tier for premium queries.</p>
+      </div>
+    </div>
+    <div class="milestone">
+      <div class="milestone-badge">Weeks 9-12</div>
+      <div class="milestone-content">
+        <h3>Developer SDK</h3>
+        <p>npm package: @trusttap/sdk. One-line trust gate for any Solana dApp. Webhook notifications on score changes.</p>
+      </div>
+    </div>
+    <div class="milestone">
+      <div class="milestone-badge">Weeks 13-14</div>
+      <div class="milestone-content">
+        <h3>Launch</h3>
+        <p>Documentation site. Integration partnerships with 2-3 Seeker dApps. Public metrics dashboard.</p>
+      </div>
+    </div>
+  </div>
+  <span class="slide-number">09 / 10</span>
+</section>
+
+<!-- Slide 10: Close -->
+<section class="slide close">
+  <img src="../public/logo.png" alt="TrustTap" class="cover-logo">
+  <h2>TrustTap</h2>
+  <p class="close-tagline">Reputation infrastructure for Solana Seeker.</p>
+  <div class="close-links">
+    <a href="https://trusttap.vercel.app">trusttap.vercel.app</a>
+    <a href="https://github.com/dmustapha/trusttap">github.com/dmustapha/trusttap</a>
+    <a href="https://x.com/capitanoo23">@capitanoo23</a>
+  </div>
+  <p class="built-on">Built on Solana Mobile</p>
+  <span class="slide-number">10 / 10</span>
+</section>
+
+</body>
+</html>
